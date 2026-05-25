@@ -1,0 +1,101 @@
+﻿cv_index,cv_position,rank,job_index,job_position,job_company,job_location,cosine_score
+0,Senior Software Engineer,1,27,Software Development Engineer,Microsoft,"Cambridge, MA",0.1377
+0,Senior Software Engineer,2,6,DATA ARCHITECT,Businesses UNITED TECHNOLOGIES CORP. HEADQUARTERS,"New York, NY",0.0994
+0,Senior Software Engineer,3,17,"Manager, Data Scientist (AI/NLP)",KPMG,"Chicago, IL 60601",0.088
+0,Senior Software Engineer,4,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.0818
+0,Senior Software Engineer,5,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.0818
+0,Senior Software Engineer,6,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.0774
+0,Senior Software Engineer,7,15,Data Scientist,Catalina Marketing,"Atlanta, GA",0.0741
+0,Senior Software Engineer,8,5,Senior Architect 1,Nielsen,"Chicago, IL 60647",0.0738
+0,Senior Software Engineer,9,9,Data Analyst - German,Amazon.com,"Cambridge, MA",0.0735
+0,Senior Software Engineer,10,7,"Data Scientist, Operations Decision Support",Google,"Mountain View, CA",0.0734
+1,Machine Learning (ML) Engineer,1,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.1255
+1,Machine Learning (ML) Engineer,2,4,Senior Quantitative Scientist - DIS,Roche,"Belmont, CA",0.1093
+1,Machine Learning (ML) Engineer,3,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.1069
+1,Machine Learning (ML) Engineer,4,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.1046
+1,Machine Learning (ML) Engineer,5,17,"Manager, Data Scientist (AI/NLP)",KPMG,"Chicago, IL 60601",0.1037
+1,Machine Learning (ML) Engineer,6,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.1031
+1,Machine Learning (ML) Engineer,7,16,"Data Scientist, Mid",Booz Allen Hamilton,"Washington, DC",0.0961
+1,Machine Learning (ML) Engineer,8,7,"Data Scientist, Operations Decision Support",Google,"Mountain View, CA",0.0833
+1,Machine Learning (ML) Engineer,9,3,Research Analyst-Technical,New York University,"New York, NY",0.082
+1,Machine Learning (ML) Engineer,10,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.0795
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",1,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.1065
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",2,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.0941
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",3,27,Software Development Engineer,Microsoft,"Cambridge, MA",0.0887
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",4,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.0878
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",5,5,Senior Architect 1,Nielsen,"Chicago, IL 60647",0.0739
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",6,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.0736
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",7,29,"Associate Manager, Agile Paid Media",The Home Depot,"Atlanta, GA",0.0696
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",8,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.0634
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",9,15,Data Scientist,Catalina Marketing,"Atlanta, GA",0.0627
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",10,17,"Manager, Data Scientist (AI/NLP)",KPMG,"Chicago, IL 60601",0.0566
+3,Business Development Executive,1,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.1369
+3,Business Development Executive,2,3,Research Analyst-Technical,New York University,"New York, NY",0.0727
+3,Business Development Executive,3,16,"Data Scientist, Mid",Booz Allen Hamilton,"Washington, DC",0.0702
+3,Business Development Executive,4,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.0663
+3,Business Development Executive,5,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.0655
+3,Business Development Executive,6,6,DATA ARCHITECT,Businesses UNITED TECHNOLOGIES CORP. HEADQUARTERS,"New York, NY",0.0634
+3,Business Development Executive,7,15,Data Scientist,Catalina Marketing,"Atlanta, GA",0.0627
+3,Business Development Executive,8,7,"Data Scientist, Operations Decision Support",Google,"Mountain View, CA",0.0616
+3,Business Development Executive,9,17,"Manager, Data Scientist (AI/NLP)",KPMG,"Chicago, IL 60601",0.0603
+3,Business Development Executive,10,9,Data Analyst - German,Amazon.com,"Cambridge, MA",0.0581
+4,Senior iOS Engineer,1,3,Research Analyst-Technical,New York University,"New York, NY",0.0932
+4,Senior iOS Engineer,2,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.0899
+4,Senior iOS Engineer,3,16,"Data Scientist, Mid",Booz Allen Hamilton,"Washington, DC",0.0878
+4,Senior iOS Engineer,4,21,Data Scientist,Diverse Lynx,"New York, NY",0.0864
+4,Senior iOS Engineer,5,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.0628
+4,Senior iOS Engineer,6,6,DATA ARCHITECT,Businesses UNITED TECHNOLOGIES CORP. HEADQUARTERS,"New York, NY",0.0598
+4,Senior iOS Engineer,7,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.0582
+4,Senior iOS Engineer,8,4,Senior Quantitative Scientist - DIS,Roche,"Belmont, CA",0.0543
+4,Senior iOS Engineer,9,29,"Associate Manager, Agile Paid Media",The Home Depot,"Atlanta, GA",0.053
+4,Senior iOS Engineer,10,15,Data Scientist,Catalina Marketing,"Atlanta, GA",0.0522
+5,AI Engineer,1,7,"Data Scientist, Operations Decision Support",Google,"Mountain View, CA",0.1047
+5,AI Engineer,2,27,Software Development Engineer,Microsoft,"Cambridge, MA",0.0995
+5,AI Engineer,3,5,Senior Architect 1,Nielsen,"Chicago, IL 60647",0.095
+5,AI Engineer,4,6,DATA ARCHITECT,Businesses UNITED TECHNOLOGIES CORP. HEADQUARTERS,"New York, NY",0.0943
+5,AI Engineer,5,4,Senior Quantitative Scientist - DIS,Roche,"Belmont, CA",0.0821
+5,AI Engineer,6,15,Data Scientist,Catalina Marketing,"Atlanta, GA",0.0763
+5,AI Engineer,7,16,"Data Scientist, Mid",Booz Allen Hamilton,"Washington, DC",0.075
+5,AI Engineer,8,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.0721
+5,AI Engineer,9,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.0691
+5,AI Engineer,10,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.0678
+6,Senior iOS Engineer,1,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.107
+6,Senior iOS Engineer,2,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.0752
+6,Senior iOS Engineer,3,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.0573
+6,Senior iOS Engineer,4,6,DATA ARCHITECT,Businesses UNITED TECHNOLOGIES CORP. HEADQUARTERS,"New York, NY",0.0566
+6,Senior iOS Engineer,5,3,Research Analyst-Technical,New York University,"New York, NY",0.0558
+6,Senior iOS Engineer,6,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.0539
+6,Senior iOS Engineer,7,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.0509
+6,Senior iOS Engineer,8,4,Senior Quantitative Scientist - DIS,Roche,"Belmont, CA",0.0505
+6,Senior iOS Engineer,9,5,Senior Architect 1,Nielsen,"Chicago, IL 60647",0.0489
+6,Senior iOS Engineer,10,9,Data Analyst - German,Amazon.com,"Cambridge, MA",0.0425
+7,Senior iOS Engineer,1,6,DATA ARCHITECT,Businesses UNITED TECHNOLOGIES CORP. HEADQUARTERS,"New York, NY",0.0682
+7,Senior iOS Engineer,2,0,Scientist,Organovo,"San Diego, CA",0.0607
+7,Senior iOS Engineer,3,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.0582
+7,Senior iOS Engineer,4,29,"Associate Manager, Agile Paid Media",The Home Depot,"Atlanta, GA",0.0515
+7,Senior iOS Engineer,5,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.0509
+7,Senior iOS Engineer,6,4,Senior Quantitative Scientist - DIS,Roche,"Belmont, CA",0.05
+7,Senior iOS Engineer,7,3,Research Analyst-Technical,New York University,"New York, NY",0.0482
+7,Senior iOS Engineer,8,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.0477
+7,Senior iOS Engineer,9,27,Software Development Engineer,Microsoft,"Cambridge, MA",0.0474
+7,Senior iOS Engineer,10,15,Data Scientist,Catalina Marketing,"Atlanta, GA",0.0474
+8,Mechanical Engineer,1,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.1092
+8,Mechanical Engineer,2,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.0849
+8,Mechanical Engineer,3,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.0751
+8,Mechanical Engineer,4,4,Senior Quantitative Scientist - DIS,Roche,"Belmont, CA",0.0654
+8,Mechanical Engineer,5,16,"Data Scientist, Mid",Booz Allen Hamilton,"Washington, DC",0.0653
+8,Mechanical Engineer,6,24,Research Epidemiologist,Piedmont Healthcare,"Atlanta, GA 30363 ",0.0642
+8,Mechanical Engineer,7,17,"Manager, Data Scientist (AI/NLP)",KPMG,"Chicago, IL 60601",0.0642
+8,Mechanical Engineer,8,3,Research Analyst-Technical,New York University,"New York, NY",0.0642
+8,Mechanical Engineer,9,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.0627
+8,Mechanical Engineer,10,7,"Data Scientist, Operations Decision Support",Google,"Mountain View, CA",0.0611
+9,Business Development Executive,1,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.1024
+9,Business Development Executive,2,16,"Data Scientist, Mid",Booz Allen Hamilton,"Washington, DC",0.0796
+9,Business Development Executive,3,17,"Manager, Data Scientist (AI/NLP)",KPMG,"Chicago, IL 60601",0.076
+9,Business Development Executive,4,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.0723
+9,Business Development Executive,5,13,Networks Technology Strategy and Partnerships Manager,Samsung Research America,"Mountain View, CA",0.0698
+9,Business Development Executive,6,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.0693
+9,Business Development Executive,7,4,Senior Quantitative Scientist - DIS,Roche,"Belmont, CA",0.0661
+9,Business Development Executive,8,15,Data Scientist,Catalina Marketing,"Atlanta, GA",0.0614
+9,Business Development Executive,9,5,Senior Architect 1,Nielsen,"Chicago, IL 60647",0.0602
+9,Business Development Executive,10,6,DATA ARCHITECT,Businesses UNITED TECHNOLOGIES CORP. HEADQUARTERS,"New York, NY",0.0577

@@ -1,0 +1,1511 @@
+﻿cv_index,cv_position,rank,job_index,job_position,job_company,job_location,cosine_score
+0,Senior Software Engineer,1,124,"Technical Evangelist – Database, Analytics, and Machine Learning",Amazon.com,"Atlanta, GA",0.6962
+0,Senior Software Engineer,2,27,Software Development Engineer,Microsoft,"Cambridge, MA",0.6956
+0,Senior Software Engineer,3,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.6843
+0,Senior Software Engineer,4,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6834
+0,Senior Software Engineer,5,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.6771
+0,Senior Software Engineer,6,289,Big Data SW Engineer,KPMG,"New York, NY 10154 ",0.6764
+0,Senior Software Engineer,7,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.6538
+0,Senior Software Engineer,8,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.637
+0,Senior Software Engineer,9,40,Senior Data Scientist - California,Teradata,"San Francisco, CA 94105",0.6358
+0,Senior Software Engineer,10,376,Data Scientist.,Lorven Technologies,"New York, NY",0.6337
+1,Machine Learning (ML) Engineer,1,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.6926
+1,Machine Learning (ML) Engineer,2,157,Data Scientist,The Coca-Cola Company,"Atlanta, GA 30301 ",0.689
+1,Machine Learning (ML) Engineer,3,59,"Data Scientist, Marketing",Rally Health,"San Francisco, CA",0.688
+1,Machine Learning (ML) Engineer,4,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.6855
+1,Machine Learning (ML) Engineer,5,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.6678
+1,Machine Learning (ML) Engineer,6,111,Business Analytics Analyst,Delve,"Boulder, CO",0.6655
+1,Machine Learning (ML) Engineer,7,122,"Data Analyst, Business Operations",DataRobot,"Boston, MA 02109",0.6504
+1,Machine Learning (ML) Engineer,8,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.647
+1,Machine Learning (ML) Engineer,9,312,Data Scientist II,Elevate,"San Diego, CA",0.6463
+1,Machine Learning (ML) Engineer,10,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.6416
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",1,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.5904
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",2,363,Machine Learning Engineer - Center of Excellence - Associate,JP Morgan Chase,"New York, NY 10001 ",0.588
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",3,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.5789
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",4,376,Data Scientist.,Lorven Technologies,"New York, NY",0.574
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",5,250,Senior Software Engineer,BlackLocus,"Austin, TX 78701",0.5736
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",6,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5684
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",7,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.5522
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",8,229,"Director, Data Science",84.51°,"Chicago, IL",0.5433
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",9,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.5422
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",10,312,Data Scientist II,Elevate,"San Diego, CA",0.5386
+3,Business Development Executive,1,162,"Sr. Data Engineer, International Consumer FP&A",Amazon.com,"Seattle, WA",0.481
+3,Business Development Executive,2,312,Data Scientist II,Elevate,"San Diego, CA",0.4668
+3,Business Development Executive,3,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4667
+3,Business Development Executive,4,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.4657
+3,Business Development Executive,5,16,"Data Scientist, Mid",Booz Allen Hamilton,"Washington, DC",0.4652
+3,Business Development Executive,6,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.4645
+3,Business Development Executive,7,21,Data Scientist,Diverse Lynx,"New York, NY",0.4645
+3,Business Development Executive,8,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.459
+3,Business Development Executive,9,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.4544
+3,Business Development Executive,10,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.4531
+4,Senior iOS Engineer,1,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.449
+4,Senior iOS Engineer,2,314,Quantitative Finance Analyst,Bank of America,"Atlanta, GA 30308 ",0.4406
+4,Senior iOS Engineer,3,274,Senior Data Scientist,Prudential,"Newark, NJ",0.4248
+4,Senior iOS Engineer,4,397,Research Analyst,D.A. Davidson & Co.,"Seattle, WA 98104",0.4147
+4,Senior iOS Engineer,5,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4035
+4,Senior iOS Engineer,6,399,Operations Research Analyst,Grant Thornton,"Washington, DC 20036",0.3995
+4,Senior iOS Engineer,7,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.3986
+4,Senior iOS Engineer,8,312,Data Scientist II,Elevate,"San Diego, CA",0.397
+4,Senior iOS Engineer,9,297,Validated Business Systems Analyst,HawkinsPointPartners,"Cambridge, MA 02138",0.3968
+4,Senior iOS Engineer,10,323,Quantitative Corporate Finance Analyst,Global Atlantic Financial Group,"New York, NY",0.3889
+5,AI Engineer,1,267,IT Cloud Engineer (Active Top Secret),Jacobs,"Washington, DC",0.5872
+5,AI Engineer,2,394,Senior Security Technical Program Manager,The Climate Corporation,"Seattle, WA",0.5497
+5,AI Engineer,3,214,Security Engineer,Jacobs,"Washington, DC",0.541
+5,AI Engineer,4,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.5353
+5,AI Engineer,5,354,Front End Developer,Jacobs,"Washington, DC",0.5036
+5,AI Engineer,6,391,Information Security Lead - New Ventures Technology,McKinsey & Company,"Chicago, IL",0.4855
+5,AI Engineer,7,216,Computer Network Defense (CND) Analyst,ICF,"Atlanta, GA",0.4729
+5,AI Engineer,8,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.4608
+5,AI Engineer,9,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.4599
+5,AI Engineer,10,230,Data & Applied Scientist II,Microsoft,"Cambridge, MA",0.4542
+6,Senior iOS Engineer,1,27,Software Development Engineer,Microsoft,"Cambridge, MA",0.3992
+6,Senior iOS Engineer,2,208,Software Development Engineer - Alexa Machine Learning,Amazon.com,"Cambridge, MA",0.3964
+6,Senior iOS Engineer,3,353,"Software Engineer, Analytics",Humanyze,"Boston, MA 02114",0.394
+6,Senior iOS Engineer,4,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.3893
+6,Senior iOS Engineer,5,287,Software Development Manager,Lab126,"Seattle, WA",0.3844
+6,Senior iOS Engineer,6,50,Data Scientist,Groupon,"San Francisco, CA 94115",0.374
+6,Senior iOS Engineer,7,296,"Software Development Manager, Speech",Amazon.com,"Sunnyvale, CA",0.3682
+6,Senior iOS Engineer,8,363,Machine Learning Engineer - Center of Excellence - Associate,JP Morgan Chase,"New York, NY 10001 ",0.3663
+6,Senior iOS Engineer,9,267,IT Cloud Engineer (Active Top Secret),Jacobs,"Washington, DC",0.3634
+6,Senior iOS Engineer,10,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.3565
+7,Senior iOS Engineer,1,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5316
+7,Senior iOS Engineer,2,357,Industrial Operations Manager (663748),Ball Aerospace,"Boulder, CO",0.5297
+7,Senior iOS Engineer,3,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.519
+7,Senior iOS Engineer,4,154,Automation Engineer,Zymergen,"Emeryville, CA 94608",0.5089
+7,Senior iOS Engineer,5,169,Project Engineer II - Electronic Systems Integration & Test (659059) - Security clearance required,Ball Aerospace,"Boulder, CO",0.4901
+7,Senior iOS Engineer,6,163,Technical Specialist I-Mechanical (663397),Ball Aerospace,"Boulder, CO",0.4732
+7,Senior iOS Engineer,7,57,Senior Firmware Engineer - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.4691
+7,Senior iOS Engineer,8,137,Associate Systems Analyst,Broad Institute,"Cambridge, MA",0.4685
+7,Senior iOS Engineer,9,332,QA Engineer,Schireson,"Boston, MA",0.4674
+7,Senior iOS Engineer,10,368,"Software Development Engineer, Measurement Automation",Amazon.com,"Seattle, WA",0.465
+8,Mechanical Engineer,1,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.692
+8,Mechanical Engineer,2,376,Data Scientist.,Lorven Technologies,"New York, NY",0.6884
+8,Mechanical Engineer,3,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.6271
+8,Mechanical Engineer,4,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.627
+8,Mechanical Engineer,5,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.6245
+8,Mechanical Engineer,6,312,Data Scientist II,Elevate,"San Diego, CA",0.6207
+8,Mechanical Engineer,7,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.6167
+8,Mechanical Engineer,8,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.6113
+8,Mechanical Engineer,9,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.6064
+8,Mechanical Engineer,10,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.5986
+9,Business Development Executive,1,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5462
+9,Business Development Executive,2,88,Sales Engineer,Anaconda,"Austin, TX",0.5248
+9,Business Development Executive,3,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.5136
+9,Business Development Executive,4,229,"Director, Data Science",84.51°,"Chicago, IL",0.4761
+9,Business Development Executive,5,333,Research Data Scientist,Amazon.com,"Cambridge, MA",0.4722
+9,Business Development Executive,6,353,"Software Engineer, Analytics",Humanyze,"Boston, MA 02114",0.4708
+9,Business Development Executive,7,250,Senior Software Engineer,BlackLocus,"Austin, TX 78701",0.4691
+9,Business Development Executive,8,301,"Staff Engineer, Machine Learning (macys.com)",Macy's,"San Francisco, CA",0.4588
+9,Business Development Executive,9,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.4585
+9,Business Development Executive,10,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.4446
+10,Mechanical Designer,1,58,"Staffing Services Specialist, Hiring Committee Training",Google,"Mountain View, CA",0.552
+10,Mechanical Designer,2,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.511
+10,Mechanical Designer,3,362,Data Scientist I,Carney,"Washington, DC",0.5062
+10,Mechanical Designer,4,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.5054
+10,Mechanical Designer,5,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.503
+10,Mechanical Designer,6,312,Data Scientist II,Elevate,"San Diego, CA",0.5029
+10,Mechanical Designer,7,383,Data Science Curriculum Developer,Galvanize,"San Francisco, CA",0.4987
+10,Mechanical Designer,8,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4967
+10,Mechanical Designer,9,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.4967
+10,Mechanical Designer,10,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.4937
+11,Asst. Manager/ Manger (Administrative),1,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5661
+11,Asst. Manager/ Manger (Administrative),2,312,Data Scientist II,Elevate,"San Diego, CA",0.5402
+11,Asst. Manager/ Manger (Administrative),3,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.5373
+11,Asst. Manager/ Manger (Administrative),4,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.5276
+11,Asst. Manager/ Manger (Administrative),5,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.5258
+11,Asst. Manager/ Manger (Administrative),6,376,Data Scientist.,Lorven Technologies,"New York, NY",0.5257
+11,Asst. Manager/ Manger (Administrative),7,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5226
+11,Asst. Manager/ Manger (Administrative),8,87,"Data Scientist, Insights Team (Siri Search and Knowledge)",Apple,"San Francisco, CA 94114",0.5203
+11,Asst. Manager/ Manger (Administrative),9,88,Sales Engineer,Anaconda,"Austin, TX",0.5161
+11,Asst. Manager/ Manger (Administrative),10,40,Senior Data Scientist - California,Teradata,"San Francisco, CA 94105",0.5108
+12,Machine Learning (ML) Engineer,1,312,Data Scientist II,Elevate,"San Diego, CA",0.6266
+12,Machine Learning (ML) Engineer,2,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.6251
+12,Machine Learning (ML) Engineer,3,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.6156
+12,Machine Learning (ML) Engineer,4,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.6108
+12,Machine Learning (ML) Engineer,5,59,"Data Scientist, Marketing",Rally Health,"San Francisco, CA",0.6049
+12,Machine Learning (ML) Engineer,6,111,Business Analytics Analyst,Delve,"Boulder, CO",0.5989
+12,Machine Learning (ML) Engineer,7,157,Data Scientist,The Coca-Cola Company,"Atlanta, GA 30301 ",0.5957
+12,Machine Learning (ML) Engineer,8,50,Data Scientist,Groupon,"San Francisco, CA 94115",0.5897
+12,Machine Learning (ML) Engineer,9,395,"Sr. Manager , Data Science Forecasting",Newell Brands,"Atlanta, GA",0.5895
+12,Machine Learning (ML) Engineer,10,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.5895
+13,Mechanical Designer,1,376,Data Scientist.,Lorven Technologies,"New York, NY",0.6157
+13,Mechanical Designer,2,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.6121
+13,Mechanical Designer,3,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.5974
+13,Mechanical Designer,4,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.5918
+13,Mechanical Designer,5,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.5835
+13,Mechanical Designer,6,233,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.5825
+13,Mechanical Designer,7,52,Principal Machine / Deep Learning Scientist,JD.com,"Mountain View, CA",0.5708
+13,Mechanical Designer,8,109,NLP Engineer,UniBit Inc.,"Boston, MA",0.5703
+13,Mechanical Designer,9,336,"Data Scientist, Machine Learning & AI",Etsy,"Brooklyn, NY",0.5577
+13,Mechanical Designer,10,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.5555
+14,Mechanical Engineer,1,167,Senior Mobile Developer (React Native),R/GA,"Austin, TX",0.6336
+14,Mechanical Engineer,2,339,Software Engineer - Android,Quora,"Mountain View, CA",0.58
+14,Mechanical Engineer,3,125,Senior Front-End Engineer,Usermind,"Seattle, WA",0.4978
+14,Mechanical Engineer,4,322,"Software Engineer, Computational Photography",Google,"Mountain View, CA",0.4849
+14,Mechanical Engineer,5,307,Web Development Engineer,Amazon.com,"Seattle, WA",0.4408
+14,Mechanical Engineer,6,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4377
+14,Mechanical Engineer,7,51,IoT Intern (Computer Science/Electrical Engineering),Delos,"New York, NY 10014 ",0.4365
+14,Mechanical Engineer,8,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.4362
+14,Mechanical Engineer,9,254,Senior Developer,J.E. Ranta Associates,"Boston, MA 02110",0.436
+14,Mechanical Engineer,10,387,Undergraduate Internship/Co-op Program - Data Scientist,Central Intelligence Agency,"Washington, DC",0.434
+15,Database Administrator (DBA),1,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.5834
+15,Database Administrator (DBA),2,124,"Technical Evangelist – Database, Analytics, and Machine Learning",Amazon.com,"Atlanta, GA",0.5768
+15,Database Administrator (DBA),3,312,Data Scientist II,Elevate,"San Diego, CA",0.5577
+15,Database Administrator (DBA),4,87,"Data Scientist, Insights Team (Siri Search and Knowledge)",Apple,"San Francisco, CA 94114",0.5537
+15,Database Administrator (DBA),5,250,Senior Software Engineer,BlackLocus,"Austin, TX 78701",0.5231
+15,Database Administrator (DBA),6,376,Data Scientist.,Lorven Technologies,"New York, NY",0.5224
+15,Database Administrator (DBA),7,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5222
+15,Database Administrator (DBA),8,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5212
+15,Database Administrator (DBA),9,287,Software Development Manager,Lab126,"Seattle, WA",0.517
+15,Database Administrator (DBA),10,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.5116
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",1,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5109
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",2,267,IT Cloud Engineer (Active Top Secret),Jacobs,"Washington, DC",0.5033
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",3,137,Associate Systems Analyst,Broad Institute,"Cambridge, MA",0.4837
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",4,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.4796
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",5,354,Front End Developer,Jacobs,"Washington, DC",0.4722
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",6,230,Data & Applied Scientist II,Microsoft,"Cambridge, MA",0.4722
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",7,261,Senior Operations Research Analyst,Wayfair,"Boston, MA 02116",0.4698
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",8,399,Operations Research Analyst,Grant Thornton,"Washington, DC 20036",0.4696
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",9,266,Backend Data Engineer,Tier1 IT,"New York, NY",0.4694
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",10,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4686
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",1,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.6271
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",2,376,Data Scientist.,Lorven Technologies,"New York, NY",0.6018
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",3,374,Sr Deep Learning Software Engineer,NVIDIA,"Boulder, CO 80302",0.5632
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",4,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5547
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",5,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.5522
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",6,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.5512
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",7,301,"Staff Engineer, Machine Learning (macys.com)",Macy's,"San Francisco, CA",0.5468
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",8,52,Principal Machine / Deep Learning Scientist,JD.com,"Mountain View, CA",0.5455
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",9,233,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.5379
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",10,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.5285
+18,Project Coordinator (Civil),1,167,Senior Mobile Developer (React Native),R/GA,"Austin, TX",0.621
+18,Project Coordinator (Civil),2,339,Software Engineer - Android,Quora,"Mountain View, CA",0.5913
+18,Project Coordinator (Civil),3,125,Senior Front-End Engineer,Usermind,"Seattle, WA",0.5034
+18,Project Coordinator (Civil),4,322,"Software Engineer, Computational Photography",Google,"Mountain View, CA",0.4942
+18,Project Coordinator (Civil),5,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4706
+18,Project Coordinator (Civil),6,387,Undergraduate Internship/Co-op Program - Data Scientist,Central Intelligence Agency,"Washington, DC",0.4684
+18,Project Coordinator (Civil),7,254,Senior Developer,J.E. Ranta Associates,"Boston, MA 02110",0.4674
+18,Project Coordinator (Civil),8,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.4649
+18,Project Coordinator (Civil),9,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.4526
+18,Project Coordinator (Civil),10,310,"Principal Software Engineer, Azure Databricks",Microsoft,"Redmond, WA 98052",0.4513
+19,Executive/ Sr. Executive -IT,1,376,Data Scientist.,Lorven Technologies,"New York, NY",0.5998
+19,Executive/ Sr. Executive -IT,2,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.5209
+19,Executive/ Sr. Executive -IT,3,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.5199
+19,Executive/ Sr. Executive -IT,4,230,Data & Applied Scientist II,Microsoft,"Cambridge, MA",0.5048
+19,Executive/ Sr. Executive -IT,5,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5042
+19,Executive/ Sr. Executive -IT,6,87,"Data Scientist, Insights Team (Siri Search and Knowledge)",Apple,"San Francisco, CA 94114",0.5038
+19,Executive/ Sr. Executive -IT,7,229,"Director, Data Science",84.51°,"Chicago, IL",0.5018
+19,Executive/ Sr. Executive -IT,8,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.5008
+19,Executive/ Sr. Executive -IT,9,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.4921
+19,Executive/ Sr. Executive -IT,10,336,"Data Scientist, Machine Learning & AI",Etsy,"Brooklyn, NY",0.4831
+20,Mechanical Engineer,1,371,Sales Director - Federal,Zoomdata,"Washington, DC",0.4533
+20,Mechanical Engineer,2,373,Data Scientist,Inspire Brands,"Atlanta, GA",0.4433
+20,Mechanical Engineer,3,69,Business Intelligence Research Analyst,Group One Trading,"New York, NY",0.4405
+20,Mechanical Engineer,4,297,Validated Business Systems Analyst,HawkinsPointPartners,"Cambridge, MA 02138",0.4257
+20,Mechanical Engineer,5,282,"Director, Data Science",Capital One,"New York, NY 10261",0.4236
+20,Mechanical Engineer,6,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.4234
+20,Mechanical Engineer,7,395,"Sr. Manager , Data Science Forecasting",Newell Brands,"Atlanta, GA",0.4213
+20,Mechanical Engineer,8,274,Senior Data Scientist,Prudential,"Newark, NJ",0.421
+20,Mechanical Engineer,9,238,Quantitative Analyst,BMO Financial Group,"Chicago, IL",0.4152
+20,Mechanical Engineer,10,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.4119
+21,Network Support Engineer,1,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.5375
+21,Network Support Engineer,2,361,Data Engineer,Gallup,"Atlanta, GA",0.531
+21,Network Support Engineer,3,362,Data Scientist I,Carney,"Washington, DC",0.529
+21,Network Support Engineer,4,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5175
+21,Network Support Engineer,5,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.5173
+21,Network Support Engineer,6,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.5126
+21,Network Support Engineer,7,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.5104
+21,Network Support Engineer,8,392,Sr. Principal Data Scientist - Advanced Research & Analytics,UnitedHealth Group,"Chicago, IL 60290",0.5095
+21,Network Support Engineer,9,58,"Staffing Services Specialist, Hiring Committee Training",Google,"Mountain View, CA",0.5087
+21,Network Support Engineer,10,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5086
+22,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",1,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.6893
+22,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",2,386,"Machine Learning Engineer – Build large, Cloud based ML systems",Camden Kelly Corporation,"Los Angeles, CA",0.6726
+22,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",3,336,"Data Scientist, Machine Learning & AI",Etsy,"Brooklyn, NY",0.6722
+22,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",4,250,Senior Software Engineer,BlackLocus,"Austin, TX 78701",0.6705
+22,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",5,376,Data Scientist.,Lorven Technologies,"New York, NY",0.6658
+22,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",6,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.6549
+22,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",7,263,"Sr. Product Manager - Technical, Home Innovation",Amazon.com,"Seattle, WA",0.6514
+22,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",8,301,"Staff Engineer, Machine Learning (macys.com)",Macy's,"San Francisco, CA",0.6492
+22,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",9,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.645
+22,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",10,229,"Director, Data Science",84.51°,"Chicago, IL",0.6381
+23,Intern (Generative AI Engineering - 2D/3D Image Generation),1,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.5266
+23,Intern (Generative AI Engineering - 2D/3D Image Generation),2,357,Industrial Operations Manager (663748),Ball Aerospace,"Boulder, CO",0.5254
+23,Intern (Generative AI Engineering - 2D/3D Image Generation),3,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.5154
+23,Intern (Generative AI Engineering - 2D/3D Image Generation),4,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5147
+23,Intern (Generative AI Engineering - 2D/3D Image Generation),5,58,"Staffing Services Specialist, Hiring Committee Training",Google,"Mountain View, CA",0.4901
+23,Intern (Generative AI Engineering - 2D/3D Image Generation),6,93,Environmental Scientist,Eagle SNG,"Parsippany, NJ",0.4755
+23,Intern (Generative AI Engineering - 2D/3D Image Generation),7,154,Automation Engineer,Zymergen,"Emeryville, CA 94608",0.4731
+23,Intern (Generative AI Engineering - 2D/3D Image Generation),8,184,Water Resources Engineer 5,CDM Smith,"Austin, TX 78727",0.4697
+23,Intern (Generative AI Engineering - 2D/3D Image Generation),9,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.4639
+23,Intern (Generative AI Engineering - 2D/3D Image Generation),10,261,Senior Operations Research Analyst,Wayfair,"Boston, MA 02116",0.4608
+24,Executive - VAT,1,312,Data Scientist II,Elevate,"San Diego, CA",0.6046
+24,Executive - VAT,2,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.5997
+24,Executive - VAT,3,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5858
+24,Executive - VAT,4,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.5733
+24,Executive - VAT,5,122,"Data Analyst, Business Operations",DataRobot,"Boston, MA 02109",0.5583
+24,Executive - VAT,6,59,"Data Scientist, Marketing",Rally Health,"San Francisco, CA",0.5567
+24,Executive - VAT,7,229,"Director, Data Science",84.51°,"Chicago, IL",0.5548
+24,Executive - VAT,8,290,Associate Architect,Microsoft,"Seattle, WA 98188",0.5536
+24,Executive - VAT,9,88,Sales Engineer,Anaconda,"Austin, TX",0.5535
+24,Executive - VAT,10,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5521
+25,Mechanical Engineer,1,307,Web Development Engineer,Amazon.com,"Seattle, WA",0.689
+25,Mechanical Engineer,2,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.579
+25,Mechanical Engineer,3,347,Principal Engineer,ZestFinance,"Los Angeles, CA",0.5619
+25,Mechanical Engineer,4,254,Senior Developer,J.E. Ranta Associates,"Boston, MA 02110",0.5461
+25,Mechanical Engineer,5,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.5408
+25,Mechanical Engineer,6,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.5379
+25,Mechanical Engineer,7,324,"Lead Data Science Instructor, Principal Data Scientist",Galvanize,"San Francisco, CA",0.5328
+25,Mechanical Engineer,8,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.5278
+25,Mechanical Engineer,9,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.5223
+25,Mechanical Engineer,10,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.5207
+26,Sr.Officer / Executive - Internal Audit,1,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.5305
+26,Sr.Officer / Executive - Internal Audit,2,312,Data Scientist II,Elevate,"San Diego, CA",0.4992
+26,Sr.Officer / Executive - Internal Audit,3,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.4981
+26,Sr.Officer / Executive - Internal Audit,4,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4887
+26,Sr.Officer / Executive - Internal Audit,5,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.4723
+26,Sr.Officer / Executive - Internal Audit,6,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.4696
+26,Sr.Officer / Executive - Internal Audit,7,164,Real World Data Scientist - W2 only - 104537,Syneos Health (previously INC Research/inVentiv Health),"San Francisco, CA",0.4671
+26,Sr.Officer / Executive - Internal Audit,8,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.4563
+26,Sr.Officer / Executive - Internal Audit,9,219,Data and Policy Analyst - Statistical Programmer,Acumen LLC,"Burlingame, CA 94010",0.4522
+26,Sr.Officer / Executive - Internal Audit,10,395,"Sr. Manager , Data Science Forecasting",Newell Brands,"Atlanta, GA",0.4489
+27,Management Trainee - Mechanical,1,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.6169
+27,Management Trainee - Mechanical,2,376,Data Scientist.,Lorven Technologies,"New York, NY",0.596
+27,Management Trainee - Mechanical,3,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.5914
+27,Management Trainee - Mechanical,4,208,Software Development Engineer - Alexa Machine Learning,Amazon.com,"Cambridge, MA",0.5834
+27,Management Trainee - Mechanical,5,296,"Software Development Manager, Speech",Amazon.com,"Sunnyvale, CA",0.5673
+27,Management Trainee - Mechanical,6,287,Software Development Manager,Lab126,"Seattle, WA",0.5634
+27,Management Trainee - Mechanical,7,233,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.5579
+27,Management Trainee - Mechanical,8,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5557
+27,Management Trainee - Mechanical,9,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.5504
+27,Management Trainee - Mechanical,10,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.545
+28,Machine Learning (ML) Engineer,1,266,Backend Data Engineer,Tier1 IT,"New York, NY",0.538
+28,Machine Learning (ML) Engineer,2,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4977
+28,Machine Learning (ML) Engineer,3,198,Data Engineer,Beeswax,"New York, NY",0.4841
+28,Machine Learning (ML) Engineer,4,333,Research Data Scientist,Amazon.com,"Cambridge, MA",0.4572
+28,Machine Learning (ML) Engineer,5,49,Engineering Leadership - Data Engineering,Riot Games,"Los Angeles, CA",0.4493
+28,Machine Learning (ML) Engineer,6,5,Senior Architect 1,Nielsen,"Chicago, IL 60647",0.4451
+28,Machine Learning (ML) Engineer,7,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.4434
+28,Machine Learning (ML) Engineer,8,347,Principal Engineer,ZestFinance,"Los Angeles, CA",0.4381
+28,Machine Learning (ML) Engineer,9,269,"Manager, Software Development- Alexa AI- Seattle",Amazon.com,"Seattle, WA",0.4333
+28,Machine Learning (ML) Engineer,10,364,Senior Software Engineer,Clockwork Solutions,"Austin, TX 78746",0.4305
+29,AI Engineer,1,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5724
+29,AI Engineer,2,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.5712
+29,AI Engineer,3,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.5699
+29,AI Engineer,4,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.5606
+29,AI Engineer,5,376,Data Scientist.,Lorven Technologies,"New York, NY",0.5569
+29,AI Engineer,6,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.556
+29,AI Engineer,7,287,Software Development Manager,Lab126,"Seattle, WA",0.5522
+29,AI Engineer,8,208,Software Development Engineer - Alexa Machine Learning,Amazon.com,"Cambridge, MA",0.5512
+29,AI Engineer,9,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.548
+29,AI Engineer,10,87,"Data Scientist, Insights Team (Siri Search and Knowledge)",Apple,"San Francisco, CA 94114",0.5468
+30,HR Officer,1,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.6288
+30,HR Officer,2,283,Deep Learning Scientist,Harnham,"San Francisco, CA",0.6184
+30,HR Officer,3,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6169
+30,HR Officer,4,376,Data Scientist.,Lorven Technologies,"New York, NY",0.5982
+30,HR Officer,5,301,"Staff Engineer, Machine Learning (macys.com)",Macy's,"San Francisco, CA",0.5946
+30,HR Officer,6,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.5877
+30,HR Officer,7,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.5845
+30,HR Officer,8,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.5759
+30,HR Officer,9,296,"Software Development Manager, Speech",Amazon.com,"Sunnyvale, CA",0.5708
+30,HR Officer,10,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.5626
+31,DevOps Engineer,1,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.6246
+31,DevOps Engineer,2,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.619
+31,DevOps Engineer,3,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.6065
+31,DevOps Engineer,4,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.6035
+31,DevOps Engineer,5,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.5903
+31,DevOps Engineer,6,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.5818
+31,DevOps Engineer,7,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.5793
+31,DevOps Engineer,8,347,Principal Engineer,ZestFinance,"Los Angeles, CA",0.5676
+31,DevOps Engineer,9,376,Data Scientist.,Lorven Technologies,"New York, NY",0.5613
+31,DevOps Engineer,10,137,Associate Systems Analyst,Broad Institute,"Cambridge, MA",0.5581
+32,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",1,275,Lead Analytic Scientist (AI/Machine Learning/Java),FICO,"San Diego, CA",0.4771
+32,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",2,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.4706
+32,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",3,261,Senior Operations Research Analyst,Wayfair,"Boston, MA 02116",0.4691
+32,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",4,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.4638
+32,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",5,95,Quantitative Marketing Analyst,A Place for Mom,"Seattle, WA",0.46
+32,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",6,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4543
+32,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",7,395,"Sr. Manager , Data Science Forecasting",Newell Brands,"Atlanta, GA",0.4541
+32,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",8,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.4531
+32,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",9,50,Data Scientist,Groupon,"San Francisco, CA 94115",0.4528
+32,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",10,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.4511
+33,Senior iOS Engineer,1,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.5724
+33,Senior iOS Engineer,2,353,"Software Engineer, Analytics",Humanyze,"Boston, MA 02114",0.5473
+33,Senior iOS Engineer,3,393,"Data Scientist, Natural Language Processing (NLP) - Amazon AI",Amazon.com,"Seattle, WA",0.5461
+33,Senior iOS Engineer,4,333,Research Data Scientist,Amazon.com,"Cambridge, MA",0.5276
+33,Senior iOS Engineer,5,208,Software Development Engineer - Alexa Machine Learning,Amazon.com,"Cambridge, MA",0.5091
+33,Senior iOS Engineer,6,87,"Data Scientist, Insights Team (Siri Search and Knowledge)",Apple,"San Francisco, CA 94114",0.5019
+33,Senior iOS Engineer,7,301,"Staff Engineer, Machine Learning (macys.com)",Macy's,"San Francisco, CA",0.5016
+33,Senior iOS Engineer,8,275,Lead Analytic Scientist (AI/Machine Learning/Java),FICO,"San Diego, CA",0.4981
+33,Senior iOS Engineer,9,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.4959
+33,Senior iOS Engineer,10,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.494
+34,Executive/ Sr. Executive -IT,1,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.355
+34,Executive/ Sr. Executive -IT,2,88,Sales Engineer,Anaconda,"Austin, TX",0.3422
+34,Executive/ Sr. Executive -IT,3,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.3358
+34,Executive/ Sr. Executive -IT,4,250,Senior Software Engineer,BlackLocus,"Austin, TX 78701",0.3312
+34,Executive/ Sr. Executive -IT,5,353,"Software Engineer, Analytics",Humanyze,"Boston, MA 02114",0.3236
+34,Executive/ Sr. Executive -IT,6,36,Back-End Web Developer,Harvard University,"Boston, MA",0.3199
+34,Executive/ Sr. Executive -IT,7,137,Associate Systems Analyst,Broad Institute,"Cambridge, MA",0.3165
+34,Executive/ Sr. Executive -IT,8,301,"Staff Engineer, Machine Learning (macys.com)",Macy's,"San Francisco, CA",0.3104
+34,Executive/ Sr. Executive -IT,9,229,"Director, Data Science",84.51°,"Chicago, IL",0.3099
+34,Executive/ Sr. Executive -IT,10,114,"Software Engineer, Machine Learning",Tempus,"Chicago, IL 60654",0.3056
+35,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",1,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.6765
+35,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",2,27,Software Development Engineer,Microsoft,"Cambridge, MA",0.6382
+35,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",3,208,Software Development Engineer - Alexa Machine Learning,Amazon.com,"Cambridge, MA",0.6264
+35,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",4,287,Software Development Manager,Lab126,"Seattle, WA",0.6244
+35,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",5,386,"Machine Learning Engineer – Build large, Cloud based ML systems",Camden Kelly Corporation,"Los Angeles, CA",0.6149
+35,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",6,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.6079
+35,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",7,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.6027
+35,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",8,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.5881
+35,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",9,124,"Technical Evangelist – Database, Analytics, and Machine Learning",Amazon.com,"Atlanta, GA",0.5806
+35,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",10,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5804
+36,AI Engineer,1,111,Business Analytics Analyst,Delve,"Boulder, CO",0.6916
+36,AI Engineer,2,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6227
+36,AI Engineer,3,397,Research Analyst,D.A. Davidson & Co.,"Seattle, WA 98104",0.6177
+36,AI Engineer,4,312,Data Scientist II,Elevate,"San Diego, CA",0.6149
+36,AI Engineer,5,170,Data Scientist/Engineer,OUTFRONT media,"New York, NY",0.6046
+36,AI Engineer,6,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.5964
+36,AI Engineer,7,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.5952
+36,AI Engineer,8,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.5923
+36,AI Engineer,9,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.5764
+36,AI Engineer,10,39,Analyst - Periscope Advanced Insights - Growth Mapping,McKinsey & Company,"Chicago, IL",0.57
+37,Executive - VAT,1,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.623
+37,Executive - VAT,2,386,"Machine Learning Engineer – Build large, Cloud based ML systems",Camden Kelly Corporation,"Los Angeles, CA",0.5862
+37,Executive - VAT,3,376,Data Scientist.,Lorven Technologies,"New York, NY",0.5764
+37,Executive - VAT,4,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.5728
+37,Executive - VAT,5,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.5713
+37,Executive - VAT,6,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5693
+37,Executive - VAT,7,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.5509
+37,Executive - VAT,8,52,Principal Machine / Deep Learning Scientist,JD.com,"Mountain View, CA",0.54
+37,Executive - VAT,9,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.5388
+37,Executive - VAT,10,229,"Director, Data Science",84.51°,"Chicago, IL",0.5368
+38,Data Engineer,1,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5807
+38,Data Engineer,2,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.5141
+38,Data Engineer,3,383,Data Science Curriculum Developer,Galvanize,"San Francisco, CA",0.5003
+38,Data Engineer,4,392,Sr. Principal Data Scientist - Advanced Research & Analytics,UnitedHealth Group,"Chicago, IL 60290",0.4979
+38,Data Engineer,5,324,"Lead Data Science Instructor, Principal Data Scientist",Galvanize,"San Francisco, CA",0.4934
+38,Data Engineer,6,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.4907
+38,Data Engineer,7,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.49
+38,Data Engineer,8,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.4884
+38,Data Engineer,9,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.4883
+38,Data Engineer,10,21,Data Scientist,Diverse Lynx,"New York, NY",0.4854
+39,AI Engineer,1,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.4807
+39,AI Engineer,2,290,Associate Architect,Microsoft,"Seattle, WA 98188",0.4722
+39,AI Engineer,3,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.4671
+39,AI Engineer,4,133,"Associate, Client Success",Conversion Logic,"New York, NY 10018",0.4663
+39,AI Engineer,5,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.4602
+39,AI Engineer,6,115,"Data Scientist, Senior",Booz Allen Hamilton,"Washington, DC",0.4534
+39,AI Engineer,7,399,Operations Research Analyst,Grant Thornton,"Washington, DC 20036",0.4496
+39,AI Engineer,8,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.4493
+39,AI Engineer,9,253,Sr. Data Scientist,HighPoint,"Washington, DC",0.4474
+39,AI Engineer,10,30,Principal Machine Learning Data Scientist - Cloud Platform,Capital One,"New York, NY 10261 ",0.4458
+40,Management Trainee - Mechanical,1,58,"Staffing Services Specialist, Hiring Committee Training",Google,"Mountain View, CA",0.4919
+40,Management Trainee - Mechanical,2,399,Operations Research Analyst,Grant Thornton,"Washington, DC 20036",0.4642
+40,Management Trainee - Mechanical,3,184,Water Resources Engineer 5,CDM Smith,"Austin, TX 78727",0.4632
+40,Management Trainee - Mechanical,4,394,Senior Security Technical Program Manager,The Climate Corporation,"Seattle, WA",0.4605
+40,Management Trainee - Mechanical,5,137,Associate Systems Analyst,Broad Institute,"Cambridge, MA",0.4473
+40,Management Trainee - Mechanical,6,134,Academic Personnel Specialist,UCLA,"Los Angeles, CA",0.4451
+40,Management Trainee - Mechanical,7,253,Sr. Data Scientist,HighPoint,"Washington, DC",0.4427
+40,Management Trainee - Mechanical,8,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.4427
+40,Management Trainee - Mechanical,9,138,Process Development Scientist I,Prometheus Laboratories Inc.,"San Diego, CA 92121",0.4425
+40,Management Trainee - Mechanical,10,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.4399
+41,Executive/ Sr. Executive -IT,1,376,Data Scientist.,Lorven Technologies,"New York, NY",0.7151
+41,Executive/ Sr. Executive -IT,2,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.6999
+41,Executive/ Sr. Executive -IT,3,27,Software Development Engineer,Microsoft,"Cambridge, MA",0.6911
+41,Executive/ Sr. Executive -IT,4,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.6905
+41,Executive/ Sr. Executive -IT,5,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6881
+41,Executive/ Sr. Executive -IT,6,386,"Machine Learning Engineer – Build large, Cloud based ML systems",Camden Kelly Corporation,"Los Angeles, CA",0.6814
+41,Executive/ Sr. Executive -IT,7,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.6631
+41,Executive/ Sr. Executive -IT,8,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.6576
+41,Executive/ Sr. Executive -IT,9,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.6474
+41,Executive/ Sr. Executive -IT,10,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.6397
+42,Head of Internal Control & Compliance (ICC) - SEVP/DMD,1,19,Global Head of Product,Samba TV,"San Francisco, CA",0.5898
+42,Head of Internal Control & Compliance (ICC) - SEVP/DMD,2,266,Backend Data Engineer,Tier1 IT,"New York, NY",0.5651
+42,Head of Internal Control & Compliance (ICC) - SEVP/DMD,3,5,Senior Architect 1,Nielsen,"Chicago, IL 60647",0.5469
+42,Head of Internal Control & Compliance (ICC) - SEVP/DMD,4,263,"Sr. Product Manager - Technical, Home Innovation",Amazon.com,"Seattle, WA",0.543
+42,Head of Internal Control & Compliance (ICC) - SEVP/DMD,5,49,Engineering Leadership - Data Engineering,Riot Games,"Los Angeles, CA",0.5405
+42,Head of Internal Control & Compliance (ICC) - SEVP/DMD,6,198,Data Engineer,Beeswax,"New York, NY",0.5396
+42,Head of Internal Control & Compliance (ICC) - SEVP/DMD,7,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.5235
+42,Head of Internal Control & Compliance (ICC) - SEVP/DMD,8,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.5227
+42,Head of Internal Control & Compliance (ICC) - SEVP/DMD,9,162,"Sr. Data Engineer, International Consumer FP&A",Amazon.com,"Seattle, WA",0.5221
+42,Head of Internal Control & Compliance (ICC) - SEVP/DMD,10,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.5127
+43,"Full Stack Developer (Python,React js)",1,51,IoT Intern (Computer Science/Electrical Engineering),Delos,"New York, NY 10014 ",0.5886
+43,"Full Stack Developer (Python,React js)",2,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5738
+43,"Full Stack Developer (Python,React js)",3,347,Principal Engineer,ZestFinance,"Los Angeles, CA",0.5697
+43,"Full Stack Developer (Python,React js)",4,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.5644
+43,"Full Stack Developer (Python,React js)",5,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5568
+43,"Full Stack Developer (Python,React js)",6,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.5539
+43,"Full Stack Developer (Python,React js)",7,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.5505
+43,"Full Stack Developer (Python,React js)",8,301,"Staff Engineer, Machine Learning (macys.com)",Macy's,"San Francisco, CA",0.5421
+43,"Full Stack Developer (Python,React js)",9,125,Senior Front-End Engineer,Usermind,"Seattle, WA",0.5375
+43,"Full Stack Developer (Python,React js)",10,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.5344
+44,Mechanical Engineer,1,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.5393
+44,Mechanical Engineer,2,368,"Software Development Engineer, Measurement Automation",Amazon.com,"Seattle, WA",0.459
+44,Mechanical Engineer,3,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.4561
+44,Mechanical Engineer,4,364,Senior Software Engineer,Clockwork Solutions,"Austin, TX 78746",0.4459
+44,Mechanical Engineer,5,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.4441
+44,Mechanical Engineer,6,228,Principal Engineer,Cotiviti,"Atlanta, GA",0.4323
+44,Mechanical Engineer,7,357,Industrial Operations Manager (663748),Ball Aerospace,"Boulder, CO",0.4299
+44,Mechanical Engineer,8,263,"Sr. Product Manager - Technical, Home Innovation",Amazon.com,"Seattle, WA",0.4224
+44,Mechanical Engineer,9,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.4186
+44,Mechanical Engineer,10,50,Data Scientist,Groupon,"San Francisco, CA 94115",0.4185
+45,Data Engineer,1,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.6144
+45,Data Engineer,2,88,Sales Engineer,Anaconda,"Austin, TX",0.5833
+45,Data Engineer,3,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.5824
+45,Data Engineer,4,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.569
+45,Data Engineer,5,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.563
+45,Data Engineer,6,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.5624
+45,Data Engineer,7,324,"Lead Data Science Instructor, Principal Data Scientist",Galvanize,"San Francisco, CA",0.5566
+45,Data Engineer,8,353,"Software Engineer, Analytics",Humanyze,"Boston, MA 02114",0.5337
+45,Data Engineer,9,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.5305
+45,Data Engineer,10,59,"Data Scientist, Marketing",Rally Health,"San Francisco, CA",0.525
+46,Data Engineer,1,95,Quantitative Marketing Analyst,A Place for Mom,"Seattle, WA",0.5351
+46,Data Engineer,2,59,"Data Scientist, Marketing",Rally Health,"San Francisco, CA",0.5082
+46,Data Engineer,3,182,Marketing / User Experience Research Analyst,Axon,"Seattle, WA 98103",0.4907
+46,Data Engineer,4,133,"Associate, Client Success",Conversion Logic,"New York, NY 10018",0.4841
+46,Data Engineer,5,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.4735
+46,Data Engineer,6,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.4677
+46,Data Engineer,7,121,Data Scientist - Global Retailer,Harnham,"Oakland, CA",0.4663
+46,Data Engineer,8,15,Data Scientist,Catalina Marketing,"Atlanta, GA",0.4634
+46,Data Engineer,9,263,"Sr. Product Manager - Technical, Home Innovation",Amazon.com,"Seattle, WA",0.4612
+46,Data Engineer,10,16,"Data Scientist, Mid",Booz Allen Hamilton,"Washington, DC",0.4572
+47,Civil Engineer,1,307,Web Development Engineer,Amazon.com,"Seattle, WA",0.6911
+47,Civil Engineer,2,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.5853
+47,Civil Engineer,3,347,Principal Engineer,ZestFinance,"Los Angeles, CA",0.5613
+47,Civil Engineer,4,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.5568
+47,Civil Engineer,5,254,Senior Developer,J.E. Ranta Associates,"Boston, MA 02110",0.5496
+47,Civil Engineer,6,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.5413
+47,Civil Engineer,7,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.5405
+47,Civil Engineer,8,324,"Lead Data Science Instructor, Principal Data Scientist",Galvanize,"San Francisco, CA",0.5299
+47,Civil Engineer,9,383,Data Science Curriculum Developer,Galvanize,"San Francisco, CA",0.5285
+47,Civil Engineer,10,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.5278
+48,Machine Learning (ML) Engineer,1,312,Data Scientist II,Elevate,"San Diego, CA",0.5099
+48,Machine Learning (ML) Engineer,2,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.5024
+48,Machine Learning (ML) Engineer,3,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.4803
+48,Machine Learning (ML) Engineer,4,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.4722
+48,Machine Learning (ML) Engineer,5,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.4677
+48,Machine Learning (ML) Engineer,6,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.4618
+48,Machine Learning (ML) Engineer,7,373,Data Scientist,Inspire Brands,"Atlanta, GA",0.4557
+48,Machine Learning (ML) Engineer,8,395,"Sr. Manager , Data Science Forecasting",Newell Brands,"Atlanta, GA",0.4527
+48,Machine Learning (ML) Engineer,9,399,Operations Research Analyst,Grant Thornton,"Washington, DC 20036",0.446
+48,Machine Learning (ML) Engineer,10,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.4412
+49,Data Science Engineer,1,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.7228
+49,Data Science Engineer,2,170,Data Scientist/Engineer,OUTFRONT media,"New York, NY",0.705
+49,Data Science Engineer,3,312,Data Scientist II,Elevate,"San Diego, CA",0.6836
+49,Data Science Engineer,4,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.6565
+49,Data Science Engineer,5,196,Sr. Data Scientist REMOTE,Harnham,"San Francisco, CA",0.6504
+49,Data Science Engineer,6,376,Data Scientist.,Lorven Technologies,"New York, NY",0.6411
+49,Data Science Engineer,7,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.6374
+49,Data Science Engineer,8,361,Data Engineer,Gallup,"Atlanta, GA",0.6353
+49,Data Science Engineer,9,392,Sr. Principal Data Scientist - Advanced Research & Analytics,UnitedHealth Group,"Chicago, IL 60290",0.6333
+49,Data Science Engineer,10,88,Sales Engineer,Anaconda,"Austin, TX",0.6302
+50,DevOps Engineer,1,123,Research Intern - Systems,Microsoft,"Redmond, WA 98052",0.5985
+50,DevOps Engineer,2,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.5635
+50,DevOps Engineer,3,387,Undergraduate Internship/Co-op Program - Data Scientist,Central Intelligence Agency,"Washington, DC",0.5491
+50,DevOps Engineer,4,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.5466
+50,DevOps Engineer,5,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.5259
+50,DevOps Engineer,6,347,Principal Engineer,ZestFinance,"Los Angeles, CA",0.5241
+50,DevOps Engineer,7,125,Senior Front-End Engineer,Usermind,"Seattle, WA",0.5222
+50,DevOps Engineer,8,153,Full Stack Engineer (Chicago),Collective Health,"Chicago, IL",0.5185
+50,DevOps Engineer,9,307,Web Development Engineer,Amazon.com,"Seattle, WA",0.5164
+50,DevOps Engineer,10,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.4996
+51,Asst. Manager/ Manger (Administrative),1,323,Quantitative Corporate Finance Analyst,Global Atlantic Financial Group,"New York, NY",0.5008
+51,Asst. Manager/ Manger (Administrative),2,297,Validated Business Systems Analyst,HawkinsPointPartners,"Cambridge, MA 02138",0.5006
+51,Asst. Manager/ Manger (Administrative),3,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.459
+51,Asst. Manager/ Manger (Administrative),4,130,Data Science Analyst III - Population Health - Mount Sinai Health Partners,Mount Sinai,"New York, NY",0.4574
+51,Asst. Manager/ Manger (Administrative),5,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.4529
+51,Asst. Manager/ Manger (Administrative),6,65,"Sr. Vice President, Data Analytics",UnitedHealth Group,"Chicago, IL 60290",0.4461
+51,Asst. Manager/ Manger (Administrative),7,312,Data Scientist II,Elevate,"San Diego, CA",0.4457
+51,Asst. Manager/ Manger (Administrative),8,210,Data Visualization Engineer,LearnVest,"New York, NY",0.4421
+51,Asst. Manager/ Manger (Administrative),9,397,Research Analyst,D.A. Davidson & Co.,"Seattle, WA 98104",0.4401
+51,Asst. Manager/ Manger (Administrative),10,95,Quantitative Marketing Analyst,A Place for Mom,"Seattle, WA",0.4397
+52,Senior Software Engineer,1,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5271
+52,Senior Software Engineer,2,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.5185
+52,Senior Software Engineer,3,58,"Staffing Services Specialist, Hiring Committee Training",Google,"Mountain View, CA",0.4779
+52,Senior Software Engineer,4,362,Data Scientist I,Carney,"Washington, DC",0.4521
+52,Senior Software Engineer,5,37,Cognitive Software Engineer,State Street,"Austin, TX 78701",0.4514
+52,Senior Software Engineer,6,137,Associate Systems Analyst,Broad Institute,"Cambridge, MA",0.4457
+52,Senior Software Engineer,7,357,Industrial Operations Manager (663748),Ball Aerospace,"Boulder, CO",0.4334
+52,Senior Software Engineer,8,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.4302
+52,Senior Software Engineer,9,164,Real World Data Scientist - W2 only - 104537,Syneos Health (previously INC Research/inVentiv Health),"San Francisco, CA",0.4288
+52,Senior Software Engineer,10,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.428
+53,Senior iOS Engineer,1,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.577
+53,Senior iOS Engineer,2,125,Senior Front-End Engineer,Usermind,"Seattle, WA",0.5693
+53,Senior iOS Engineer,3,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.5639
+53,Senior iOS Engineer,4,253,Sr. Data Scientist,HighPoint,"Washington, DC",0.562
+53,Senior iOS Engineer,5,58,"Staffing Services Specialist, Hiring Committee Training",Google,"Mountain View, CA",0.5518
+53,Senior iOS Engineer,6,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.5508
+53,Senior iOS Engineer,7,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5498
+53,Senior iOS Engineer,8,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.5359
+53,Senior iOS Engineer,9,137,Associate Systems Analyst,Broad Institute,"Cambridge, MA",0.5316
+53,Senior iOS Engineer,10,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.531
+54,DevOps Engineer,1,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.5942
+54,DevOps Engineer,2,88,Sales Engineer,Anaconda,"Austin, TX",0.5858
+54,DevOps Engineer,3,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5755
+54,DevOps Engineer,4,307,Web Development Engineer,Amazon.com,"Seattle, WA",0.5722
+54,DevOps Engineer,5,353,"Software Engineer, Analytics",Humanyze,"Boston, MA 02114",0.5645
+54,DevOps Engineer,6,287,Software Development Manager,Lab126,"Seattle, WA",0.5575
+54,DevOps Engineer,7,368,"Software Development Engineer, Measurement Automation",Amazon.com,"Seattle, WA",0.5573
+54,DevOps Engineer,8,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.552
+54,DevOps Engineer,9,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.5503
+54,DevOps Engineer,10,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.5451
+55,Data Science Engineer,1,287,Software Development Manager,Lab126,"Seattle, WA",0.5337
+55,Data Science Engineer,2,368,"Software Development Engineer, Measurement Automation",Amazon.com,"Seattle, WA",0.5274
+55,Data Science Engineer,3,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.5258
+55,Data Science Engineer,4,208,Software Development Engineer - Alexa Machine Learning,Amazon.com,"Cambridge, MA",0.5156
+55,Data Science Engineer,5,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5107
+55,Data Science Engineer,6,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.505
+55,Data Science Engineer,7,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.502
+55,Data Science Engineer,8,296,"Software Development Manager, Speech",Amazon.com,"Sunnyvale, CA",0.4958
+55,Data Science Engineer,9,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.4951
+55,Data Science Engineer,10,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.495
+56,Business Development Executive,1,170,Data Scientist/Engineer,OUTFRONT media,"New York, NY",0.7024
+56,Business Development Executive,2,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6899
+56,Business Development Executive,3,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.655
+56,Business Development Executive,4,376,Data Scientist.,Lorven Technologies,"New York, NY",0.647
+56,Business Development Executive,5,126,Data Scientist,"TekPartners, A P2P Company","New York, NY",0.6256
+56,Business Development Executive,6,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.6154
+56,Business Development Executive,7,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.6152
+56,Business Development Executive,8,312,Data Scientist II,Elevate,"San Diego, CA",0.6108
+56,Business Development Executive,9,362,Data Scientist I,Carney,"Washington, DC",0.6032
+56,Business Development Executive,10,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.5909
+57,Senior iOS Engineer,1,353,"Software Engineer, Analytics",Humanyze,"Boston, MA 02114",0.5914
+57,Senior iOS Engineer,2,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.5542
+57,Senior iOS Engineer,3,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.5531
+57,Senior iOS Engineer,4,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.55
+57,Senior iOS Engineer,5,87,"Data Scientist, Insights Team (Siri Search and Knowledge)",Apple,"San Francisco, CA 94114",0.5487
+57,Senior iOS Engineer,6,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.5428
+57,Senior iOS Engineer,7,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.538
+57,Senior iOS Engineer,8,301,"Staff Engineer, Machine Learning (macys.com)",Macy's,"San Francisco, CA",0.5335
+57,Senior iOS Engineer,9,157,Data Scientist,The Coca-Cola Company,"Atlanta, GA 30301 ",0.5334
+57,Senior iOS Engineer,10,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5316
+58,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",1,95,Quantitative Marketing Analyst,A Place for Mom,"Seattle, WA",0.4757
+58,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",2,130,Data Science Analyst III - Population Health - Mount Sinai Health Partners,Mount Sinai,"New York, NY",0.4565
+58,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",3,330,Experienced Quantitative Analyst - Insurance Modeling & Major Initiatives,Allstate,"Chicago, IL 60601",0.4482
+58,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",4,67,Software Product Manager,Partners HealthCare(PHS),"Boston, MA",0.4462
+58,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",5,271,"Quantitative Analyst, Health Research Microsimulation",USC,"Los Angeles, CA",0.4398
+58,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",6,299,Senior Data Scientist,Cogitativo,"Berkeley, CA",0.4366
+58,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",7,182,Marketing / User Experience Research Analyst,Axon,"Seattle, WA 98103",0.435
+58,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",8,43,SENIOR VALUE BASED ANALYST,University of Washington,"Seattle, WA",0.4305
+58,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",9,56,DATA ANALYST,BlueLabs Analytics,"Washington, DC",0.4142
+58,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",10,188,ANALYTICS MANAGEMENT ANALYST,University of Washington,"Seattle, WA",0.4103
+59,Executive - VAT,1,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5408
+59,Executive - VAT,2,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.5332
+59,Executive - VAT,3,357,Industrial Operations Manager (663748),Ball Aerospace,"Boulder, CO",0.5174
+59,Executive - VAT,4,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.5033
+59,Executive - VAT,5,58,"Staffing Services Specialist, Hiring Committee Training",Google,"Mountain View, CA",0.4886
+59,Executive - VAT,6,154,Automation Engineer,Zymergen,"Emeryville, CA 94608",0.4742
+59,Executive - VAT,7,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.4684
+59,Executive - VAT,8,93,Environmental Scientist,Eagle SNG,"Parsippany, NJ",0.4603
+59,Executive - VAT,9,163,Technical Specialist I-Mechanical (663397),Ball Aerospace,"Boulder, CO",0.4542
+59,Executive - VAT,10,261,Senior Operations Research Analyst,Wayfair,"Boston, MA 02116",0.454
+60,Executive - VAT,1,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6499
+60,Executive - VAT,2,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.6259
+60,Executive - VAT,3,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.5898
+60,Executive - VAT,4,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.5841
+60,Executive - VAT,5,283,Deep Learning Scientist,Harnham,"San Francisco, CA",0.5729
+60,Executive - VAT,6,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.5724
+60,Executive - VAT,7,376,Data Scientist.,Lorven Technologies,"New York, NY",0.5705
+60,Executive - VAT,8,170,Data Scientist/Engineer,OUTFRONT media,"New York, NY",0.5641
+60,Executive - VAT,9,312,Data Scientist II,Elevate,"San Diego, CA",0.5568
+60,Executive - VAT,10,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.5489
+61,Data Science Engineer,1,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.6243
+61,Data Science Engineer,2,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.5727
+61,Data Science Engineer,3,242,Manager - Cognitive Data Scientist Natural Language Processing,KPMG,"Atlanta, GA 30338",0.5686
+61,Data Science Engineer,4,287,Software Development Manager,Lab126,"Seattle, WA",0.5591
+61,Data Science Engineer,5,393,"Data Scientist, Natural Language Processing (NLP) - Amazon AI",Amazon.com,"Seattle, WA",0.5542
+61,Data Science Engineer,6,208,Software Development Engineer - Alexa Machine Learning,Amazon.com,"Cambridge, MA",0.5495
+61,Data Science Engineer,7,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.5416
+61,Data Science Engineer,8,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5379
+61,Data Science Engineer,9,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.5347
+61,Data Science Engineer,10,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.5283
+62,Sr.Officer / Executive - Internal Audit,1,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.6298
+62,Sr.Officer / Executive - Internal Audit,2,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.5956
+62,Sr.Officer / Executive - Internal Audit,3,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.5955
+62,Sr.Officer / Executive - Internal Audit,4,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5909
+62,Sr.Officer / Executive - Internal Audit,5,124,"Technical Evangelist – Database, Analytics, and Machine Learning",Amazon.com,"Atlanta, GA",0.5801
+62,Sr.Officer / Executive - Internal Audit,6,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.5741
+62,Sr.Officer / Executive - Internal Audit,7,87,"Data Scientist, Insights Team (Siri Search and Knowledge)",Apple,"San Francisco, CA 94114",0.5718
+62,Sr.Officer / Executive - Internal Audit,8,333,Research Data Scientist,Amazon.com,"Cambridge, MA",0.57
+62,Sr.Officer / Executive - Internal Audit,9,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5686
+62,Sr.Officer / Executive - Internal Audit,10,40,Senior Data Scientist - California,Teradata,"San Francisco, CA 94105",0.5623
+63,AI Engineer,1,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5519
+63,AI Engineer,2,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.5452
+63,AI Engineer,3,170,Data Scientist/Engineer,OUTFRONT media,"New York, NY",0.5425
+63,AI Engineer,4,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.5333
+63,AI Engineer,5,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.5305
+63,AI Engineer,6,162,"Sr. Data Engineer, International Consumer FP&A",Amazon.com,"Seattle, WA",0.5244
+63,AI Engineer,7,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.5238
+63,AI Engineer,8,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.5148
+63,AI Engineer,9,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.513
+63,AI Engineer,10,63,Analyst - CoinList Capital,Coinlist,"New York, NY",0.506
+64,Network Support Engineer,1,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6924
+64,Network Support Engineer,2,170,Data Scientist/Engineer,OUTFRONT media,"New York, NY",0.6753
+64,Network Support Engineer,3,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.6747
+64,Network Support Engineer,4,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.6531
+64,Network Support Engineer,5,59,"Data Scientist, Marketing",Rally Health,"San Francisco, CA",0.6435
+64,Network Support Engineer,6,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.6351
+64,Network Support Engineer,7,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.6339
+64,Network Support Engineer,8,111,Business Analytics Analyst,Delve,"Boulder, CO",0.6291
+64,Network Support Engineer,9,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.6261
+64,Network Support Engineer,10,157,Data Scientist,The Coca-Cola Company,"Atlanta, GA 30301 ",0.6229
+65,Senior iOS Engineer,1,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.495
+65,Senior iOS Engineer,2,154,Automation Engineer,Zymergen,"Emeryville, CA 94608",0.493
+65,Senior iOS Engineer,3,368,"Software Development Engineer, Measurement Automation",Amazon.com,"Seattle, WA",0.4821
+65,Senior iOS Engineer,4,361,Data Engineer,Gallup,"Atlanta, GA",0.4415
+65,Senior iOS Engineer,5,364,Senior Software Engineer,Clockwork Solutions,"Austin, TX 78746",0.4263
+65,Senior iOS Engineer,6,332,QA Engineer,Schireson,"Boston, MA",0.408
+65,Senior iOS Engineer,7,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.4012
+65,Senior iOS Engineer,8,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.4006
+65,Senior iOS Engineer,9,137,Associate Systems Analyst,Broad Institute,"Cambridge, MA",0.3996
+65,Senior iOS Engineer,10,261,Senior Operations Research Analyst,Wayfair,"Boston, MA 02116",0.3957
+66,Project Coordinator (Civil),1,387,Undergraduate Internship/Co-op Program - Data Scientist,Central Intelligence Agency,"Washington, DC",0.5568
+66,Project Coordinator (Civil),2,237,Research Analyst Intern - Blockchain,Fresh Digital Group,"New York, NY 10038 ",0.5565
+66,Project Coordinator (Civil),3,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5539
+66,Project Coordinator (Civil),4,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.5515
+66,Project Coordinator (Civil),5,254,Senior Developer,J.E. Ranta Associates,"Boston, MA 02110",0.5426
+66,Project Coordinator (Civil),6,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.5412
+66,Project Coordinator (Civil),7,324,"Lead Data Science Instructor, Principal Data Scientist",Galvanize,"San Francisco, CA",0.5351
+66,Project Coordinator (Civil),8,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.5295
+66,Project Coordinator (Civil),9,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.5194
+66,Project Coordinator (Civil),10,51,IoT Intern (Computer Science/Electrical Engineering),Delos,"New York, NY 10014 ",0.5149
+67,Mechanical Designer,1,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.414
+67,Mechanical Designer,2,399,Operations Research Analyst,Grant Thornton,"Washington, DC 20036",0.4003
+67,Mechanical Designer,3,95,Quantitative Marketing Analyst,A Place for Mom,"Seattle, WA",0.3925
+67,Mechanical Designer,4,323,Quantitative Corporate Finance Analyst,Global Atlantic Financial Group,"New York, NY",0.3921
+67,Mechanical Designer,5,297,Validated Business Systems Analyst,HawkinsPointPartners,"Cambridge, MA 02138",0.3867
+67,Mechanical Designer,6,290,Associate Architect,Microsoft,"Seattle, WA 98188",0.3851
+67,Mechanical Designer,7,371,Sales Director - Federal,Zoomdata,"Washington, DC",0.3829
+67,Mechanical Designer,8,145,Operations Analyst,"Open Data Science, LLC","Cambridge, MA",0.3828
+67,Mechanical Designer,9,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.3823
+67,Mechanical Designer,10,21,Data Scientist,Diverse Lynx,"New York, NY",0.3788
+68,Executive - VAT,1,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6963
+68,Executive - VAT,2,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.684
+68,Executive - VAT,3,170,Data Scientist/Engineer,OUTFRONT media,"New York, NY",0.6819
+68,Executive - VAT,4,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.6683
+68,Executive - VAT,5,376,Data Scientist.,Lorven Technologies,"New York, NY",0.654
+68,Executive - VAT,6,196,Sr. Data Scientist REMOTE,Harnham,"San Francisco, CA",0.6523
+68,Executive - VAT,7,362,Data Scientist I,Carney,"Washington, DC",0.6502
+68,Executive - VAT,8,126,Data Scientist,"TekPartners, A P2P Company","New York, NY",0.6492
+68,Executive - VAT,9,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.6377
+68,Executive - VAT,10,283,Deep Learning Scientist,Harnham,"San Francisco, CA",0.6299
+69,Intern (Generative AI Engineering - 2D/3D Image Generation),1,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.5808
+69,Intern (Generative AI Engineering - 2D/3D Image Generation),2,372,Staff Electrical Engineer,Burns & McDonnell,"Chicago, IL 60664",0.5796
+69,Intern (Generative AI Engineering - 2D/3D Image Generation),3,398,"R&D Engineer, Sr II",Synopsys,"Mountain View, CA 94043",0.563
+69,Intern (Generative AI Engineering - 2D/3D Image Generation),4,105,Opto-Electronics Scientist,Corning,"Sunnyvale, CA 94085",0.5608
+69,Intern (Generative AI Engineering - 2D/3D Image Generation),5,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.559
+69,Intern (Generative AI Engineering - 2D/3D Image Generation),6,361,Data Engineer,Gallup,"Atlanta, GA",0.5572
+69,Intern (Generative AI Engineering - 2D/3D Image Generation),7,332,QA Engineer,Schireson,"Boston, MA",0.5569
+69,Intern (Generative AI Engineering - 2D/3D Image Generation),8,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.5534
+69,Intern (Generative AI Engineering - 2D/3D Image Generation),9,162,"Sr. Data Engineer, International Consumer FP&A",Amazon.com,"Seattle, WA",0.5522
+69,Intern (Generative AI Engineering - 2D/3D Image Generation),10,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.5508
+70,HR Officer,1,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6523
+70,HR Officer,2,290,Associate Architect,Microsoft,"Seattle, WA 98188",0.6467
+70,HR Officer,3,40,Senior Data Scientist - California,Teradata,"San Francisco, CA 94105",0.6419
+70,HR Officer,4,111,Business Analytics Analyst,Delve,"Boulder, CO",0.6277
+70,HR Officer,5,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.6259
+70,HR Officer,6,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.6208
+70,HR Officer,7,170,Data Scientist/Engineer,OUTFRONT media,"New York, NY",0.6156
+70,HR Officer,8,122,"Data Analyst, Business Operations",DataRobot,"Boston, MA 02109",0.6117
+70,HR Officer,9,361,Data Engineer,Gallup,"Atlanta, GA",0.6097
+70,HR Officer,10,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.6018
+71,Executive/ Sr. Executive -IT,1,376,Data Scientist.,Lorven Technologies,"New York, NY",0.6023
+71,Executive/ Sr. Executive -IT,2,233,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.5926
+71,Executive/ Sr. Executive -IT,3,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5726
+71,Executive/ Sr. Executive -IT,4,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.5701
+71,Executive/ Sr. Executive -IT,5,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.5534
+71,Executive/ Sr. Executive -IT,6,374,Sr Deep Learning Software Engineer,NVIDIA,"Boulder, CO 80302",0.5488
+71,Executive/ Sr. Executive -IT,7,52,Principal Machine / Deep Learning Scientist,JD.com,"Mountain View, CA",0.5451
+71,Executive/ Sr. Executive -IT,8,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.5357
+71,Executive/ Sr. Executive -IT,9,87,"Data Scientist, Insights Team (Siri Search and Knowledge)",Apple,"San Francisco, CA 94114",0.532
+71,Executive/ Sr. Executive -IT,10,327,Machine Learning Specialist Solutions Architect,Amazon.com,"New York, NY",0.528
+72,"Full Stack Developer (Python,React js)",1,229,"Director, Data Science",84.51°,"Chicago, IL",0.581
+72,"Full Stack Developer (Python,React js)",2,353,"Software Engineer, Analytics",Humanyze,"Boston, MA 02114",0.5602
+72,"Full Stack Developer (Python,React js)",3,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.535
+72,"Full Stack Developer (Python,React js)",4,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.5342
+72,"Full Stack Developer (Python,React js)",5,87,"Data Scientist, Insights Team (Siri Search and Knowledge)",Apple,"San Francisco, CA 94114",0.5295
+72,"Full Stack Developer (Python,React js)",6,124,"Technical Evangelist – Database, Analytics, and Machine Learning",Amazon.com,"Atlanta, GA",0.5273
+72,"Full Stack Developer (Python,React js)",7,198,Data Engineer,Beeswax,"New York, NY",0.5237
+72,"Full Stack Developer (Python,React js)",8,88,Sales Engineer,Anaconda,"Austin, TX",0.5225
+72,"Full Stack Developer (Python,React js)",9,305,Director of Data,Change.org,"San Francisco, CA 94103",0.516
+72,"Full Stack Developer (Python,React js)",10,36,Back-End Web Developer,Harvard University,"Boston, MA",0.5144
+73,Executive/ Sr. Executive -IT,1,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6621
+73,Executive/ Sr. Executive -IT,2,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.6326
+73,Executive/ Sr. Executive -IT,3,312,Data Scientist II,Elevate,"San Diego, CA",0.6176
+73,Executive/ Sr. Executive -IT,4,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.5969
+73,Executive/ Sr. Executive -IT,5,170,Data Scientist/Engineer,OUTFRONT media,"New York, NY",0.5922
+73,Executive/ Sr. Executive -IT,6,111,Business Analytics Analyst,Delve,"Boulder, CO",0.59
+73,Executive/ Sr. Executive -IT,7,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5888
+73,Executive/ Sr. Executive -IT,8,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.5888
+73,Executive/ Sr. Executive -IT,9,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.5821
+73,Executive/ Sr. Executive -IT,10,386,"Machine Learning Engineer – Build large, Cloud based ML systems",Camden Kelly Corporation,"Los Angeles, CA",0.5795
+74,Business Development Executive,1,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5008
+74,Business Development Executive,2,357,Industrial Operations Manager (663748),Ball Aerospace,"Boulder, CO",0.4886
+74,Business Development Executive,3,184,Water Resources Engineer 5,CDM Smith,"Austin, TX 78727",0.4577
+74,Business Development Executive,4,154,Automation Engineer,Zymergen,"Emeryville, CA 94608",0.4519
+74,Business Development Executive,5,275,Lead Analytic Scientist (AI/Machine Learning/Java),FICO,"San Diego, CA",0.4448
+74,Business Development Executive,6,378,Technical Recruiter,Square,"New York, NY 10018 ",0.4393
+74,Business Development Executive,7,138,Process Development Scientist I,Prometheus Laboratories Inc.,"San Diego, CA 92121",0.4255
+74,Business Development Executive,8,58,"Staffing Services Specialist, Hiring Committee Training",Google,"Mountain View, CA",0.4244
+74,Business Development Executive,9,57,Senior Firmware Engineer - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.4239
+74,Business Development Executive,10,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.419
+75,Machine Learning (ML) Engineer,1,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5344
+75,Machine Learning (ML) Engineer,2,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4974
+75,Machine Learning (ML) Engineer,3,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.4931
+75,Machine Learning (ML) Engineer,4,361,Data Engineer,Gallup,"Atlanta, GA",0.4913
+75,Machine Learning (ML) Engineer,5,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.4886
+75,Machine Learning (ML) Engineer,6,228,Principal Engineer,Cotiviti,"Atlanta, GA",0.4879
+75,Machine Learning (ML) Engineer,7,333,Research Data Scientist,Amazon.com,"Cambridge, MA",0.4857
+75,Machine Learning (ML) Engineer,8,225,Data Analyst,WeWork Global Technology,"New York, NY",0.4783
+75,Machine Learning (ML) Engineer,9,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.4697
+75,Machine Learning (ML) Engineer,10,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.4682
+76,Machine Learning (ML) Engineer,1,376,Data Scientist.,Lorven Technologies,"New York, NY",0.707
+76,Machine Learning (ML) Engineer,2,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.699
+76,Machine Learning (ML) Engineer,3,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.696
+76,Machine Learning (ML) Engineer,4,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.6701
+76,Machine Learning (ML) Engineer,5,233,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.659
+76,Machine Learning (ML) Engineer,6,283,Deep Learning Scientist,Harnham,"San Francisco, CA",0.659
+76,Machine Learning (ML) Engineer,7,52,Principal Machine / Deep Learning Scientist,JD.com,"Mountain View, CA",0.6497
+76,Machine Learning (ML) Engineer,8,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.6464
+76,Machine Learning (ML) Engineer,9,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.6459
+76,Machine Learning (ML) Engineer,10,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.6353
+77,Data Science Engineer,1,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.5075
+77,Data Science Engineer,2,95,Quantitative Marketing Analyst,A Place for Mom,"Seattle, WA",0.487
+77,Data Science Engineer,3,391,Information Security Lead - New Ventures Technology,McKinsey & Company,"Chicago, IL",0.4736
+77,Data Science Engineer,4,133,"Associate, Client Success",Conversion Logic,"New York, NY 10018",0.4692
+77,Data Science Engineer,5,246,Sr. Media Planner (Los Angeles),BuzzFeed,"Los Angeles, CA 90036",0.4685
+77,Data Science Engineer,6,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.4628
+77,Data Science Engineer,7,182,Marketing / User Experience Research Analyst,Axon,"Seattle, WA 98103",0.4593
+77,Data Science Engineer,8,101,Senior Software Engineer (Search Relevance/Infra),쿠팡,"Mountain View, CA",0.458
+77,Data Science Engineer,9,263,"Sr. Product Manager - Technical, Home Innovation",Amazon.com,"Seattle, WA",0.4534
+77,Data Science Engineer,10,371,Sales Director - Federal,Zoomdata,"Washington, DC",0.4517
+78,Management Trainee - Mechanical,1,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.6743
+78,Management Trainee - Mechanical,2,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.6627
+78,Management Trainee - Mechanical,3,324,"Lead Data Science Instructor, Principal Data Scientist",Galvanize,"San Francisco, CA",0.6533
+78,Management Trainee - Mechanical,4,312,Data Scientist II,Elevate,"San Diego, CA",0.6527
+78,Management Trainee - Mechanical,5,59,"Data Scientist, Marketing",Rally Health,"San Francisco, CA",0.6516
+78,Management Trainee - Mechanical,6,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.6407
+78,Management Trainee - Mechanical,7,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.6349
+78,Management Trainee - Mechanical,8,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.6214
+78,Management Trainee - Mechanical,9,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.6183
+78,Management Trainee - Mechanical,10,111,Business Analytics Analyst,Delve,"Boulder, CO",0.6181
+79,Asst. Manager/ Manger (Administrative),1,312,Data Scientist II,Elevate,"San Diego, CA",0.7182
+79,Asst. Manager/ Manger (Administrative),2,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.7089
+79,Asst. Manager/ Manger (Administrative),3,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.6644
+79,Asst. Manager/ Manger (Administrative),4,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.6629
+79,Asst. Manager/ Manger (Administrative),5,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.6617
+79,Asst. Manager/ Manger (Administrative),6,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.6592
+79,Asst. Manager/ Manger (Administrative),7,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.6506
+79,Asst. Manager/ Manger (Administrative),8,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.648
+79,Asst. Manager/ Manger (Administrative),9,59,"Data Scientist, Marketing",Rally Health,"San Francisco, CA",0.6457
+79,Asst. Manager/ Manger (Administrative),10,170,Data Scientist/Engineer,OUTFRONT media,"New York, NY",0.6454
+80,Asst. Manager/ Manger (Administrative),1,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.5662
+80,Asst. Manager/ Manger (Administrative),2,237,Research Analyst Intern - Blockchain,Fresh Digital Group,"New York, NY 10038 ",0.5205
+80,Asst. Manager/ Manger (Administrative),3,63,Analyst - CoinList Capital,Coinlist,"New York, NY",0.5154
+80,Asst. Manager/ Manger (Administrative),4,397,Research Analyst,D.A. Davidson & Co.,"Seattle, WA 98104",0.5046
+80,Asst. Manager/ Manger (Administrative),5,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5009
+80,Asst. Manager/ Manger (Administrative),6,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.4755
+80,Asst. Manager/ Manger (Administrative),7,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4736
+80,Asst. Manager/ Manger (Administrative),8,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.4724
+80,Asst. Manager/ Manger (Administrative),9,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.4668
+80,Asst. Manager/ Manger (Administrative),10,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.4578
+81,Data Science Engineer,1,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5553
+81,Data Science Engineer,2,51,IoT Intern (Computer Science/Electrical Engineering),Delos,"New York, NY 10014 ",0.5421
+81,Data Science Engineer,3,237,Research Analyst Intern - Blockchain,Fresh Digital Group,"New York, NY 10038 ",0.5268
+81,Data Science Engineer,4,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.5247
+81,Data Science Engineer,5,387,Undergraduate Internship/Co-op Program - Data Scientist,Central Intelligence Agency,"Washington, DC",0.5224
+81,Data Science Engineer,6,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.5152
+81,Data Science Engineer,7,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.5129
+81,Data Science Engineer,8,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.5111
+81,Data Science Engineer,9,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.5045
+81,Data Science Engineer,10,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.4966
+82,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",1,131,Entry-Level Technical Writer/Proposal Coordinator: Public Sector,Civis Analytics,"Washington, DC",0.4979
+82,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",2,245,"Research Analyst, Proposals",Sotheby’s,"New York, NY",0.496
+82,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",3,55,Senior Design Researcher,Microsoft,"Redmond, WA 98052",0.4927
+82,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",4,361,Data Engineer,Gallup,"Atlanta, GA",0.4826
+82,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",5,225,Data Analyst,WeWork Global Technology,"New York, NY",0.4731
+82,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",6,84,Senior Process Architect (Pharmaceutical Industry),Burns & McDonnell,"Chicago, IL 60664",0.4577
+82,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",7,261,Senior Operations Research Analyst,Wayfair,"Boston, MA 02116",0.4569
+82,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",8,290,Associate Architect,Microsoft,"Seattle, WA 98188",0.4568
+82,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",9,125,Senior Front-End Engineer,Usermind,"Seattle, WA",0.4514
+82,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",10,398,"R&D Engineer, Sr II",Synopsys,"Mountain View, CA 94043",0.447
+83,Data Engineer,1,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.671
+83,Data Engineer,2,312,Data Scientist II,Elevate,"San Diego, CA",0.6608
+83,Data Engineer,3,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.6367
+83,Data Engineer,4,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.623
+83,Data Engineer,5,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.6218
+83,Data Engineer,6,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.6145
+83,Data Engineer,7,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.6106
+83,Data Engineer,8,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.6101
+83,Data Engineer,9,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.6099
+83,Data Engineer,10,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.6055
+84,Intern (Generative AI Engineering - 2D/3D Image Generation),1,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.4898
+84,Intern (Generative AI Engineering - 2D/3D Image Generation),2,30,Principal Machine Learning Data Scientist - Cloud Platform,Capital One,"New York, NY 10261 ",0.4694
+84,Intern (Generative AI Engineering - 2D/3D Image Generation),3,363,Machine Learning Engineer - Center of Excellence - Associate,JP Morgan Chase,"New York, NY 10001 ",0.4484
+84,Intern (Generative AI Engineering - 2D/3D Image Generation),4,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.4318
+84,Intern (Generative AI Engineering - 2D/3D Image Generation),5,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.4302
+84,Intern (Generative AI Engineering - 2D/3D Image Generation),6,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.4248
+84,Intern (Generative AI Engineering - 2D/3D Image Generation),7,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.4227
+84,Intern (Generative AI Engineering - 2D/3D Image Generation),8,312,Data Scientist II,Elevate,"San Diego, CA",0.4224
+84,Intern (Generative AI Engineering - 2D/3D Image Generation),9,133,"Associate, Client Success",Conversion Logic,"New York, NY 10018",0.42
+84,Intern (Generative AI Engineering - 2D/3D Image Generation),10,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.4151
+85,Data Science Engineer,1,57,Senior Firmware Engineer - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.5024
+85,Data Science Engineer,2,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.4652
+85,Data Science Engineer,3,368,"Software Development Engineer, Measurement Automation",Amazon.com,"Seattle, WA",0.4429
+85,Data Science Engineer,4,169,Project Engineer II - Electronic Systems Integration & Test (659059) - Security clearance required,Ball Aerospace,"Boulder, CO",0.4402
+85,Data Science Engineer,5,384,Sr. FPGA Verification Engineer,Blackstone Technology Group,"Boulder, CO",0.4196
+85,Data Science Engineer,6,357,Industrial Operations Manager (663748),Ball Aerospace,"Boulder, CO",0.4157
+85,Data Science Engineer,7,267,IT Cloud Engineer (Active Top Secret),Jacobs,"Washington, DC",0.4142
+85,Data Science Engineer,8,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.4137
+85,Data Science Engineer,9,332,QA Engineer,Schireson,"Boston, MA",0.4094
+85,Data Science Engineer,10,178,Engineering Technician I,USC,"Los Angeles, CA",0.409
+86,Head of Internal Control & Compliance (ICC) - SEVP/DMD,1,95,Quantitative Marketing Analyst,A Place for Mom,"Seattle, WA",0.517
+86,Head of Internal Control & Compliance (ICC) - SEVP/DMD,2,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.514
+86,Head of Internal Control & Compliance (ICC) - SEVP/DMD,3,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.5097
+86,Head of Internal Control & Compliance (ICC) - SEVP/DMD,4,59,"Data Scientist, Marketing",Rally Health,"San Francisco, CA",0.4737
+86,Head of Internal Control & Compliance (ICC) - SEVP/DMD,5,200,Senior Research Analyst - Competitive Intelligence,Mintel,"Chicago, IL",0.4674
+86,Head of Internal Control & Compliance (ICC) - SEVP/DMD,6,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4584
+86,Head of Internal Control & Compliance (ICC) - SEVP/DMD,7,182,Marketing / User Experience Research Analyst,Axon,"Seattle, WA 98103",0.4453
+86,Head of Internal Control & Compliance (ICC) - SEVP/DMD,8,268,Senior Business Recruiter,Square,"San Francisco, CA 94103",0.4392
+86,Head of Internal Control & Compliance (ICC) - SEVP/DMD,9,246,Sr. Media Planner (Los Angeles),BuzzFeed,"Los Angeles, CA 90036",0.4371
+86,Head of Internal Control & Compliance (ICC) - SEVP/DMD,10,242,Manager - Cognitive Data Scientist Natural Language Processing,KPMG,"Atlanta, GA 30338",0.4335
+87,DevOps Engineer,1,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.6855
+87,DevOps Engineer,2,250,Senior Software Engineer,BlackLocus,"Austin, TX 78701",0.6256
+87,DevOps Engineer,3,376,Data Scientist.,Lorven Technologies,"New York, NY",0.623
+87,DevOps Engineer,4,88,Sales Engineer,Anaconda,"Austin, TX",0.6171
+87,DevOps Engineer,5,229,"Director, Data Science",84.51°,"Chicago, IL",0.6076
+87,DevOps Engineer,6,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.601
+87,DevOps Engineer,7,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.5995
+87,DevOps Engineer,8,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5945
+87,DevOps Engineer,9,27,Software Development Engineer,Microsoft,"Cambridge, MA",0.5914
+87,DevOps Engineer,10,124,"Technical Evangelist – Database, Analytics, and Machine Learning",Amazon.com,"Atlanta, GA",0.5887
+88,Executive - VAT,1,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.6431
+88,Executive - VAT,2,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.6296
+88,Executive - VAT,3,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6225
+88,Executive - VAT,4,376,Data Scientist.,Lorven Technologies,"New York, NY",0.6125
+88,Executive - VAT,5,362,Data Scientist I,Carney,"Washington, DC",0.609
+88,Executive - VAT,6,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.6084
+88,Executive - VAT,7,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.601
+88,Executive - VAT,8,392,Sr. Principal Data Scientist - Advanced Research & Analytics,UnitedHealth Group,"Chicago, IL 60290",0.5858
+88,Executive - VAT,9,196,Sr. Data Scientist REMOTE,Harnham,"San Francisco, CA",0.5856
+88,Executive - VAT,10,52,Principal Machine / Deep Learning Scientist,JD.com,"Mountain View, CA",0.5807
+89,DevOps Engineer,1,307,Web Development Engineer,Amazon.com,"Seattle, WA",0.7059
+89,DevOps Engineer,2,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.6006
+89,DevOps Engineer,3,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.594
+89,DevOps Engineer,4,347,Principal Engineer,ZestFinance,"Los Angeles, CA",0.5887
+89,DevOps Engineer,5,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.57
+89,DevOps Engineer,6,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.5439
+89,DevOps Engineer,7,368,"Software Development Engineer, Measurement Automation",Amazon.com,"Seattle, WA",0.5436
+89,DevOps Engineer,8,266,Backend Data Engineer,Tier1 IT,"New York, NY",0.543
+89,DevOps Engineer,9,254,Senior Developer,J.E. Ranta Associates,"Boston, MA 02110",0.541
+89,DevOps Engineer,10,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.5398
+90,DevOps Engineer,1,361,Data Engineer,Gallup,"Atlanta, GA",0.4814
+90,DevOps Engineer,2,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.4707
+90,DevOps Engineer,3,332,QA Engineer,Schireson,"Boston, MA",0.4697
+90,DevOps Engineer,4,347,Principal Engineer,ZestFinance,"Los Angeles, CA",0.4627
+90,DevOps Engineer,5,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.4552
+90,DevOps Engineer,6,184,Water Resources Engineer 5,CDM Smith,"Austin, TX 78727",0.4547
+90,DevOps Engineer,7,368,"Software Development Engineer, Measurement Automation",Amazon.com,"Seattle, WA",0.4543
+90,DevOps Engineer,8,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.4537
+90,DevOps Engineer,9,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.4482
+90,DevOps Engineer,10,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4482
+91,Data Science Engineer,1,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6427
+91,Data Science Engineer,2,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.6176
+91,Data Science Engineer,3,312,Data Scientist II,Elevate,"San Diego, CA",0.6078
+91,Data Science Engineer,4,111,Business Analytics Analyst,Delve,"Boulder, CO",0.5953
+91,Data Science Engineer,5,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.5927
+91,Data Science Engineer,6,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.5922
+91,Data Science Engineer,7,170,Data Scientist/Engineer,OUTFRONT media,"New York, NY",0.5805
+91,Data Science Engineer,8,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.5756
+91,Data Science Engineer,9,27,Software Development Engineer,Microsoft,"Cambridge, MA",0.5723
+91,Data Science Engineer,10,275,Lead Analytic Scientist (AI/Machine Learning/Java),FICO,"San Diego, CA",0.5719
+92,Data Engineer,1,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.7039
+92,Data Engineer,2,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.6914
+92,Data Engineer,3,361,Data Engineer,Gallup,"Atlanta, GA",0.6614
+92,Data Engineer,4,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.6444
+92,Data Engineer,5,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.6335
+92,Data Engineer,6,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.6276
+92,Data Engineer,7,376,Data Scientist.,Lorven Technologies,"New York, NY",0.6226
+92,Data Engineer,8,208,Software Development Engineer - Alexa Machine Learning,Amazon.com,"Cambridge, MA",0.6169
+92,Data Engineer,9,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.604
+92,Data Engineer,10,386,"Machine Learning Engineer – Build large, Cloud based ML systems",Camden Kelly Corporation,"Los Angeles, CA",0.6013
+93,"Full Stack Developer (Python,React js)",1,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.5958
+93,"Full Stack Developer (Python,React js)",2,229,"Director, Data Science",84.51°,"Chicago, IL",0.5925
+93,"Full Stack Developer (Python,React js)",3,250,Senior Software Engineer,BlackLocus,"Austin, TX 78701",0.5657
+93,"Full Stack Developer (Python,React js)",4,333,Research Data Scientist,Amazon.com,"Cambridge, MA",0.5597
+93,"Full Stack Developer (Python,React js)",5,88,Sales Engineer,Anaconda,"Austin, TX",0.5588
+93,"Full Stack Developer (Python,React js)",6,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.5516
+93,"Full Stack Developer (Python,React js)",7,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.5455
+93,"Full Stack Developer (Python,React js)",8,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.5453
+93,"Full Stack Developer (Python,React js)",9,301,"Staff Engineer, Machine Learning (macys.com)",Macy's,"San Francisco, CA",0.5399
+93,"Full Stack Developer (Python,React js)",10,343,"Senior Applied Scientist, Machine Learning",Adobe,"San Francisco, CA",0.5369
+94,"Full Stack Developer (Python,React js)",1,266,Backend Data Engineer,Tier1 IT,"New York, NY",0.6037
+94,"Full Stack Developer (Python,React js)",2,376,Data Scientist.,Lorven Technologies,"New York, NY",0.5923
+94,"Full Stack Developer (Python,React js)",3,386,"Machine Learning Engineer – Build large, Cloud based ML systems",Camden Kelly Corporation,"Los Angeles, CA",0.5817
+94,"Full Stack Developer (Python,React js)",4,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.5773
+94,"Full Stack Developer (Python,React js)",5,353,"Software Engineer, Analytics",Humanyze,"Boston, MA 02114",0.5764
+94,"Full Stack Developer (Python,React js)",6,301,"Staff Engineer, Machine Learning (macys.com)",Macy's,"San Francisco, CA",0.5719
+94,"Full Stack Developer (Python,React js)",7,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.5701
+94,"Full Stack Developer (Python,React js)",8,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.5678
+94,"Full Stack Developer (Python,React js)",9,287,Software Development Manager,Lab126,"Seattle, WA",0.5645
+94,"Full Stack Developer (Python,React js)",10,250,Senior Software Engineer,BlackLocus,"Austin, TX 78701",0.5607
+95,Intern (Generative AI Engineering - 2D/3D Image Generation),1,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.5383
+95,Intern (Generative AI Engineering - 2D/3D Image Generation),2,184,Water Resources Engineer 5,CDM Smith,"Austin, TX 78727",0.4845
+95,Intern (Generative AI Engineering - 2D/3D Image Generation),3,275,Lead Analytic Scientist (AI/Machine Learning/Java),FICO,"San Diego, CA",0.4585
+95,Intern (Generative AI Engineering - 2D/3D Image Generation),4,93,Environmental Scientist,Eagle SNG,"Parsippany, NJ",0.4551
+95,Intern (Generative AI Engineering - 2D/3D Image Generation),5,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.4514
+95,Intern (Generative AI Engineering - 2D/3D Image Generation),6,261,Senior Operations Research Analyst,Wayfair,"Boston, MA 02116",0.4428
+95,Intern (Generative AI Engineering - 2D/3D Image Generation),7,338,Operations Research Analyst (Mid Level),Engility,"San Diego, CA 92108",0.4362
+95,Intern (Generative AI Engineering - 2D/3D Image Generation),8,395,"Sr. Manager , Data Science Forecasting",Newell Brands,"Atlanta, GA",0.4353
+95,Intern (Generative AI Engineering - 2D/3D Image Generation),9,372,Staff Electrical Engineer,Burns & McDonnell,"Chicago, IL 60664",0.4315
+95,Intern (Generative AI Engineering - 2D/3D Image Generation),10,361,Data Engineer,Gallup,"Atlanta, GA",0.4296
+96,Project Coordinator (Civil),1,253,Sr. Data Scientist,HighPoint,"Washington, DC",0.5886
+96,Project Coordinator (Civil),2,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.5582
+96,Project Coordinator (Civil),3,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.5518
+96,Project Coordinator (Civil),4,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.5503
+96,Project Coordinator (Civil),5,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.548
+96,Project Coordinator (Civil),6,16,"Data Scientist, Mid",Booz Allen Hamilton,"Washington, DC",0.5475
+96,Project Coordinator (Civil),7,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.5472
+96,Project Coordinator (Civil),8,170,Data Scientist/Engineer,OUTFRONT media,"New York, NY",0.5458
+96,Project Coordinator (Civil),9,397,Research Analyst,D.A. Davidson & Co.,"Seattle, WA 98104",0.5433
+96,Project Coordinator (Civil),10,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.5407
+97,Network Support Engineer,1,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.6843
+97,Network Support Engineer,2,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.6297
+97,Network Support Engineer,3,386,"Machine Learning Engineer – Build large, Cloud based ML systems",Camden Kelly Corporation,"Los Angeles, CA",0.6067
+97,Network Support Engineer,4,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.6023
+97,Network Support Engineer,5,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.6004
+97,Network Support Engineer,6,52,Principal Machine / Deep Learning Scientist,JD.com,"Mountain View, CA",0.5915
+97,Network Support Engineer,7,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.59
+97,Network Support Engineer,8,376,Data Scientist.,Lorven Technologies,"New York, NY",0.5839
+97,Network Support Engineer,9,283,Deep Learning Scientist,Harnham,"San Francisco, CA",0.5784
+97,Network Support Engineer,10,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5771
+98,Executive/ Sr. Executive -IT,1,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5187
+98,Executive/ Sr. Executive -IT,2,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.4817
+98,Executive/ Sr. Executive -IT,3,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.4639
+98,Executive/ Sr. Executive -IT,4,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.4582
+98,Executive/ Sr. Executive -IT,5,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.4556
+98,Executive/ Sr. Executive -IT,6,137,Associate Systems Analyst,Broad Institute,"Cambridge, MA",0.4537
+98,Executive/ Sr. Executive -IT,7,154,Automation Engineer,Zymergen,"Emeryville, CA 94608",0.4468
+98,Executive/ Sr. Executive -IT,8,368,"Software Development Engineer, Measurement Automation",Amazon.com,"Seattle, WA",0.4416
+98,Executive/ Sr. Executive -IT,9,287,Software Development Manager,Lab126,"Seattle, WA",0.4415
+98,Executive/ Sr. Executive -IT,10,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.4412
+99,"Full Stack Developer (Python,React js)",1,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.6087
+99,"Full Stack Developer (Python,React js)",2,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.5834
+99,"Full Stack Developer (Python,React js)",3,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.5802
+99,"Full Stack Developer (Python,React js)",4,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.5723
+99,"Full Stack Developer (Python,React js)",5,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.5722
+99,"Full Stack Developer (Python,React js)",6,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.5693
+99,"Full Stack Developer (Python,React js)",7,88,Sales Engineer,Anaconda,"Austin, TX",0.5543
+99,"Full Stack Developer (Python,React js)",8,347,Principal Engineer,ZestFinance,"Los Angeles, CA",0.5463
+99,"Full Stack Developer (Python,React js)",9,287,Software Development Manager,Lab126,"Seattle, WA",0.5455
+99,"Full Stack Developer (Python,React js)",10,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5396
+100,Mechanical Engineer,1,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5246
+100,Mechanical Engineer,2,347,Principal Engineer,ZestFinance,"Los Angeles, CA",0.5187
+100,Mechanical Engineer,3,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.5155
+100,Mechanical Engineer,4,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.5009
+100,Mechanical Engineer,5,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.4902
+100,Mechanical Engineer,6,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.482
+100,Mechanical Engineer,7,287,Software Development Manager,Lab126,"Seattle, WA",0.4808
+100,Mechanical Engineer,8,376,Data Scientist.,Lorven Technologies,"New York, NY",0.479
+100,Mechanical Engineer,9,5,Senior Architect 1,Nielsen,"Chicago, IL 60647",0.4751
+100,Mechanical Engineer,10,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.4748
+101,Data Science Engineer,1,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5117
+101,Data Science Engineer,2,169,Project Engineer II - Electronic Systems Integration & Test (659059) - Security clearance required,Ball Aerospace,"Boulder, CO",0.4559
+101,Data Science Engineer,3,357,Industrial Operations Manager (663748),Ball Aerospace,"Boulder, CO",0.4525
+101,Data Science Engineer,4,184,Water Resources Engineer 5,CDM Smith,"Austin, TX 78727",0.4409
+101,Data Science Engineer,5,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.4271
+101,Data Science Engineer,6,368,"Software Development Engineer, Measurement Automation",Amazon.com,"Seattle, WA",0.4262
+101,Data Science Engineer,7,218,Detector Engineering Systems Engineer (663686) - Security Clearance Required,Ball Aerospace,"Boulder, CO",0.4252
+101,Data Science Engineer,8,137,Associate Systems Analyst,Broad Institute,"Cambridge, MA",0.4239
+101,Data Science Engineer,9,93,Environmental Scientist,Eagle SNG,"Parsippany, NJ",0.4234
+101,Data Science Engineer,10,332,QA Engineer,Schireson,"Boston, MA",0.4221
+102,Mechanical Engineer,1,376,Data Scientist.,Lorven Technologies,"New York, NY",0.5413
+102,Mechanical Engineer,2,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.4846
+102,Mechanical Engineer,3,233,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.4728
+102,Mechanical Engineer,4,229,"Director, Data Science",84.51°,"Chicago, IL",0.4709
+102,Mechanical Engineer,5,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.4631
+102,Mechanical Engineer,6,336,"Data Scientist, Machine Learning & AI",Etsy,"Brooklyn, NY",0.4621
+102,Mechanical Engineer,7,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.4547
+102,Mechanical Engineer,8,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.4439
+102,Mechanical Engineer,9,52,Principal Machine / Deep Learning Scientist,JD.com,"Mountain View, CA",0.4437
+102,Mechanical Engineer,10,374,Sr Deep Learning Software Engineer,NVIDIA,"Boulder, CO 80302",0.4426
+103,Executive - VAT,1,395,"Sr. Manager , Data Science Forecasting",Newell Brands,"Atlanta, GA",0.5246
+103,Executive - VAT,2,312,Data Scientist II,Elevate,"San Diego, CA",0.5015
+103,Executive - VAT,3,86,"Principal, Data Scientist",Smith Hanley Associates,"San Francisco, CA",0.4988
+103,Executive - VAT,4,373,Data Scientist,Inspire Brands,"Atlanta, GA",0.4846
+103,Executive - VAT,5,95,Quantitative Marketing Analyst,A Place for Mom,"Seattle, WA",0.4844
+103,Executive - VAT,6,180,Program Manager,JD.com,"Mountain View, CA",0.4832
+103,Executive - VAT,7,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4743
+103,Executive - VAT,8,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.4713
+103,Executive - VAT,9,106,Pricing & Promotions Data Scientist,Groupon,"Chicago, IL 60654",0.4645
+103,Executive - VAT,10,246,Sr. Media Planner (Los Angeles),BuzzFeed,"Los Angeles, CA 90036",0.4633
+104,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",1,357,Industrial Operations Manager (663748),Ball Aerospace,"Boulder, CO",0.552
+104,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",2,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5487
+104,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",3,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.5381
+104,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",4,162,"Sr. Data Engineer, International Consumer FP&A",Amazon.com,"Seattle, WA",0.5335
+104,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",5,236,Data & Analytics Training Coordinator,Allstate,"Menlo Park, CA 94026",0.5251
+104,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",6,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.5189
+104,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",7,21,Data Scientist,Diverse Lynx,"New York, NY",0.5181
+104,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",8,58,"Staffing Services Specialist, Hiring Committee Training",Google,"Mountain View, CA",0.5131
+104,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",9,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.51
+104,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",10,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.5097
+105,Sr.Officer / Executive - Internal Audit,1,58,"Staffing Services Specialist, Hiring Committee Training",Google,"Mountain View, CA",0.5515
+105,Sr.Officer / Executive - Internal Audit,2,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.5037
+105,Sr.Officer / Executive - Internal Audit,3,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4995
+105,Sr.Officer / Executive - Internal Audit,4,312,Data Scientist II,Elevate,"San Diego, CA",0.493
+105,Sr.Officer / Executive - Internal Audit,5,362,Data Scientist I,Carney,"Washington, DC",0.4911
+105,Sr.Officer / Executive - Internal Audit,6,383,Data Science Curriculum Developer,Galvanize,"San Francisco, CA",0.4855
+105,Sr.Officer / Executive - Internal Audit,7,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.4849
+105,Sr.Officer / Executive - Internal Audit,8,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.4824
+105,Sr.Officer / Executive - Internal Audit,9,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.4805
+105,Sr.Officer / Executive - Internal Audit,10,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4766
+106,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",1,59,"Data Scientist, Marketing",Rally Health,"San Francisco, CA",0.6104
+106,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",2,312,Data Scientist II,Elevate,"San Diego, CA",0.6033
+106,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",3,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.6021
+106,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",4,229,"Director, Data Science",84.51°,"Chicago, IL",0.577
+106,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",5,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5763
+106,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",6,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.5688
+106,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",7,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.5681
+106,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",8,361,Data Engineer,Gallup,"Atlanta, GA",0.5551
+106,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",9,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5525
+106,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",10,16,"Data Scientist, Mid",Booz Allen Hamilton,"Washington, DC",0.5513
+107,HR Officer,1,93,Environmental Scientist,Eagle SNG,"Parsippany, NJ",0.4243
+107,HR Officer,2,138,Process Development Scientist I,Prometheus Laboratories Inc.,"San Diego, CA 92121",0.421
+107,HR Officer,3,161,Implementation Scientist,Atlas Research,"Washington, DC 20005",0.4099
+107,HR Officer,4,358,Associate Director Signal Management,Takeda Pharmaceutical,"Boston, MA",0.4054
+107,HR Officer,5,394,Senior Security Technical Program Manager,The Climate Corporation,"Seattle, WA",0.403
+107,HR Officer,6,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.3969
+107,HR Officer,7,219,Data and Policy Analyst - Statistical Programmer,Acumen LLC,"Burlingame, CA 94010",0.3965
+107,HR Officer,8,71,Research Analyst,NORC at the University of Chicago,"Chicago, IL",0.3937
+107,HR Officer,9,134,Academic Personnel Specialist,UCLA,"Los Angeles, CA",0.3863
+107,HR Officer,10,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.3817
+108,Head of Internal Control & Compliance (ICC) - SEVP/DMD,1,93,Environmental Scientist,Eagle SNG,"Parsippany, NJ",0.5259
+108,Head of Internal Control & Compliance (ICC) - SEVP/DMD,2,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.5223
+108,Head of Internal Control & Compliance (ICC) - SEVP/DMD,3,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.5129
+108,Head of Internal Control & Compliance (ICC) - SEVP/DMD,4,395,"Sr. Manager , Data Science Forecasting",Newell Brands,"Atlanta, GA",0.4918
+108,Head of Internal Control & Compliance (ICC) - SEVP/DMD,5,138,Process Development Scientist I,Prometheus Laboratories Inc.,"San Diego, CA 92121",0.4912
+108,Head of Internal Control & Compliance (ICC) - SEVP/DMD,6,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.487
+108,Head of Internal Control & Compliance (ICC) - SEVP/DMD,7,162,"Sr. Data Engineer, International Consumer FP&A",Amazon.com,"Seattle, WA",0.4839
+108,Head of Internal Control & Compliance (ICC) - SEVP/DMD,8,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4824
+108,Head of Internal Control & Compliance (ICC) - SEVP/DMD,9,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.4764
+108,Head of Internal Control & Compliance (ICC) - SEVP/DMD,10,237,Research Analyst Intern - Blockchain,Fresh Digital Group,"New York, NY 10038 ",0.4668
+109,Civil Engineer,1,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.4455
+109,Civil Engineer,2,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4393
+109,Civil Engineer,3,399,Operations Research Analyst,Grant Thornton,"Washington, DC 20036",0.4317
+109,Civil Engineer,4,237,Research Analyst Intern - Blockchain,Fresh Digital Group,"New York, NY 10038 ",0.4248
+109,Civil Engineer,5,395,"Sr. Manager , Data Science Forecasting",Newell Brands,"Atlanta, GA",0.4239
+109,Civil Engineer,6,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.414
+109,Civil Engineer,7,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.4134
+109,Civil Engineer,8,314,Quantitative Finance Analyst,Bank of America,"Atlanta, GA 30308 ",0.4125
+109,Civil Engineer,9,242,Manager - Cognitive Data Scientist Natural Language Processing,KPMG,"Atlanta, GA 30338",0.4107
+109,Civil Engineer,10,312,Data Scientist II,Elevate,"San Diego, CA",0.4104
+110,Business Development Executive,1,371,Sales Director - Federal,Zoomdata,"Washington, DC",0.4913
+110,Business Development Executive,2,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.4759
+110,Business Development Executive,3,297,Validated Business Systems Analyst,HawkinsPointPartners,"Cambridge, MA 02138",0.4529
+110,Business Development Executive,4,245,"Research Analyst, Proposals",Sotheby’s,"New York, NY",0.4432
+110,Business Development Executive,5,274,Senior Data Scientist,Prudential,"Newark, NJ",0.44
+110,Business Development Executive,6,323,Quantitative Corporate Finance Analyst,Global Atlantic Financial Group,"New York, NY",0.4398
+110,Business Development Executive,7,95,Quantitative Marketing Analyst,A Place for Mom,"Seattle, WA",0.4379
+110,Business Development Executive,8,282,"Director, Data Science",Capital One,"New York, NY 10261",0.4363
+110,Business Development Executive,9,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.4224
+110,Business Development Executive,10,299,Senior Data Scientist,Cogitativo,"Berkeley, CA",0.4218
+111,Mechanical Engineer,1,283,Deep Learning Scientist,Harnham,"San Francisco, CA",0.6711
+111,Mechanical Engineer,2,52,Principal Machine / Deep Learning Scientist,JD.com,"Mountain View, CA",0.6173
+111,Mechanical Engineer,3,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.6088
+111,Mechanical Engineer,4,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.6
+111,Mechanical Engineer,5,376,Data Scientist.,Lorven Technologies,"New York, NY",0.5914
+111,Mechanical Engineer,6,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5875
+111,Mechanical Engineer,7,386,"Machine Learning Engineer – Build large, Cloud based ML systems",Camden Kelly Corporation,"Los Angeles, CA",0.5784
+111,Mechanical Engineer,8,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5761
+111,Mechanical Engineer,9,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.5605
+111,Mechanical Engineer,10,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.5568
+112,Senior iOS Engineer,1,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.5347
+112,Senior iOS Engineer,2,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5347
+112,Senior iOS Engineer,3,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.5109
+112,Senior iOS Engineer,4,364,Senior Software Engineer,Clockwork Solutions,"Austin, TX 78746",0.5032
+112,Senior iOS Engineer,5,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.4926
+112,Senior iOS Engineer,6,88,Sales Engineer,Anaconda,"Austin, TX",0.4901
+112,Senior iOS Engineer,7,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.4874
+112,Senior iOS Engineer,8,353,"Software Engineer, Analytics",Humanyze,"Boston, MA 02114",0.479
+112,Senior iOS Engineer,9,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.4763
+112,Senior iOS Engineer,10,87,"Data Scientist, Insights Team (Siri Search and Knowledge)",Apple,"San Francisco, CA 94114",0.4728
+113,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",1,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.508
+113,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",2,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5006
+113,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",3,357,Industrial Operations Manager (663748),Ball Aerospace,"Boulder, CO",0.495
+113,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",4,93,Environmental Scientist,Eagle SNG,"Parsippany, NJ",0.4853
+113,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",5,338,Operations Research Analyst (Mid Level),Engility,"San Diego, CA 92108",0.4821
+113,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",6,169,Project Engineer II - Electronic Systems Integration & Test (659059) - Security clearance required,Ball Aerospace,"Boulder, CO",0.4607
+113,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",7,184,Water Resources Engineer 5,CDM Smith,"Austin, TX 78727",0.4506
+113,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",8,57,Senior Firmware Engineer - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.4451
+113,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",9,267,IT Cloud Engineer (Active Top Secret),Jacobs,"Washington, DC",0.4353
+113,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",10,199,Engineer/Research & Development Analyst,CACI,"Washington, DC 20005",0.4286
+114,AI Engineer,1,162,"Sr. Data Engineer, International Consumer FP&A",Amazon.com,"Seattle, WA",0.4817
+114,AI Engineer,2,30,Principal Machine Learning Data Scientist - Cloud Platform,Capital One,"New York, NY 10261 ",0.4766
+114,AI Engineer,3,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.473
+114,AI Engineer,4,21,Data Scientist,Diverse Lynx,"New York, NY",0.4721
+114,AI Engineer,5,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.472
+114,AI Engineer,6,16,"Data Scientist, Mid",Booz Allen Hamilton,"Washington, DC",0.4699
+114,AI Engineer,7,312,Data Scientist II,Elevate,"San Diego, CA",0.4688
+114,AI Engineer,8,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.4677
+114,AI Engineer,9,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.4666
+114,AI Engineer,10,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4659
+115,HR Officer,1,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.4669
+115,HR Officer,2,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.4472
+115,HR Officer,3,394,Senior Security Technical Program Manager,The Climate Corporation,"Seattle, WA",0.4466
+115,HR Officer,4,49,Engineering Leadership - Data Engineering,Riot Games,"Los Angeles, CA",0.4349
+115,HR Officer,5,399,Operations Research Analyst,Grant Thornton,"Washington, DC 20036",0.4293
+115,HR Officer,6,5,Senior Architect 1,Nielsen,"Chicago, IL 60647",0.4291
+115,HR Officer,7,372,Staff Electrical Engineer,Burns & McDonnell,"Chicago, IL 60664",0.4287
+115,HR Officer,8,290,Associate Architect,Microsoft,"Seattle, WA 98188",0.427
+115,HR Officer,9,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.4216
+115,HR Officer,10,55,Senior Design Researcher,Microsoft,"Redmond, WA 98052",0.4192
+116,"Manager- Human Resource Management (HRM)
+",1,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5772
+116,"Manager- Human Resource Management (HRM)
+",2,312,Data Scientist II,Elevate,"San Diego, CA",0.5624
+116,"Manager- Human Resource Management (HRM)
+",3,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.5576
+116,"Manager- Human Resource Management (HRM)
+",4,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.5574
+116,"Manager- Human Resource Management (HRM)
+",5,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.5572
+116,"Manager- Human Resource Management (HRM)
+",6,287,Software Development Manager,Lab126,"Seattle, WA",0.5476
+116,"Manager- Human Resource Management (HRM)
+",7,275,Lead Analytic Scientist (AI/Machine Learning/Java),FICO,"San Diego, CA",0.5439
+116,"Manager- Human Resource Management (HRM)
+",8,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.5383
+116,"Manager- Human Resource Management (HRM)
+",9,301,"Staff Engineer, Machine Learning (macys.com)",Macy's,"San Francisco, CA",0.5339
+116,"Manager- Human Resource Management (HRM)
+",10,361,Data Engineer,Gallup,"Atlanta, GA",0.5326
+117,Machine Learning (ML) Engineer,1,49,Engineering Leadership - Data Engineering,Riot Games,"Los Angeles, CA",0.4887
+117,Machine Learning (ML) Engineer,2,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.4666
+117,Machine Learning (ML) Engineer,3,355,Lead Data Scientist,ZestFinance,"Los Angeles, CA",0.466
+117,Machine Learning (ML) Engineer,4,275,Lead Analytic Scientist (AI/Machine Learning/Java),FICO,"San Diego, CA",0.425
+117,Machine Learning (ML) Engineer,5,79,"Software Engineer, Machine Learning",Facebook,"Boston, MA",0.4218
+117,Machine Learning (ML) Engineer,6,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.4162
+117,Machine Learning (ML) Engineer,7,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.4122
+117,Machine Learning (ML) Engineer,8,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.4113
+117,Machine Learning (ML) Engineer,9,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.4064
+117,Machine Learning (ML) Engineer,10,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.4043
+118,Sr.Officer / Executive - Internal Audit,1,363,Machine Learning Engineer - Center of Excellence - Associate,JP Morgan Chase,"New York, NY 10001 ",0.4993
+118,Sr.Officer / Executive - Internal Audit,2,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.4945
+118,Sr.Officer / Executive - Internal Audit,3,233,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.469
+118,Sr.Officer / Executive - Internal Audit,4,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.4478
+118,Sr.Officer / Executive - Internal Audit,5,312,Data Scientist II,Elevate,"San Diego, CA",0.4413
+118,Sr.Officer / Executive - Internal Audit,6,376,Data Scientist.,Lorven Technologies,"New York, NY",0.4408
+118,Sr.Officer / Executive - Internal Audit,7,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.4141
+118,Sr.Officer / Executive - Internal Audit,8,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.4038
+118,Sr.Officer / Executive - Internal Audit,9,265,Credit Risk Quantitative Analyst,CITIZENS BANK,"Boston, MA",0.4002
+118,Sr.Officer / Executive - Internal Audit,10,374,Sr Deep Learning Software Engineer,NVIDIA,"Boulder, CO 80302",0.3907
+119,Project Coordinator (Civil),1,49,Engineering Leadership - Data Engineering,Riot Games,"Los Angeles, CA",0.3844
+119,Project Coordinator (Civil),2,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.3718
+119,Project Coordinator (Civil),3,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.3667
+119,Project Coordinator (Civil),4,391,Information Security Lead - New Ventures Technology,McKinsey & Company,"Chicago, IL",0.3636
+119,Project Coordinator (Civil),5,267,IT Cloud Engineer (Active Top Secret),Jacobs,"Washington, DC",0.3602
+119,Project Coordinator (Civil),6,79,"Software Engineer, Machine Learning",Facebook,"Boston, MA",0.3554
+119,Project Coordinator (Civil),7,217,"VP, Data Science",AppNexus,"New York, NY 10010 ",0.3516
+119,Project Coordinator (Civil),8,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.3498
+119,Project Coordinator (Civil),9,226,Quantitative Analyst,Acuris,"New York, NY",0.3486
+119,Project Coordinator (Civil),10,289,Big Data SW Engineer,KPMG,"New York, NY 10154 ",0.3478
+120,Machine Learning (ML) Engineer,1,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.5881
+120,Machine Learning (ML) Engineer,2,353,"Software Engineer, Analytics",Humanyze,"Boston, MA 02114",0.5782
+120,Machine Learning (ML) Engineer,3,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.578
+120,Machine Learning (ML) Engineer,4,87,"Data Scientist, Insights Team (Siri Search and Knowledge)",Apple,"San Francisco, CA 94114",0.5639
+120,Machine Learning (ML) Engineer,5,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.5636
+120,Machine Learning (ML) Engineer,6,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.552
+120,Machine Learning (ML) Engineer,7,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.5457
+120,Machine Learning (ML) Engineer,8,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.5445
+120,Machine Learning (ML) Engineer,9,17,"Manager, Data Scientist (AI/NLP)",KPMG,"Chicago, IL 60601",0.5442
+120,Machine Learning (ML) Engineer,10,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.541
+121,Database Administrator (DBA),1,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.5301
+121,Database Administrator (DBA),2,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.514
+121,Database Administrator (DBA),3,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.4977
+121,Database Administrator (DBA),4,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4855
+121,Database Administrator (DBA),5,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.4852
+121,Database Administrator (DBA),6,21,Data Scientist,Diverse Lynx,"New York, NY",0.4839
+121,Database Administrator (DBA),7,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4796
+121,Database Administrator (DBA),8,312,Data Scientist II,Elevate,"San Diego, CA",0.4793
+121,Database Administrator (DBA),9,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.477
+121,Database Administrator (DBA),10,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.473
+122,Senior iOS Engineer,1,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.5384
+122,Senior iOS Engineer,2,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.5011
+122,Senior iOS Engineer,3,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4966
+122,Senior iOS Engineer,4,32,Software Engineering Manager - Account Take Over,Sift Science,"Seattle, WA",0.486
+122,Senior iOS Engineer,5,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.4856
+122,Senior iOS Engineer,6,274,Senior Data Scientist,Prudential,"Newark, NJ",0.4829
+122,Senior iOS Engineer,7,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.4818
+122,Senior iOS Engineer,8,237,Research Analyst Intern - Blockchain,Fresh Digital Group,"New York, NY 10038 ",0.4809
+122,Senior iOS Engineer,9,332,QA Engineer,Schireson,"Boston, MA",0.476
+122,Senior iOS Engineer,10,275,Lead Analytic Scientist (AI/Machine Learning/Java),FICO,"San Diego, CA",0.476
+123,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",1,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.6881
+123,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",2,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.6861
+123,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",3,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.6535
+123,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",4,312,Data Scientist II,Elevate,"San Diego, CA",0.6496
+123,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",5,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.6463
+123,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",6,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.638
+123,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",7,324,"Lead Data Science Instructor, Principal Data Scientist",Galvanize,"San Francisco, CA",0.6364
+123,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",8,353,"Software Engineer, Analytics",Humanyze,"Boston, MA 02114",0.6353
+123,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",9,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.6248
+123,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",10,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.6246
+124,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",1,332,QA Engineer,Schireson,"Boston, MA",0.5704
+124,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",2,95,Quantitative Marketing Analyst,A Place for Mom,"Seattle, WA",0.5395
+124,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",3,394,Senior Security Technical Program Manager,The Climate Corporation,"Seattle, WA",0.5146
+124,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",4,361,Data Engineer,Gallup,"Atlanta, GA",0.5105
+124,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",5,228,Principal Engineer,Cotiviti,"Atlanta, GA",0.4976
+124,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",6,338,Operations Research Analyst (Mid Level),Engility,"San Diego, CA 92108",0.4925
+124,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",7,184,Water Resources Engineer 5,CDM Smith,"Austin, TX 78727",0.4913
+124,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",8,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.4744
+124,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",9,154,Automation Engineer,Zymergen,"Emeryville, CA 94608",0.4641
+124,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",10,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4625
+125,Senior iOS Engineer,1,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.6451
+125,Senior iOS Engineer,2,70,Sr. Software Engineer - Machine Learning,Vulcan Inc.,"Seattle, WA",0.59
+125,Senior iOS Engineer,3,374,Sr Deep Learning Software Engineer,NVIDIA,"Boulder, CO 80302",0.5722
+125,Senior iOS Engineer,4,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.5641
+125,Senior iOS Engineer,5,376,Data Scientist.,Lorven Technologies,"New York, NY",0.561
+125,Senior iOS Engineer,6,233,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.5589
+125,Senior iOS Engineer,7,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.5578
+125,Senior iOS Engineer,8,52,Principal Machine / Deep Learning Scientist,JD.com,"Mountain View, CA",0.5476
+125,Senior iOS Engineer,9,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.5465
+125,Senior iOS Engineer,10,296,"Software Development Manager, Speech",Amazon.com,"Sunnyvale, CA",0.522
+126,Intern (Generative AI Engineering - 2D/3D Image Generation),1,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.6136
+126,Intern (Generative AI Engineering - 2D/3D Image Generation),2,312,Data Scientist II,Elevate,"San Diego, CA",0.5594
+126,Intern (Generative AI Engineering - 2D/3D Image Generation),3,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.5548
+126,Intern (Generative AI Engineering - 2D/3D Image Generation),4,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.551
+126,Intern (Generative AI Engineering - 2D/3D Image Generation),5,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.5452
+126,Intern (Generative AI Engineering - 2D/3D Image Generation),6,85,"Sr. Applied Scientist, Analytics, Insights and Measurements",Amazon.com,"Seattle, WA",0.5422
+126,Intern (Generative AI Engineering - 2D/3D Image Generation),7,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5382
+126,Intern (Generative AI Engineering - 2D/3D Image Generation),8,395,"Sr. Manager , Data Science Forecasting",Newell Brands,"Atlanta, GA",0.5374
+126,Intern (Generative AI Engineering - 2D/3D Image Generation),9,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.5253
+126,Intern (Generative AI Engineering - 2D/3D Image Generation),10,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.5229
+127,Executive - VAT,1,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.472
+127,Executive - VAT,2,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.443
+127,Executive - VAT,3,229,"Director, Data Science",84.51°,"Chicago, IL",0.4334
+127,Executive - VAT,4,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.4273
+127,Executive - VAT,5,88,Sales Engineer,Anaconda,"Austin, TX",0.4219
+127,Executive - VAT,6,250,Senior Software Engineer,BlackLocus,"Austin, TX 78701",0.4213
+127,Executive - VAT,7,324,"Lead Data Science Instructor, Principal Data Scientist",Galvanize,"San Francisco, CA",0.4178
+127,Executive - VAT,8,376,Data Scientist.,Lorven Technologies,"New York, NY",0.4048
+127,Executive - VAT,9,233,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.4013
+127,Executive - VAT,10,114,"Software Engineer, Machine Learning",Tempus,"Chicago, IL 60654",0.3957
+128,Marketing Officer,1,95,Quantitative Marketing Analyst,A Place for Mom,"Seattle, WA",0.523
+128,Marketing Officer,2,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.5043
+128,Marketing Officer,3,275,Lead Analytic Scientist (AI/Machine Learning/Java),FICO,"San Diego, CA",0.4962
+128,Marketing Officer,4,138,Process Development Scientist I,Prometheus Laboratories Inc.,"San Diego, CA 92121",0.4878
+128,Marketing Officer,5,399,Operations Research Analyst,Grant Thornton,"Washington, DC 20036",0.4841
+128,Marketing Officer,6,65,"Sr. Vice President, Data Analytics",UnitedHealth Group,"Chicago, IL 60290",0.4806
+128,Marketing Officer,7,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.4795
+128,Marketing Officer,8,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.474
+128,Marketing Officer,9,361,Data Engineer,Gallup,"Atlanta, GA",0.4665
+128,Marketing Officer,10,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4604
+129,Mechanical Designer,1,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.5053
+129,Mechanical Designer,2,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.5025
+129,Mechanical Designer,3,357,Industrial Operations Manager (663748),Ball Aerospace,"Boulder, CO",0.4947
+129,Mechanical Designer,4,137,Associate Systems Analyst,Broad Institute,"Cambridge, MA",0.4737
+129,Mechanical Designer,5,247,Sr. Staff Process Engineer,Illumina,"San Diego, CA",0.4668
+129,Mechanical Designer,6,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.461
+129,Mechanical Designer,7,163,Technical Specialist I-Mechanical (663397),Ball Aerospace,"Boulder, CO",0.4419
+129,Mechanical Designer,8,184,Water Resources Engineer 5,CDM Smith,"Austin, TX 78727",0.4367
+129,Mechanical Designer,9,368,"Software Development Engineer, Measurement Automation",Amazon.com,"Seattle, WA",0.4361
+129,Mechanical Designer,10,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4352
+130,Marketing Officer,1,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.5586
+130,Marketing Officer,2,59,"Data Scientist, Marketing",Rally Health,"San Francisco, CA",0.5178
+130,Marketing Officer,3,75,OGIQ Research Analyst,Options Group,"New York, NY 10003 ",0.5001
+130,Marketing Officer,4,111,Business Analytics Analyst,Delve,"Boulder, CO",0.4966
+130,Marketing Officer,5,246,Sr. Media Planner (Los Angeles),BuzzFeed,"Los Angeles, CA 90036",0.4928
+130,Marketing Officer,6,58,"Staffing Services Specialist, Hiring Committee Training",Google,"Mountain View, CA",0.4913
+130,Marketing Officer,7,29,"Associate Manager, Agile Paid Media",The Home Depot,"Atlanta, GA",0.4878
+130,Marketing Officer,8,268,Senior Business Recruiter,Square,"San Francisco, CA 94103",0.4817
+130,Marketing Officer,9,301,"Staff Engineer, Machine Learning (macys.com)",Macy's,"San Francisco, CA",0.4799
+130,Marketing Officer,10,241,"Sr. Manager, Insights & Analytics",Golin,"Chicago, IL",0.4724
+131,Mechanical Designer,1,330,Experienced Quantitative Analyst - Insurance Modeling & Major Initiatives,Allstate,"Chicago, IL 60601",0.443
+131,Mechanical Designer,2,67,Software Product Manager,Partners HealthCare(PHS),"Boston, MA",0.4403
+131,Mechanical Designer,3,130,Data Science Analyst III - Population Health - Mount Sinai Health Partners,Mount Sinai,"New York, NY",0.4367
+131,Mechanical Designer,4,188,ANALYTICS MANAGEMENT ANALYST,University of Washington,"Seattle, WA",0.432
+131,Mechanical Designer,5,43,SENIOR VALUE BASED ANALYST,University of Washington,"Seattle, WA",0.4287
+131,Mechanical Designer,6,344,Data Scientist,Vituity,"Emeryville, CA 94608",0.4286
+131,Mechanical Designer,7,299,Senior Data Scientist,Cogitativo,"Berkeley, CA",0.4226
+131,Mechanical Designer,8,95,Quantitative Marketing Analyst,A Place for Mom,"Seattle, WA",0.4177
+131,Mechanical Designer,9,231,CONTACT CENTER REPRESENTATIVE 1,University of Washington,"Seattle, WA",0.4176
+131,Mechanical Designer,10,161,Implementation Scientist,Atlas Research,"Washington, DC 20005",0.4172
+132,Executive/ Sr. Executive -IT,1,64,Data Engineer,Workbridge Associates,"Mountain View, CA",0.6492
+132,Executive/ Sr. Executive -IT,2,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.6469
+132,Executive/ Sr. Executive -IT,3,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6454
+132,Executive/ Sr. Executive -IT,4,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.6351
+132,Executive/ Sr. Executive -IT,5,376,Data Scientist.,Lorven Technologies,"New York, NY",0.6338
+132,Executive/ Sr. Executive -IT,6,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.6306
+132,Executive/ Sr. Executive -IT,7,362,Data Scientist I,Carney,"Washington, DC",0.6066
+132,Executive/ Sr. Executive -IT,8,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.6006
+132,Executive/ Sr. Executive -IT,9,52,Principal Machine / Deep Learning Scientist,JD.com,"Mountain View, CA",0.5946
+132,Executive/ Sr. Executive -IT,10,196,Sr. Data Scientist REMOTE,Harnham,"San Francisco, CA",0.5942
+133,Executive - VAT,1,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.5447
+133,Executive - VAT,2,253,Sr. Data Scientist,HighPoint,"Washington, DC",0.4978
+133,Executive - VAT,3,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4955
+133,Executive - VAT,4,287,Software Development Manager,Lab126,"Seattle, WA",0.4854
+133,Executive - VAT,5,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.4853
+133,Executive - VAT,6,58,"Staffing Services Specialist, Hiring Committee Training",Google,"Mountain View, CA",0.4751
+133,Executive - VAT,7,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.4737
+133,Executive - VAT,8,399,Operations Research Analyst,Grant Thornton,"Washington, DC 20036",0.4706
+133,Executive - VAT,9,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.469
+133,Executive - VAT,10,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4636
+134,Head of Internal Control & Compliance (ICC) - SEVP/DMD,1,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.4871
+134,Head of Internal Control & Compliance (ICC) - SEVP/DMD,2,314,Quantitative Finance Analyst,Bank of America,"Atlanta, GA 30308 ",0.4546
+134,Head of Internal Control & Compliance (ICC) - SEVP/DMD,3,297,Validated Business Systems Analyst,HawkinsPointPartners,"Cambridge, MA 02138",0.4445
+134,Head of Internal Control & Compliance (ICC) - SEVP/DMD,4,274,Senior Data Scientist,Prudential,"Newark, NJ",0.4358
+134,Head of Internal Control & Compliance (ICC) - SEVP/DMD,5,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4343
+134,Head of Internal Control & Compliance (ICC) - SEVP/DMD,6,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.434
+134,Head of Internal Control & Compliance (ICC) - SEVP/DMD,7,323,Quantitative Corporate Finance Analyst,Global Atlantic Financial Group,"New York, NY",0.4311
+134,Head of Internal Control & Compliance (ICC) - SEVP/DMD,8,397,Research Analyst,D.A. Davidson & Co.,"Seattle, WA 98104",0.429
+134,Head of Internal Control & Compliance (ICC) - SEVP/DMD,9,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.4285
+134,Head of Internal Control & Compliance (ICC) - SEVP/DMD,10,371,Sales Director - Federal,Zoomdata,"Washington, DC",0.4252
+135,Site Engineer,1,266,Backend Data Engineer,Tier1 IT,"New York, NY",0.5165
+135,Site Engineer,2,198,Data Engineer,Beeswax,"New York, NY",0.4741
+135,Site Engineer,3,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.4715
+135,Site Engineer,4,49,Engineering Leadership - Data Engineering,Riot Games,"Los Angeles, CA",0.4345
+135,Site Engineer,5,5,Senior Architect 1,Nielsen,"Chicago, IL 60647",0.4344
+135,Site Engineer,6,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.4317
+135,Site Engineer,7,364,Senior Software Engineer,Clockwork Solutions,"Austin, TX 78746",0.4283
+135,Site Engineer,8,347,Principal Engineer,ZestFinance,"Los Angeles, CA",0.4233
+135,Site Engineer,9,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.4192
+135,Site Engineer,10,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.4132
+136,Sr.Officer / Executive - Internal Audit,1,330,Experienced Quantitative Analyst - Insurance Modeling & Major Initiatives,Allstate,"Chicago, IL 60601",0.4421
+136,Sr.Officer / Executive - Internal Audit,2,188,ANALYTICS MANAGEMENT ANALYST,University of Washington,"Seattle, WA",0.434
+136,Sr.Officer / Executive - Internal Audit,3,271,"Quantitative Analyst, Health Research Microsimulation",USC,"Los Angeles, CA",0.4252
+136,Sr.Officer / Executive - Internal Audit,4,130,Data Science Analyst III - Population Health - Mount Sinai Health Partners,Mount Sinai,"New York, NY",0.423
+136,Sr.Officer / Executive - Internal Audit,5,95,Quantitative Marketing Analyst,A Place for Mom,"Seattle, WA",0.4191
+136,Sr.Officer / Executive - Internal Audit,6,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.4115
+136,Sr.Officer / Executive - Internal Audit,7,240,Quality & Data Analysis Coordinator,California Rehabilitation Institute,"Los Angeles, CA",0.4108
+136,Sr.Officer / Executive - Internal Audit,8,43,SENIOR VALUE BASED ANALYST,University of Washington,"Seattle, WA",0.4096
+136,Sr.Officer / Executive - Internal Audit,9,344,Data Scientist,Vituity,"Emeryville, CA 94608",0.4086
+136,Sr.Officer / Executive - Internal Audit,10,67,Software Product Manager,Partners HealthCare(PHS),"Boston, MA",0.3982
+137,Civil Engineer,1,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.7209
+137,Civil Engineer,2,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.6668
+137,Civil Engineer,3,363,Machine Learning Engineer - Center of Excellence - Associate,JP Morgan Chase,"New York, NY 10001 ",0.6407
+137,Civil Engineer,4,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.635
+137,Civil Engineer,5,283,Deep Learning Scientist,Harnham,"San Francisco, CA",0.627
+137,Civil Engineer,6,376,Data Scientist.,Lorven Technologies,"New York, NY",0.6258
+137,Civil Engineer,7,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.6194
+137,Civil Engineer,8,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.6053
+137,Civil Engineer,9,327,Machine Learning Specialist Solutions Architect,Amazon.com,"New York, NY",0.6032
+137,Civil Engineer,10,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6022
+138,Senior Software Engineer,1,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.4997
+138,Senior Software Engineer,2,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.496
+138,Senior Software Engineer,3,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.4829
+138,Senior Software Engineer,4,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.4663
+138,Senior Software Engineer,5,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.4455
+138,Senior Software Engineer,6,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.4454
+138,Senior Software Engineer,7,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.4254
+138,Senior Software Engineer,8,254,Senior Developer,J.E. Ranta Associates,"Boston, MA 02110",0.4219
+138,Senior Software Engineer,9,137,Associate Systems Analyst,Broad Institute,"Cambridge, MA",0.4185
+138,Senior Software Engineer,10,324,"Lead Data Science Instructor, Principal Data Scientist",Galvanize,"San Francisco, CA",0.4148
+139,Civil Engineer,1,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6498
+139,Civil Engineer,2,287,Software Development Manager,Lab126,"Seattle, WA",0.6082
+139,Civil Engineer,3,193,Senior Data Scientist,Castlight Health,"San Francisco, CA 94105",0.6042
+139,Civil Engineer,4,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.5926
+139,Civil Engineer,5,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.5879
+139,Civil Engineer,6,220,"Software Engineer, Machine Learning",Google,"San Francisco, CA",0.5856
+139,Civil Engineer,7,312,Data Scientist II,Elevate,"San Diego, CA",0.5759
+139,Civil Engineer,8,376,Data Scientist.,Lorven Technologies,"New York, NY",0.5677
+139,Civil Engineer,9,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.5657
+139,Civil Engineer,10,208,Software Development Engineer - Alexa Machine Learning,Amazon.com,"Cambridge, MA",0.565
+140,Business Development Executive,1,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.6784
+140,Business Development Executive,2,283,Deep Learning Scientist,Harnham,"San Francisco, CA",0.6669
+140,Business Development Executive,3,376,Data Scientist.,Lorven Technologies,"New York, NY",0.658
+140,Business Development Executive,4,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.6544
+140,Business Development Executive,5,52,Principal Machine / Deep Learning Scientist,JD.com,"Mountain View, CA",0.6444
+140,Business Development Executive,6,386,"Machine Learning Engineer – Build large, Cloud based ML systems",Camden Kelly Corporation,"Los Angeles, CA",0.6367
+140,Business Development Executive,7,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.6072
+140,Business Development Executive,8,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.6005
+140,Business Development Executive,9,336,"Data Scientist, Machine Learning & AI",Etsy,"Brooklyn, NY",0.5988
+140,Business Development Executive,10,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.596
+141,Senior iOS Engineer,1,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.6545
+141,Senior iOS Engineer,2,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.6303
+141,Senior iOS Engineer,3,158,Lead Data Engineer,TARGET,"Sunnyvale, CA",0.6259
+141,Senior iOS Engineer,4,125,Senior Front-End Engineer,Usermind,"Seattle, WA",0.6005
+141,Senior iOS Engineer,5,49,Engineering Leadership - Data Engineering,Riot Games,"Los Angeles, CA",0.5919
+141,Senior iOS Engineer,6,287,Software Development Manager,Lab126,"Seattle, WA",0.5831
+141,Senior iOS Engineer,7,353,"Software Engineer, Analytics",Humanyze,"Boston, MA 02114",0.5791
+141,Senior iOS Engineer,8,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.5704
+141,Senior iOS Engineer,9,361,Data Engineer,Gallup,"Atlanta, GA",0.5704
+141,Senior iOS Engineer,10,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5634
+142,Site Engineer,1,312,Data Scientist II,Elevate,"San Diego, CA",0.589
+142,Site Engineer,2,395,"Sr. Manager , Data Science Forecasting",Newell Brands,"Atlanta, GA",0.5451
+142,Site Engineer,3,380,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.5375
+142,Site Engineer,4,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.5295
+142,Site Engineer,5,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.5283
+142,Site Engineer,6,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.5163
+142,Site Engineer,7,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.5154
+142,Site Engineer,8,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.5132
+142,Site Engineer,9,86,"Principal, Data Scientist",Smith Hanley Associates,"San Francisco, CA",0.5014
+142,Site Engineer,10,275,Lead Analytic Scientist (AI/Machine Learning/Java),FICO,"San Diego, CA",0.5009
+143,Network Support Engineer,1,177,Data Scientist,Kemper Corporation,"Chicago, IL",0.468
+143,Network Support Engineer,2,347,Principal Engineer,ZestFinance,"Los Angeles, CA",0.4665
+143,Network Support Engineer,3,361,Data Engineer,Gallup,"Atlanta, GA",0.4462
+143,Network Support Engineer,4,93,Environmental Scientist,Eagle SNG,"Parsippany, NJ",0.4373
+143,Network Support Engineer,5,338,Operations Research Analyst (Mid Level),Engility,"San Diego, CA 92108",0.4309
+143,Network Support Engineer,6,184,Water Resources Engineer 5,CDM Smith,"Austin, TX 78727",0.4289
+143,Network Support Engineer,7,332,QA Engineer,Schireson,"Boston, MA",0.4253
+143,Network Support Engineer,8,345,"Manager, Data Science",Amazon.com,"Cambridge, MA",0.422
+143,Network Support Engineer,9,163,Technical Specialist I-Mechanical (663397),Ball Aerospace,"Boulder, CO",0.4218
+143,Network Support Engineer,10,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.4215
+144,Machine Learning (ML) Engineer,1,312,Data Scientist II,Elevate,"San Diego, CA",0.6091
+144,Machine Learning (ML) Engineer,2,388,Data Scientist Lead - PS8886,"Anthem, Inc.","Chicago, IL 60601",0.6091
+144,Machine Learning (ML) Engineer,3,122,"Data Analyst, Business Operations",DataRobot,"Boston, MA 02109",0.5983
+144,Machine Learning (ML) Engineer,4,59,"Data Scientist, Marketing",Rally Health,"San Francisco, CA",0.596
+144,Machine Learning (ML) Engineer,5,333,Research Data Scientist,Amazon.com,"Cambridge, MA",0.5902
+144,Machine Learning (ML) Engineer,6,74,Data Scientist,Diverse Lynx,"Redmond, WA",0.59
+144,Machine Learning (ML) Engineer,7,361,Data Engineer,Gallup,"Atlanta, GA",0.5896
+144,Machine Learning (ML) Engineer,8,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5804
+144,Machine Learning (ML) Engineer,9,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5787
+144,Machine Learning (ML) Engineer,10,157,Data Scientist,The Coca-Cola Company,"Atlanta, GA 30301 ",0.5743
+145,Data Engineer,1,124,"Technical Evangelist – Database, Analytics, and Machine Learning",Amazon.com,"Atlanta, GA",0.6439
+145,Data Engineer,2,326,"Data Scientist - Senior Consultant - San Francisco, CA",Clarity Insights,"San Francisco, CA",0.6378
+145,Data Engineer,3,139,Machine Learning Data Scientist-Equity Investment Research,Analytic Recruiting,"New York, NY 10017 ",0.6242
+145,Data Engineer,4,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.6231
+145,Data Engineer,5,40,Senior Data Scientist - California,Teradata,"San Francisco, CA 94105",0.6222
+145,Data Engineer,6,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.6074
+145,Data Engineer,7,27,Software Development Engineer,Microsoft,"Cambridge, MA",0.6048
+145,Data Engineer,8,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.6031
+145,Data Engineer,9,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5997
+145,Data Engineer,10,59,"Data Scientist, Marketing",Rally Health,"San Francisco, CA",0.5933
+146,Civil Engineer,1,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.6398
+146,Civil Engineer,2,398,"R&D Engineer, Sr II",Synopsys,"Mountain View, CA 94043",0.5696
+146,Civil Engineer,3,312,Data Scientist II,Elevate,"San Diego, CA",0.5691
+146,Civil Engineer,4,376,Data Scientist.,Lorven Technologies,"New York, NY",0.5647
+146,Civil Engineer,5,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.5641
+146,Civil Engineer,6,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.552
+146,Civil Engineer,7,52,Principal Machine / Deep Learning Scientist,JD.com,"Mountain View, CA",0.5474
+146,Civil Engineer,8,196,Sr. Data Scientist REMOTE,Harnham,"San Francisco, CA",0.5453
+146,Civil Engineer,9,273,Windows Programmer / Software Engineer (Advanced Degree) - ELSYS,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.5409
+146,Civil Engineer,10,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.5372
+147,Executive - VAT,1,376,Data Scientist.,Lorven Technologies,"New York, NY",0.6921
+147,Executive - VAT,2,181,"Data Scientist, Artificial Intelligence Engineer",Darwin Recruitment,"Boston, MA",0.6807
+147,Executive - VAT,3,185,AI Research in Machine Learning(ML),JD.com,"Mountain View, CA",0.6791
+147,Executive - VAT,4,233,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.6589
+147,Executive - VAT,5,283,Deep Learning Scientist,Harnham,"San Francisco, CA",0.6491
+147,Executive - VAT,6,52,Principal Machine / Deep Learning Scientist,JD.com,"Mountain View, CA",0.6409
+147,Executive - VAT,7,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.6353
+147,Executive - VAT,8,242,Manager - Cognitive Data Scientist Natural Language Processing,KPMG,"Atlanta, GA 30338",0.6288
+147,Executive - VAT,9,377,"Director Software Development, Deep Learning",Amazon.com,"Seattle, WA",0.6146
+147,Executive - VAT,10,117,Machine Learning Eng Amazon AI,Amazon.com,"Seattle, WA",0.6103
+148,Executive/ Sr. Executive -IT,1,394,Senior Security Technical Program Manager,The Climate Corporation,"Seattle, WA",0.6294
+148,Executive/ Sr. Executive -IT,2,156,Operations Research and Risk Analyst,Systems Planning and Analysis,"San Diego, CA",0.6133
+148,Executive/ Sr. Executive -IT,3,399,Operations Research Analyst,Grant Thornton,"Washington, DC 20036",0.5151
+148,Executive/ Sr. Executive -IT,4,96,Sr. Software Development Manager,Amazon.com,"Seattle, WA",0.5142
+148,Executive/ Sr. Executive -IT,5,253,Sr. Data Scientist,HighPoint,"Washington, DC",0.5085
+148,Executive/ Sr. Executive -IT,6,151,Laboratory Informatics Specialist,Natera,"San Carlos, CA 94070",0.4942
+148,Executive/ Sr. Executive -IT,7,184,Water Resources Engineer 5,CDM Smith,"Austin, TX 78727",0.4901
+148,Executive/ Sr. Executive -IT,8,68,Sr Quantitative Finance Analyst,Bank of America,"San Francisco, CA 94104",0.4868
+148,Executive/ Sr. Executive -IT,9,275,Lead Analytic Scientist (AI/Machine Learning/Java),FICO,"San Diego, CA",0.486
+148,Executive/ Sr. Executive -IT,10,287,Software Development Manager,Lab126,"Seattle, WA",0.4809
+149,Data Science Engineer,1,95,Quantitative Marketing Analyst,A Place for Mom,"Seattle, WA",0.5113
+149,Data Science Engineer,2,311,Marketing Data Scientist,Procter & Gamble,"Boston, MA 02199",0.4912
+149,Data Science Engineer,3,371,Sales Director - Federal,Zoomdata,"Washington, DC",0.4835
+149,Data Science Engineer,4,59,"Data Scientist, Marketing",Rally Health,"San Francisco, CA",0.4819
+149,Data Science Engineer,5,375,Lead Data Science Engineer,Sojern,"San Francisco, CA 94111",0.4669
+149,Data Science Engineer,6,373,Data Scientist,Inspire Brands,"Atlanta, GA",0.4642
+149,Data Science Engineer,7,395,"Sr. Manager , Data Science Forecasting",Newell Brands,"Atlanta, GA",0.4634
+149,Data Science Engineer,8,308,BIG DATA TECHNICAL LEAD,TransUnion,"Chicago, IL 60661",0.462
+149,Data Science Engineer,9,212,Senior Manager – Statistical Analysis / Quantitative Modeling,Ashton Lane Group,"Washington, DC",0.4616
+149,Data Science Engineer,10,86,"Principal, Data Scientist",Smith Hanley Associates,"San Francisco, CA",0.4616

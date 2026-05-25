@@ -1,0 +1,11 @@
+# CV-Job Semantic Matching - Required Packages
+pandas
+numpy
+scikit-learn
+gensim
+sentence-transformers
+matplotlib
+seaborn
+tqdm
+beautifulsoup4
+lxml

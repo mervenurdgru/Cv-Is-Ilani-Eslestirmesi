@@ -1,0 +1,201 @@
+﻿cv_index,cv_position,rank,job_index,job_position,job_company,job_location,cosine_score
+0,Senior Software Engineer,1,30,Principal Machine Learning Data Scientist - Cloud Platform,Capital One,"New York, NY 10261 ",0.6533
+0,Senior Software Engineer,2,37,Cognitive Software Engineer,State Street,"Austin, TX 78701",0.6466
+0,Senior Software Engineer,3,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.6221
+0,Senior Software Engineer,4,5,Senior Architect 1,Nielsen,"Chicago, IL 60647",0.6195
+0,Senior Software Engineer,5,40,Senior Data Scientist - California,Teradata,"San Francisco, CA 94105",0.609
+0,Senior Software Engineer,6,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.5952
+0,Senior Software Engineer,7,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.5768
+0,Senior Software Engineer,8,7,"Data Scientist, Operations Decision Support",Google,"Mountain View, CA",0.552
+0,Senior Software Engineer,9,27,Software Development Engineer,Microsoft,"Cambridge, MA",0.5502
+0,Senior Software Engineer,10,32,Software Engineering Manager - Account Take Over,Sift Science,"Seattle, WA",0.5225
+1,Machine Learning (ML) Engineer,1,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.6535
+1,Machine Learning (ML) Engineer,2,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.6505
+1,Machine Learning (ML) Engineer,3,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.631
+1,Machine Learning (ML) Engineer,4,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.6068
+1,Machine Learning (ML) Engineer,5,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.6049
+1,Machine Learning (ML) Engineer,6,17,"Manager, Data Scientist (AI/NLP)",KPMG,"Chicago, IL 60601",0.5888
+1,Machine Learning (ML) Engineer,7,40,Senior Data Scientist - California,Teradata,"San Francisco, CA 94105",0.5813
+1,Machine Learning (ML) Engineer,8,30,Principal Machine Learning Data Scientist - Cloud Platform,Capital One,"New York, NY 10261 ",0.5808
+1,Machine Learning (ML) Engineer,9,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.5797
+1,Machine Learning (ML) Engineer,10,39,Analyst - Periscope Advanced Insights - Growth Mapping,McKinsey & Company,"Chicago, IL",0.5637
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",1,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.5385
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",2,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.5329
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",3,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5191
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",4,40,Senior Data Scientist - California,Teradata,"San Francisco, CA 94105",0.4982
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",5,30,Principal Machine Learning Data Scientist - Cloud Platform,Capital One,"New York, NY 10261 ",0.4837
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",6,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.472
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",7,5,Senior Architect 1,Nielsen,"Chicago, IL 60647",0.4533
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",8,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.4368
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",9,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.435
+2,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",10,29,"Associate Manager, Agile Paid Media",The Home Depot,"Atlanta, GA",0.4217
+3,Business Development Executive,1,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.4205
+3,Business Development Executive,2,32,Software Engineering Manager - Account Take Over,Sift Science,"Seattle, WA",0.3609
+3,Business Development Executive,3,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.3274
+3,Business Development Executive,4,21,Data Scientist,Diverse Lynx,"New York, NY",0.2906
+3,Business Development Executive,5,47,Research Data Analyst,Northwestern University,"Chicago, IL",0.2895
+3,Business Development Executive,6,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.2855
+3,Business Development Executive,7,3,Research Analyst-Technical,New York University,"New York, NY",0.2816
+3,Business Development Executive,8,6,DATA ARCHITECT,Businesses UNITED TECHNOLOGIES CORP. HEADQUARTERS,"New York, NY",0.2749
+3,Business Development Executive,9,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.2715
+3,Business Development Executive,10,16,"Data Scientist, Mid",Booz Allen Hamilton,"Washington, DC",0.2682
+4,Senior iOS Engineer,1,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.3903
+4,Senior iOS Engineer,2,47,Research Data Analyst,Northwestern University,"Chicago, IL",0.3601
+4,Senior iOS Engineer,3,32,Software Engineering Manager - Account Take Over,Sift Science,"Seattle, WA",0.3546
+4,Senior iOS Engineer,4,21,Data Scientist,Diverse Lynx,"New York, NY",0.3433
+4,Senior iOS Engineer,5,43,SENIOR VALUE BASED ANALYST,University of Washington,"Seattle, WA",0.3241
+4,Senior iOS Engineer,6,40,Senior Data Scientist - California,Teradata,"San Francisco, CA 94105",0.309
+4,Senior iOS Engineer,7,3,Research Analyst-Technical,New York University,"New York, NY",0.2863
+4,Senior iOS Engineer,8,35,Account Executive / Pharma Alliances Manager,Sophia Genetics,"Boston, MA",0.2738
+4,Senior iOS Engineer,9,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.2661
+4,Senior iOS Engineer,10,6,DATA ARCHITECT,Businesses UNITED TECHNOLOGIES CORP. HEADQUARTERS,"New York, NY",0.2492
+5,AI Engineer,1,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.4279
+5,AI Engineer,2,7,"Data Scientist, Operations Decision Support",Google,"Mountain View, CA",0.4114
+5,AI Engineer,3,27,Software Development Engineer,Microsoft,"Cambridge, MA",0.4042
+5,AI Engineer,4,32,Software Engineering Manager - Account Take Over,Sift Science,"Seattle, WA",0.3727
+5,AI Engineer,5,35,Account Executive / Pharma Alliances Manager,Sophia Genetics,"Boston, MA",0.3611
+5,AI Engineer,6,30,Principal Machine Learning Data Scientist - Cloud Platform,Capital One,"New York, NY 10261 ",0.3582
+5,AI Engineer,7,36,Back-End Web Developer,Harvard University,"Boston, MA",0.3472
+5,AI Engineer,8,49,Engineering Leadership - Data Engineering,Riot Games,"Los Angeles, CA",0.343
+5,AI Engineer,9,31,USER RESEARCHER,Microsoft,"Redmond, WA 98052",0.3267
+5,AI Engineer,10,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.3244
+6,Senior iOS Engineer,1,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.4233
+6,Senior iOS Engineer,2,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.3938
+6,Senior iOS Engineer,3,36,Back-End Web Developer,Harvard University,"Boston, MA",0.3659
+6,Senior iOS Engineer,4,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.3588
+6,Senior iOS Engineer,5,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.3445
+6,Senior iOS Engineer,6,39,Analyst - Periscope Advanced Insights - Growth Mapping,McKinsey & Company,"Chicago, IL",0.3413
+6,Senior iOS Engineer,7,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.3117
+6,Senior iOS Engineer,8,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.3108
+6,Senior iOS Engineer,9,3,Research Analyst-Technical,New York University,"New York, NY",0.3018
+6,Senior iOS Engineer,10,32,Software Engineering Manager - Account Take Over,Sift Science,"Seattle, WA",0.3011
+7,Senior iOS Engineer,1,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.2739
+7,Senior iOS Engineer,2,32,Software Engineering Manager - Account Take Over,Sift Science,"Seattle, WA",0.2707
+7,Senior iOS Engineer,3,6,DATA ARCHITECT,Businesses UNITED TECHNOLOGIES CORP. HEADQUARTERS,"New York, NY",0.242
+7,Senior iOS Engineer,4,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.2338
+7,Senior iOS Engineer,5,3,Research Analyst-Technical,New York University,"New York, NY",0.2071
+7,Senior iOS Engineer,6,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.2046
+7,Senior iOS Engineer,7,27,Software Development Engineer,Microsoft,"Cambridge, MA",0.2038
+7,Senior iOS Engineer,8,31,USER RESEARCHER,Microsoft,"Redmond, WA 98052",0.194
+7,Senior iOS Engineer,9,24,Research Epidemiologist,Piedmont Healthcare,"Atlanta, GA 30363 ",0.193
+7,Senior iOS Engineer,10,47,Research Data Analyst,Northwestern University,"Chicago, IL",0.1924
+8,Mechanical Engineer,1,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.568
+8,Mechanical Engineer,2,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.4756
+8,Mechanical Engineer,3,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.4734
+8,Mechanical Engineer,4,47,Research Data Analyst,Northwestern University,"Chicago, IL",0.4577
+8,Mechanical Engineer,5,24,Research Epidemiologist,Piedmont Healthcare,"Atlanta, GA 30363 ",0.4551
+8,Mechanical Engineer,6,17,"Manager, Data Scientist (AI/NLP)",KPMG,"Chicago, IL 60601",0.4467
+8,Mechanical Engineer,7,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.4423
+8,Mechanical Engineer,8,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.4259
+8,Mechanical Engineer,9,40,Senior Data Scientist - California,Teradata,"San Francisco, CA 94105",0.4199
+8,Mechanical Engineer,10,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.4178
+9,Business Development Executive,1,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.4936
+9,Business Development Executive,2,5,Senior Architect 1,Nielsen,"Chicago, IL 60647",0.4883
+9,Business Development Executive,3,30,Principal Machine Learning Data Scientist - Cloud Platform,Capital One,"New York, NY 10261 ",0.4878
+9,Business Development Executive,4,37,Cognitive Software Engineer,State Street,"Austin, TX 78701",0.4827
+9,Business Development Executive,5,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.4634
+9,Business Development Executive,6,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.4578
+9,Business Development Executive,7,47,Research Data Analyst,Northwestern University,"Chicago, IL",0.437
+9,Business Development Executive,8,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.4247
+9,Business Development Executive,9,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.4098
+9,Business Development Executive,10,17,"Manager, Data Scientist (AI/NLP)",KPMG,"Chicago, IL 60601",0.4061
+10,Mechanical Designer,1,43,SENIOR VALUE BASED ANALYST,University of Washington,"Seattle, WA",0.4885
+10,Mechanical Designer,2,21,Data Scientist,Diverse Lynx,"New York, NY",0.4294
+10,Mechanical Designer,3,32,Software Engineering Manager - Account Take Over,Sift Science,"Seattle, WA",0.4212
+10,Mechanical Designer,4,47,Research Data Analyst,Northwestern University,"Chicago, IL",0.4197
+10,Mechanical Designer,5,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.4185
+10,Mechanical Designer,6,16,"Data Scientist, Mid",Booz Allen Hamilton,"Washington, DC",0.4137
+10,Mechanical Designer,7,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.4124
+10,Mechanical Designer,8,35,Account Executive / Pharma Alliances Manager,Sophia Genetics,"Boston, MA",0.382
+10,Mechanical Designer,9,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.3807
+10,Mechanical Designer,10,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.3684
+11,Asst. Manager/ Manger (Administrative),1,47,Research Data Analyst,Northwestern University,"Chicago, IL",0.4374
+11,Asst. Manager/ Manger (Administrative),2,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.4321
+11,Asst. Manager/ Manger (Administrative),3,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.4305
+11,Asst. Manager/ Manger (Administrative),4,3,Research Analyst-Technical,New York University,"New York, NY",0.4226
+11,Asst. Manager/ Manger (Administrative),5,16,"Data Scientist, Mid",Booz Allen Hamilton,"Washington, DC",0.4161
+11,Asst. Manager/ Manger (Administrative),6,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.4007
+11,Asst. Manager/ Manger (Administrative),7,30,Principal Machine Learning Data Scientist - Cloud Platform,Capital One,"New York, NY 10261 ",0.4003
+11,Asst. Manager/ Manger (Administrative),8,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.3955
+11,Asst. Manager/ Manger (Administrative),9,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.3913
+11,Asst. Manager/ Manger (Administrative),10,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.3908
+12,Machine Learning (ML) Engineer,1,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5973
+12,Machine Learning (ML) Engineer,2,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.5825
+12,Machine Learning (ML) Engineer,3,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.5763
+12,Machine Learning (ML) Engineer,4,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.5648
+12,Machine Learning (ML) Engineer,5,17,"Manager, Data Scientist (AI/NLP)",KPMG,"Chicago, IL 60601",0.5462
+12,Machine Learning (ML) Engineer,6,30,Principal Machine Learning Data Scientist - Cloud Platform,Capital One,"New York, NY 10261 ",0.5108
+12,Machine Learning (ML) Engineer,7,39,Analyst - Periscope Advanced Insights - Growth Mapping,McKinsey & Company,"Chicago, IL",0.4972
+12,Machine Learning (ML) Engineer,8,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.493
+12,Machine Learning (ML) Engineer,9,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.4843
+12,Machine Learning (ML) Engineer,10,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.4732
+13,Mechanical Designer,1,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.553
+13,Mechanical Designer,2,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.4831
+13,Mechanical Designer,3,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.4448
+13,Mechanical Designer,4,30,Principal Machine Learning Data Scientist - Cloud Platform,Capital One,"New York, NY 10261 ",0.4285
+13,Mechanical Designer,5,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.4242
+13,Mechanical Designer,6,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.4208
+13,Mechanical Designer,7,7,"Data Scientist, Operations Decision Support",Google,"Mountain View, CA",0.3863
+13,Mechanical Designer,8,17,"Manager, Data Scientist (AI/NLP)",KPMG,"Chicago, IL 60601",0.3804
+13,Mechanical Designer,9,32,Software Engineering Manager - Account Take Over,Sift Science,"Seattle, WA",0.3732
+13,Mechanical Designer,10,6,DATA ARCHITECT,Businesses UNITED TECHNOLOGIES CORP. HEADQUARTERS,"New York, NY",0.3705
+14,Mechanical Engineer,1,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.2827
+14,Mechanical Engineer,2,3,Research Analyst-Technical,New York University,"New York, NY",0.2794
+14,Mechanical Engineer,3,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.2778
+14,Mechanical Engineer,4,36,Back-End Web Developer,Harvard University,"Boston, MA",0.2472
+14,Mechanical Engineer,5,47,Research Data Analyst,Northwestern University,"Chicago, IL",0.2453
+14,Mechanical Engineer,6,37,Cognitive Software Engineer,State Street,"Austin, TX 78701",0.2351
+14,Mechanical Engineer,7,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.2269
+14,Mechanical Engineer,8,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.2242
+14,Mechanical Engineer,9,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.2227
+14,Mechanical Engineer,10,32,Software Engineering Manager - Account Take Over,Sift Science,"Seattle, WA",0.2174
+15,Database Administrator (DBA),1,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5456
+15,Database Administrator (DBA),2,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.4605
+15,Database Administrator (DBA),3,47,Research Data Analyst,Northwestern University,"Chicago, IL",0.4475
+15,Database Administrator (DBA),4,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.4461
+15,Database Administrator (DBA),5,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.4374
+15,Database Administrator (DBA),6,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.4355
+15,Database Administrator (DBA),7,30,Principal Machine Learning Data Scientist - Cloud Platform,Capital One,"New York, NY 10261 ",0.4138
+15,Database Administrator (DBA),8,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.4128
+15,Database Administrator (DBA),9,40,Senior Data Scientist - California,Teradata,"San Francisco, CA 94105",0.4091
+15,Database Administrator (DBA),10,17,"Manager, Data Scientist (AI/NLP)",KPMG,"Chicago, IL 60601",0.4034
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",1,47,Research Data Analyst,Northwestern University,"Chicago, IL",0.3915
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",2,7,"Data Scientist, Operations Decision Support",Google,"Mountain View, CA",0.341
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",3,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.3319
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",4,6,DATA ARCHITECT,Businesses UNITED TECHNOLOGIES CORP. HEADQUARTERS,"New York, NY",0.3231
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",5,43,SENIOR VALUE BASED ANALYST,University of Washington,"Seattle, WA",0.3165
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",6,15,Data Scientist,Catalina Marketing,"Atlanta, GA",0.3134
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",7,45,Supply Chain Data Science Consultant,Accenture,"Atlanta, GA",0.3088
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",8,9,Data Analyst - German,Amazon.com,"Cambridge, MA",0.3055
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",9,32,Software Engineering Manager - Account Take Over,Sift Science,"Seattle, WA",0.3044
+16,"System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",10,3,Research Analyst-Technical,New York University,"New York, NY",0.2926
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",1,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5066
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",2,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.4306
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",3,30,Principal Machine Learning Data Scientist - Cloud Platform,Capital One,"New York, NY 10261 ",0.3965
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",4,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.3909
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",5,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.3541
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",6,40,Senior Data Scientist - California,Teradata,"San Francisco, CA 94105",0.3387
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",7,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.3099
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",8,32,Software Engineering Manager - Account Take Over,Sift Science,"Seattle, WA",0.3067
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",9,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.3039
+17,"Executive/ Senior Executive- Trade Marketing, Hygiene Products",10,20,Data Science Fellow,Øptimus Consulting,"Washington, DC 20005",0.29
+18,Project Coordinator (Civil),1,3,Research Analyst-Technical,New York University,"New York, NY",0.349
+18,Project Coordinator (Civil),2,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.3375
+18,Project Coordinator (Civil),3,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.3184
+18,Project Coordinator (Civil),4,47,Research Data Analyst,Northwestern University,"Chicago, IL",0.3021
+18,Project Coordinator (Civil),5,36,Back-End Web Developer,Harvard University,"Boston, MA",0.2777
+18,Project Coordinator (Civil),6,7,"Data Scientist, Operations Decision Support",Google,"Mountain View, CA",0.2741
+18,Project Coordinator (Civil),7,32,Software Engineering Manager - Account Take Over,Sift Science,"Seattle, WA",0.2619
+18,Project Coordinator (Civil),8,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.2548
+18,Project Coordinator (Civil),9,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.2526
+18,Project Coordinator (Civil),10,37,Cognitive Software Engineer,State Street,"Austin, TX 78701",0.2478
+19,Executive/ Sr. Executive -IT,1,25,Data Scientist,Internet Brands,"Los Angeles, CA",0.5519
+19,Executive/ Sr. Executive -IT,2,14,CIB Chief Data Science Office-Data Scientist – VP - New York,JP Morgan Chase,"New York, NY 10179 ",0.483
+19,Executive/ Sr. Executive -IT,3,10,Statistical Machine Learning Scientist,AIG,"New York, NY",0.4766
+19,Executive/ Sr. Executive -IT,4,8,18009346 - Mgr/Sr. Mgr - Data Scientist - Customer Data Science,American Express,"New York, NY",0.462
+19,Executive/ Sr. Executive -IT,5,30,Principal Machine Learning Data Scientist - Cloud Platform,Capital One,"New York, NY 10261 ",0.4044
+19,Executive/ Sr. Executive -IT,6,38,"Manager, Machine Learning Research Science - Alexa",Amazon.com,"Cambridge, MA",0.3835
+19,Executive/ Sr. Executive -IT,7,17,"Manager, Data Scientist (AI/NLP)",KPMG,"Chicago, IL 60601",0.3647
+19,Executive/ Sr. Executive -IT,8,28,Executive Director - Finance Decision Sciences,JP Morgan Chase,"Chicago, IL 60603",0.3571
+19,Executive/ Sr. Executive -IT,9,40,Senior Data Scientist - California,Teradata,"San Francisco, CA 94105",0.3507
+19,Executive/ Sr. Executive -IT,10,33,Lead Data Analyst,Glu Mobile,"San Francisco, CA",0.3424

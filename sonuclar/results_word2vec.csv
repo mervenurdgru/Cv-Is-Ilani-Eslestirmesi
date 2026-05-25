@@ -1,0 +1,501 @@
+﻿cv_index,cv_objective,rank,job_index,job_position,job_company,job_location,similarity_score
+0,Big data analytics working and database warehouse manager with robust experience in handling all kin,1,165,Principal Software Engineer,Microsoft,"Redmond, WA 98052",0.11235673090618306
+0,Big data analytics working and database warehouse manager with robust experience in handling all kin,2,85,"Azure Data Scientist, Manager",KPMG,"Atlanta, GA 30338",0.10579333642316234
+0,Big data analytics working and database warehouse manager with robust experience in handling all kin,3,90,Data & Analytics Developer,SunTrust,"Atlanta, GA",0.09964040227471982
+0,Big data analytics working and database warehouse manager with robust experience in handling all kin,4,42,Manager - Data Scientist ! Orlando!,Capgemini,"Atlanta, GA",0.09886871489585794
+0,Big data analytics working and database warehouse manager with robust experience in handling all kin,5,162,Senior Engineering Architect,Microsoft,"Redmond, WA 98052",0.0903961152828309
+0,Big data analytics working and database warehouse manager with robust experience in handling all kin,6,25,Data Scientist,AirSage,"Atlanta, GA",0.0898075369864552
+0,Big data analytics working and database warehouse manager with robust experience in handling all kin,7,18,Data Scientist,Relus Cloud,"Atlanta, GA",0.08418250035359928
+0,Big data analytics working and database warehouse manager with robust experience in handling all kin,8,178,Data Scientist - CA,Bind Benefits,"San Francisco, CA 94103",0.0840627964310871
+0,Big data analytics working and database warehouse manager with robust experience in handling all kin,9,98,Data Science Instructor,General Assembly,"Atlanta, GA",0.07928572622421506
+0,Big data analytics working and database warehouse manager with robust experience in handling all kin,10,36,Data Scientist,The Intersect Group,"Atlanta, GA 30328",0.07893619716671633
+1,Fresher looking to join as a data analyst and junior data scientist. Experienced in creating meaning,1,151,Machine Learning Engineer,Natero,"Mountain View, CA 94040",0.08857008138865319
+1,Fresher looking to join as a data analyst and junior data scientist. Experienced in creating meaning,2,169,Business Intelligence Specialist,"Facility Management Planners, Inc","San Diego, CA 92109",0.08676344032919611
+1,Fresher looking to join as a data analyst and junior data scientist. Experienced in creating meaning,3,81,Director of Data Science,Prestige Staffing,"Atlanta, GA",0.08342180876542586
+1,Fresher looking to join as a data analyst and junior data scientist. Experienced in creating meaning,4,177,Research Scientist - Amazon Restaurants,Amazon.com,"Seattle, WA",0.08340544852247567
+1,Fresher looking to join as a data analyst and junior data scientist. Experienced in creating meaning,5,27,Data Scientist - ICL,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.08222610565400933
+1,Fresher looking to join as a data analyst and junior data scientist. Experienced in creating meaning,6,124,Senior Data Analyst,NORC at the University of Chicago,"Chicago, IL",0.08183673917819757
+1,Fresher looking to join as a data analyst and junior data scientist. Experienced in creating meaning,7,34,Data Scientist,SalesLoft,"Atlanta, GA",0.07966400216883177
+1,Fresher looking to join as a data analyst and junior data scientist. Experienced in creating meaning,8,42,Manager - Data Scientist ! Orlando!,Capgemini,"Atlanta, GA",0.07489891672266308
+1,Fresher looking to join as a data analyst and junior data scientist. Experienced in creating meaning,9,61,Data Engineer,Gallup,"Atlanta, GA",0.07267901142511696
+1,Fresher looking to join as a data analyst and junior data scientist. Experienced in creating meaning,10,57,Data Scientist or Data Scientist Lead PS10268,"Anthem, Inc.","Atlanta, GA 30301 ",0.07260727406633104
+2,nan,1,161,Machine Learning Engineer/Deep Learning Engineer(Local only),BrickRed Systems,"Redmond, WA",0.10777968448186952
+2,nan,2,151,Machine Learning Engineer,Natero,"Mountain View, CA 94040",0.06540836513241044
+2,nan,3,81,Director of Data Science,Prestige Staffing,"Atlanta, GA",0.058324063183209075
+2,nan,4,152,Machine Learning/Deep Learning Scientist,DNAnexus,"Mountain View, CA",0.05428805632794554
+2,nan,5,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.05210166035732192
+2,nan,6,174,Head Data Scientist,All-In Analytics,"Seattle, WA",0.05141702887354097
+2,nan,7,52,"VP, Data Scientist- Atlanta, GA; Charlotte, NC",Bank of America Merchant Services,"Atlanta, GA",0.05035301719907934
+2,nan,8,160,Market Research Analyst,Blueocean Market Intelligence,"Redmond, WA 98052",0.04967782593909657
+2,nan,9,36,Data Scientist,The Intersect Group,"Atlanta, GA 30328",0.04822587423365971
+2,nan,10,63,Machine Learning / Artificial Intelligence Research Scientist,Symantec,"Atlanta, GA 30338",0.04654560114028727
+3,"To obtain a position in a fast-paced business office environment, demanding a strong organizational,",1,119,Senior Account Executive,h2o.ai,"Boston, MA",0.0712082305524313
+3,"To obtain a position in a fast-paced business office environment, demanding a strong organizational,",2,73,Quantitative Analyst,GreenSky,"Atlanta, GA 30342 ",0.07092339288966219
+3,"To obtain a position in a fast-paced business office environment, demanding a strong organizational,",3,139,Research Analyst,"SHIELDS for Families, Inc.","Los Angeles, CA 90002",0.06684224805339185
+3,"To obtain a position in a fast-paced business office environment, demanding a strong organizational,",4,125,Developer / Quantitative Analyst (Entry Level) - Chicago,DV Trading LLC,"Chicago, IL 60642",0.06409433800903513
+3,"To obtain a position in a fast-paced business office environment, demanding a strong organizational,",5,52,"VP, Data Scientist- Atlanta, GA; Charlotte, NC",Bank of America Merchant Services,"Atlanta, GA",0.06331276011721886
+3,"To obtain a position in a fast-paced business office environment, demanding a strong organizational,",6,158,Data Scientist,Blackboard Insurance,"New York, NY",0.060866039900677404
+3,"To obtain a position in a fast-paced business office environment, demanding a strong organizational,",7,109,"Research Engineering/ Scientist Associate II - Research Associate, Data Integration Team, Department of Population Health",University of Texas at Austin,"Austin, TX",0.0593222106180535
+3,"To obtain a position in a fast-paced business office environment, demanding a strong organizational,",8,6,"Product Specialist - Periscope, New Ventures",McKinsey & Company,"Atlanta, GA 30318 ",0.057106146365327785
+3,"To obtain a position in a fast-paced business office environment, demanding a strong organizational,",9,137,Analyst - Optimization,The Boston Consulting Group,"Los Angeles, CA",0.055916622335403454
+3,"To obtain a position in a fast-paced business office environment, demanding a strong organizational,",10,122,Field Application Scientist - Boston,10x Genomics,"Boston, MA",0.05472675950657862
+4,Professional accountant with an outstanding work ethic and integrity seeking to make a valuable cont,1,95,Quantitative Finance Analyst,Bank of America,"Atlanta, GA 30308 ",0.0733231760770415
+4,Professional accountant with an outstanding work ethic and integrity seeking to make a valuable cont,2,169,Business Intelligence Specialist,"Facility Management Planners, Inc","San Diego, CA 92109",0.06565290493867748
+4,Professional accountant with an outstanding work ethic and integrity seeking to make a valuable cont,3,109,"Research Engineering/ Scientist Associate II - Research Associate, Data Integration Team, Department of Population Health",University of Texas at Austin,"Austin, TX",0.05824600718924303
+4,Professional accountant with an outstanding work ethic and integrity seeking to make a valuable cont,4,123,Associate Research Analyst,Harvard Pilgrim Health Care,"Boston, MA",0.05780288312581148
+4,Professional accountant with an outstanding work ethic and integrity seeking to make a valuable cont,5,17,Senior Mobile Developer (iOS/Android),Perficient,"Atlanta, GA 30338",0.05502122258758633
+4,Professional accountant with an outstanding work ethic and integrity seeking to make a valuable cont,6,60,Scientist II/Ecologist II,HNTB Corporation,"Atlanta, GA 30327 ",0.05403988577138172
+4,Professional accountant with an outstanding work ethic and integrity seeking to make a valuable cont,7,8,Analyst - CIB Credit Research,SunTrust,"Atlanta, GA",0.05376753883061883
+4,Professional accountant with an outstanding work ethic and integrity seeking to make a valuable cont,8,125,Developer / Quantitative Analyst (Entry Level) - Chicago,DV Trading LLC,"Chicago, IL 60642",0.05244964515338723
+4,Professional accountant with an outstanding work ethic and integrity seeking to make a valuable cont,9,135,Research Analyst,American Council of Life Insurers,"Washington, DC 20001",0.051020380935229676
+4,Professional accountant with an outstanding work ethic and integrity seeking to make a valuable cont,10,110,Lead Data Scientist,Clockwork Solutions,"Austin, TX 78746",0.04917988318315775
+5,"To secure an IT specialist, desktop support, network administration, database administrator, technic",1,143,Informatics Associate,"Decibel Therapeutics, Inc.","Cambridge, MA",0.08206253636734717
+5,"To secure an IT specialist, desktop support, network administration, database administrator, technic",2,67,"Scientist, Asst Bioinformatics",Emory University,"Atlanta, GA",0.0769433980712742
+5,"To secure an IT specialist, desktop support, network administration, database administrator, technic",3,162,Senior Engineering Architect,Microsoft,"Redmond, WA 98052",0.07049340921882001
+5,"To secure an IT specialist, desktop support, network administration, database administrator, technic",4,169,Business Intelligence Specialist,"Facility Management Planners, Inc","San Diego, CA 92109",0.06684415210981279
+5,"To secure an IT specialist, desktop support, network administration, database administrator, technic",5,165,Principal Software Engineer,Microsoft,"Redmond, WA 98052",0.06613105979050012
+5,"To secure an IT specialist, desktop support, network administration, database administrator, technic",6,17,Senior Mobile Developer (iOS/Android),Perficient,"Atlanta, GA 30338",0.06447249899095588
+5,"To secure an IT specialist, desktop support, network administration, database administrator, technic",7,122,Field Application Scientist - Boston,10x Genomics,"Boston, MA",0.06377244584410846
+5,"To secure an IT specialist, desktop support, network administration, database administrator, technic",8,178,Data Scientist - CA,Bind Benefits,"San Francisco, CA 94103",0.062012163958360116
+5,"To secure an IT specialist, desktop support, network administration, database administrator, technic",9,159,Data Analyst / Data Scientist,Defined Clarity,"New York, NY",0.0578075883073091
+5,"To secure an IT specialist, desktop support, network administration, database administrator, technic",10,163,"Principal Software Engineer, Azure Databricks",Microsoft,"Redmond, WA 98052",0.055496702279720714
+6,nan,1,151,Machine Learning Engineer,Natero,"Mountain View, CA 94040",0.06877180918328156
+6,nan,2,157,Data Scientist,fractalanalytics,"Jersey City, NJ",0.06809352526135708
+6,nan,3,38,Data Scientist,OM Partners,"Atlanta, GA",0.06169032099003585
+6,nan,4,17,Senior Mobile Developer (iOS/Android),Perficient,"Atlanta, GA 30338",0.0572784065136918
+6,nan,5,148,Software Developer,Cytobank Inc.,"Mountain View, CA 94040",0.05378669934331655
+6,nan,6,42,Manager - Data Scientist ! Orlando!,Capgemini,"Atlanta, GA",0.04815865089041592
+6,nan,7,29,Data Scientist - CONSULTANT Level - ORLANDO FLORIDA - We will help Relocate,Capgemini,"Atlanta, GA",0.04706840886586489
+6,nan,8,46,"Data Scientist - Consultant Level - Orlando, Florida - we will assist with relocation",Capgemini,"Atlanta, GA",0.046867008610841816
+6,nan,9,55,Lead Decision Scientist,"Moxie Interactive, Inc.","Atlanta, GA 30313 ",0.046414721487499505
+6,nan,10,188,Senior Machine Learning Research Scientist,Baidu USA,"Sunnyvale, CA 94089",0.04640562946534106
+7,nan,1,107,Data Software Engineer,Kelvin,"Austin, TX",0.07538689611865179
+7,nan,2,165,Principal Software Engineer,Microsoft,"Redmond, WA 98052",0.06736605654162836
+7,nan,3,140,Additive Materials and Process Scientist,Divergent 3D,"Los Angeles, CA",0.05909374271258671
+7,nan,4,20,Senior Electrical Engineer,Burns & McDonnell,"Atlanta, GA 30309 ",0.05636967110752385
+7,nan,5,118,Robotics and Automation – Research Analyst,Lux Research Inc,"Boston, MA",0.05450322386157449
+7,nan,6,117,Principal Engineer- Mechanical (663909),Ball Aerospace,"Boulder, CO",0.054059641577154566
+7,nan,7,7,"Junior to Mid-level Engineer, Geologist or Environmental Scientist",Wood,"Atlanta, GA",0.05147896030491565
+7,nan,8,17,Senior Mobile Developer (iOS/Android),Perficient,"Atlanta, GA 30338",0.047428181645682584
+7,nan,9,92,Research Scientist I,Georgia State University,"Atlanta, GA",0.04305337674313543
+7,nan,10,106,"Senior Scientist, Development",Asuragen,"Austin, TX",0.041958678188262634
+8,"Certified Data analyst with a degree in Electronics Engineering, I have hands on experience in analy",1,172,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.08492009791123743
+8,"Certified Data analyst with a degree in Electronics Engineering, I have hands on experience in analy",2,55,Lead Decision Scientist,"Moxie Interactive, Inc.","Atlanta, GA 30313 ",0.0827209465932781
+8,"Certified Data analyst with a degree in Electronics Engineering, I have hands on experience in analy",3,58,Lead Decision Scientist,Moxie,"Atlanta, GA",0.08249981158942671
+8,"Certified Data analyst with a degree in Electronics Engineering, I have hands on experience in analy",4,98,Data Science Instructor,General Assembly,"Atlanta, GA",0.08067638981831286
+8,"Certified Data analyst with a degree in Electronics Engineering, I have hands on experience in analy",5,48,Chief Deep Learning Scientist,YIWEI Medical Inc.,"Atlanta, GA",0.07864102099042228
+8,"Certified Data analyst with a degree in Electronics Engineering, I have hands on experience in analy",6,184,Director of Analytics / Data Mining,Stride Search,"Sunnyvale, CA",0.07671446148582949
+8,"Certified Data analyst with a degree in Electronics Engineering, I have hands on experience in analy",7,157,Data Scientist,fractalanalytics,"Jersey City, NJ",0.0747192177027571
+8,"Certified Data analyst with a degree in Electronics Engineering, I have hands on experience in analy",8,124,Senior Data Analyst,NORC at the University of Chicago,"Chicago, IL",0.07433440700266804
+8,"Certified Data analyst with a degree in Electronics Engineering, I have hands on experience in analy",9,34,Data Scientist,SalesLoft,"Atlanta, GA",0.07415445659303847
+8,"Certified Data analyst with a degree in Electronics Engineering, I have hands on experience in analy",10,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.07360280404553797
+9,nan,1,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.09345836611461833
+9,nan,2,34,Data Scientist,SalesLoft,"Atlanta, GA",0.07949581676954084
+9,nan,3,148,Software Developer,Cytobank Inc.,"Mountain View, CA 94040",0.06901939309177155
+9,nan,4,108,Bioinformatics Scientist,Premierehire,"Austin, TX",0.06357272999365425
+9,nan,5,50,Manager - Cognitive Data Scientist Natural Language Processing,KPMG,"Atlanta, GA 30338",0.061925102010374725
+9,nan,6,9,Senior Associate - Cognitive Data Scientist Natural Language Processing,KPMG,"Atlanta, GA 30338",0.061685196992316206
+9,nan,7,94,Lead R & D Engineer/Scientist,Honeywell,"Atlanta, GA 30308 ",0.061244713851897135
+9,nan,8,149,Quantitative Researcher - AI and Machine Learning Specialist,American Century Investments,"Mountain View, CA 94043",0.058744675058301485
+9,nan,9,174,Head Data Scientist,All-In Analytics,"Seattle, WA",0.05821448486869278
+9,nan,10,143,Informatics Associate,"Decibel Therapeutics, Inc.","Cambridge, MA",0.05440644718743343
+10,"Enthusiastic, knowledgeable professional with experience and proven success in program and project m",1,98,Data Science Instructor,General Assembly,"Atlanta, GA",0.13594122396654368
+10,"Enthusiastic, knowledgeable professional with experience and proven success in program and project m",2,169,Business Intelligence Specialist,"Facility Management Planners, Inc","San Diego, CA 92109",0.07179036948464133
+10,"Enthusiastic, knowledgeable professional with experience and proven success in program and project m",3,49,Supervisory Health Scientist,Centers for Disease Control and Prevention,"Atlanta, GA",0.07133103068344215
+10,"Enthusiastic, knowledgeable professional with experience and proven success in program and project m",4,17,Senior Mobile Developer (iOS/Android),Perficient,"Atlanta, GA 30338",0.06119598856735083
+10,"Enthusiastic, knowledgeable professional with experience and proven success in program and project m",5,160,Market Research Analyst,Blueocean Market Intelligence,"Redmond, WA 98052",0.058011908920958664
+10,"Enthusiastic, knowledgeable professional with experience and proven success in program and project m",6,120,Marketing Information Analytics Coordinator,VHB,"Boston, MA 02110",0.056503526624799356
+10,"Enthusiastic, knowledgeable professional with experience and proven success in program and project m",7,52,"VP, Data Scientist- Atlanta, GA; Charlotte, NC",Bank of America Merchant Services,"Atlanta, GA",0.054328101276524716
+10,"Enthusiastic, knowledgeable professional with experience and proven success in program and project m",8,109,"Research Engineering/ Scientist Associate II - Research Associate, Data Integration Team, Department of Population Health",University of Texas at Austin,"Austin, TX",0.052458053641034744
+10,"Enthusiastic, knowledgeable professional with experience and proven success in program and project m",9,6,"Product Specialist - Periscope, New Ventures",McKinsey & Company,"Atlanta, GA 30318 ",0.05162326297232522
+10,"Enthusiastic, knowledgeable professional with experience and proven success in program and project m",10,42,Manager - Data Scientist ! Orlando!,Capgemini,"Atlanta, GA",0.049392756173442305
+11,nan,1,47,Flight Safety Data Analysis Fall Co-Op,Delta Air Lines,"Atlanta, GA",0.09074454604026076
+11,nan,2,153,Senior Data Scientist,JD.com,"Mountain View, CA",0.08597451712970539
+11,nan,3,70,"Analyst, Research",Turner,"Atlanta, GA 30319",0.07559803616008795
+11,nan,4,59,Senior Cyber Security Data Scientist,Bank of America,"Atlanta, GA 30306 ",0.06184438633275525
+11,nan,5,63,Machine Learning / Artificial Intelligence Research Scientist,Symantec,"Atlanta, GA 30338",0.05887015597739045
+11,nan,6,48,Chief Deep Learning Scientist,YIWEI Medical Inc.,"Atlanta, GA",0.0585957375618965
+11,nan,7,39,DATA SCIENTIST - SPACE OPTIMIZATION,The Home Depot,"Atlanta, GA",0.057529245623686304
+11,nan,8,28,"Data Scientist, Online",The Home Depot,"Atlanta, GA",0.056280004685970546
+11,nan,9,169,Business Intelligence Specialist,"Facility Management Planners, Inc","San Diego, CA 92109",0.055742923511340595
+11,nan,10,7,"Junior to Mid-level Engineer, Geologist or Environmental Scientist",Wood,"Atlanta, GA",0.05523274282536871
+12,nan,1,151,Machine Learning Engineer,Natero,"Mountain View, CA 94040",0.0904742032342347
+12,nan,2,42,Manager - Data Scientist ! Orlando!,Capgemini,"Atlanta, GA",0.07844385476429667
+12,nan,3,53,Statistical Analyst,Hawkins Diagnostics,"Atlanta, GA",0.07709952226620828
+12,nan,4,93,"Data Scientist - Senior Consultant - Orlando, Florida",Capgemini,"Atlanta, GA",0.0752900528601354
+12,nan,5,177,Research Scientist - Amazon Restaurants,Amazon.com,"Seattle, WA",0.07216062336273303
+12,nan,6,29,Data Scientist - CONSULTANT Level - ORLANDO FLORIDA - We will help Relocate,Capgemini,"Atlanta, GA",0.07106425273762187
+12,nan,7,46,"Data Scientist - Consultant Level - Orlando, Florida - we will assist with relocation",Capgemini,"Atlanta, GA",0.07085277436227591
+12,nan,8,81,Director of Data Science,Prestige Staffing,"Atlanta, GA",0.06989570427986015
+12,nan,9,55,Lead Decision Scientist,"Moxie Interactive, Inc.","Atlanta, GA 30313 ",0.06894556694881687
+12,nan,10,58,Lead Decision Scientist,Moxie,"Atlanta, GA",0.0688288237804211
+13,"Energetic, innovative engineering undergraduate, passionate about Machine Learning, NLP and Deep Lea",1,172,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.08213400915458577
+13,"Energetic, innovative engineering undergraduate, passionate about Machine Learning, NLP and Deep Lea",2,151,Machine Learning Engineer,Natero,"Mountain View, CA 94040",0.08003305578072568
+13,"Energetic, innovative engineering undergraduate, passionate about Machine Learning, NLP and Deep Lea",3,188,Senior Machine Learning Research Scientist,Baidu USA,"Sunnyvale, CA 94089",0.07591446769942278
+13,"Energetic, innovative engineering undergraduate, passionate about Machine Learning, NLP and Deep Lea",4,152,Machine Learning/Deep Learning Scientist,DNAnexus,"Mountain View, CA",0.06851152292042549
+13,"Energetic, innovative engineering undergraduate, passionate about Machine Learning, NLP and Deep Lea",5,63,Machine Learning / Artificial Intelligence Research Scientist,Symantec,"Atlanta, GA 30338",0.06783264087137285
+13,"Energetic, innovative engineering undergraduate, passionate about Machine Learning, NLP and Deep Lea",6,98,Data Science Instructor,General Assembly,"Atlanta, GA",0.06532474195286572
+13,"Energetic, innovative engineering undergraduate, passionate about Machine Learning, NLP and Deep Lea",7,127,Junior Quantitative Researcher - Machine Learning,Akuna Capital,"Chicago, IL 60603",0.06432309090625953
+13,"Energetic, innovative engineering undergraduate, passionate about Machine Learning, NLP and Deep Lea",8,181,Data Scientist - Biostatistics,The Climate Corporation,"San Francisco, CA",0.059794623545049184
+13,"Energetic, innovative engineering undergraduate, passionate about Machine Learning, NLP and Deep Lea",9,161,Machine Learning Engineer/Deep Learning Engineer(Local only),BrickRed Systems,"Redmond, WA",0.05879578689737472
+13,"Energetic, innovative engineering undergraduate, passionate about Machine Learning, NLP and Deep Lea",10,29,Data Scientist - CONSULTANT Level - ORLANDO FLORIDA - We will help Relocate,Capgemini,"Atlanta, GA",0.05758724357402057
+14,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",1,17,Senior Mobile Developer (iOS/Android),Perficient,"Atlanta, GA 30338",0.05722783060955217
+14,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",2,148,Software Developer,Cytobank Inc.,"Mountain View, CA 94040",0.04711841355411223
+14,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",3,187,Front end Developer - Yahoo News,Oath Inc,"Sunnyvale, CA",0.04276675937983328
+14,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",4,94,Lead R & D Engineer/Scientist,Honeywell,"Atlanta, GA 30308 ",0.038790131124452266
+14,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",5,158,Data Scientist,Blackboard Insurance,"New York, NY",0.033997933530207546
+14,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",6,170,Translational Scientist,Viome,"San Diego, CA",0.0327710957751959
+14,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",7,115,Research Scientist (Emerging Technologies),"Sensory, Inc","Boulder, CO",0.030903956607417796
+14,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",8,174,Head Data Scientist,All-In Analytics,"Seattle, WA",0.028580360580032573
+14,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",9,87,"Data Engineer, Scala",CapTech Consulting,"Atlanta, GA",0.028461511717194143
+14,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",10,65,Research Scientist,MacDermid Inc.,"Atlanta, GA",0.028349467596374894
+15,nan,1,159,Data Analyst / Data Scientist,Defined Clarity,"New York, NY",0.1038835179170308
+15,nan,2,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.08287692784053412
+15,nan,3,87,"Data Engineer, Scala",CapTech Consulting,"Atlanta, GA",0.08274655661605813
+15,nan,4,19,Data Scientist,Inspire Brands,"Atlanta, GA",0.07363226786942724
+15,nan,5,178,Data Scientist - CA,Bind Benefits,"San Francisco, CA 94103",0.07262859150329792
+15,nan,6,59,Senior Cyber Security Data Scientist,Bank of America,"Atlanta, GA 30306 ",0.07138195392040113
+15,nan,7,161,Machine Learning Engineer/Deep Learning Engineer(Local only),BrickRed Systems,"Redmond, WA",0.06891296660604714
+15,nan,8,63,Machine Learning / Artificial Intelligence Research Scientist,Symantec,"Atlanta, GA 30338",0.06719649153703085
+15,nan,9,81,Director of Data Science,Prestige Staffing,"Atlanta, GA",0.0618220866068563
+15,nan,10,180,Data Scientist,CyberCube Analytics,"San Francisco, CA",0.06105401838482392
+16,nan,1,120,Marketing Information Analytics Coordinator,VHB,"Boston, MA 02110",0.05910651744983558
+16,nan,2,157,Data Scientist,fractalanalytics,"Jersey City, NJ",0.05818588513056018
+16,nan,3,109,"Research Engineering/ Scientist Associate II - Research Associate, Data Integration Team, Department of Population Health",University of Texas at Austin,"Austin, TX",0.052079837124282484
+16,nan,4,129,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.04774232729348032
+16,nan,5,76,Health Communications Specialist,Eagle Medical Services,"Atlanta, GA",0.04678375970308505
+16,nan,6,143,Informatics Associate,"Decibel Therapeutics, Inc.","Cambridge, MA",0.04644016613605495
+16,nan,7,47,Flight Safety Data Analysis Fall Co-Op,Delta Air Lines,"Atlanta, GA",0.04631713447256176
+16,nan,8,7,"Junior to Mid-level Engineer, Geologist or Environmental Scientist",Wood,"Atlanta, GA",0.04475297547596739
+16,nan,9,122,Field Application Scientist - Boston,10x Genomics,"Boston, MA",0.043574326164980026
+16,nan,10,87,"Data Engineer, Scala",CapTech Consulting,"Atlanta, GA",0.043521643721756466
+17,"Machine Learning Engineer seeking assignments Deep Learning, Reinforcement Learning, Tensorflow. Ker",1,161,Machine Learning Engineer/Deep Learning Engineer(Local only),BrickRed Systems,"Redmond, WA",0.12942764561758274
+17,"Machine Learning Engineer seeking assignments Deep Learning, Reinforcement Learning, Tensorflow. Ker",2,48,Chief Deep Learning Scientist,YIWEI Medical Inc.,"Atlanta, GA",0.09064258529041055
+17,"Machine Learning Engineer seeking assignments Deep Learning, Reinforcement Learning, Tensorflow. Ker",3,63,Machine Learning / Artificial Intelligence Research Scientist,Symantec,"Atlanta, GA 30338",0.08612305998134981
+17,"Machine Learning Engineer seeking assignments Deep Learning, Reinforcement Learning, Tensorflow. Ker",4,152,Machine Learning/Deep Learning Scientist,DNAnexus,"Mountain View, CA",0.07400056948805539
+17,"Machine Learning Engineer seeking assignments Deep Learning, Reinforcement Learning, Tensorflow. Ker",5,168,Machine Learning - Software Engineer / Scientist,Brain Corporation,"San Diego, CA",0.07284170660160859
+17,"Machine Learning Engineer seeking assignments Deep Learning, Reinforcement Learning, Tensorflow. Ker",6,151,Machine Learning Engineer,Natero,"Mountain View, CA 94040",0.06768653815584344
+17,"Machine Learning Engineer seeking assignments Deep Learning, Reinforcement Learning, Tensorflow. Ker",7,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.055598332050452975
+17,"Machine Learning Engineer seeking assignments Deep Learning, Reinforcement Learning, Tensorflow. Ker",8,172,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.05497974304490888
+17,"Machine Learning Engineer seeking assignments Deep Learning, Reinforcement Learning, Tensorflow. Ker",9,160,Market Research Analyst,Blueocean Market Intelligence,"Redmond, WA 98052",0.05333410716520187
+17,"Machine Learning Engineer seeking assignments Deep Learning, Reinforcement Learning, Tensorflow. Ker",10,173,Principal Data Scientist (Catalog Platform and Quality),Coupang,"Seattle, WA",0.05254776333832935
+18,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",1,17,Senior Mobile Developer (iOS/Android),Perficient,"Atlanta, GA 30338",0.06507490339651743
+18,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",2,148,Software Developer,Cytobank Inc.,"Mountain View, CA 94040",0.04849102062249505
+18,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",3,187,Front end Developer - Yahoo News,Oath Inc,"Sunnyvale, CA",0.04708913356476342
+18,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",4,94,Lead R & D Engineer/Scientist,Honeywell,"Atlanta, GA 30308 ",0.04350337816427955
+18,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",5,146,"Scientist II / Senior Scientist, RNAi Pharmacology",Dicerna,"Cambridge, MA",0.0408345011970761
+18,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",6,140,Additive Materials and Process Scientist,Divergent 3D,"Los Angeles, CA",0.04078803048460541
+18,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",7,65,Research Scientist,MacDermid Inc.,"Atlanta, GA",0.03822835965470688
+18,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",8,33,Scientist - Data Analysis,AMERICAN CANCER SOCIETY,"Atlanta, GA",0.03634315811550124
+18,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",9,110,Lead Data Scientist,Clockwork Solutions,"Austin, TX 78746",0.036183685392186346
+18,"Soon-to-be Computer Science graduate eager to continue exploring the inspiring, innovative field of ",10,106,"Senior Scientist, Development",Asuragen,"Austin, TX",0.035861771292708525
+19,nan,1,161,Machine Learning Engineer/Deep Learning Engineer(Local only),BrickRed Systems,"Redmond, WA",0.23505668047033626
+19,nan,2,151,Machine Learning Engineer,Natero,"Mountain View, CA 94040",0.16520487699009156
+19,nan,3,98,Data Science Instructor,General Assembly,"Atlanta, GA",0.12403184378468554
+19,nan,4,152,Machine Learning/Deep Learning Scientist,DNAnexus,"Mountain View, CA",0.11675913356031857
+19,nan,5,63,Machine Learning / Artificial Intelligence Research Scientist,Symantec,"Atlanta, GA 30338",0.09318860202059824
+19,nan,6,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.09127709771176061
+19,nan,7,55,Lead Decision Scientist,"Moxie Interactive, Inc.","Atlanta, GA 30313 ",0.08617414773820688
+19,nan,8,58,Lead Decision Scientist,Moxie,"Atlanta, GA",0.08582489603822942
+19,nan,9,36,Data Scientist,The Intersect Group,"Atlanta, GA 30328",0.07504230984826825
+19,nan,10,29,Data Scientist - CONSULTANT Level - ORLANDO FLORIDA - We will help Relocate,Capgemini,"Atlanta, GA",0.07446671528396251
+20,nan,1,135,Research Analyst,American Council of Life Insurers,"Washington, DC 20001",0.04561837680120256
+20,nan,2,157,Data Scientist,fractalanalytics,"Jersey City, NJ",0.04245715759141669
+20,nan,3,109,"Research Engineering/ Scientist Associate II - Research Associate, Data Integration Team, Department of Population Health",University of Texas at Austin,"Austin, TX",0.03784296637401332
+20,nan,4,123,Associate Research Analyst,Harvard Pilgrim Health Care,"Boston, MA",0.03646122105444012
+20,nan,5,91,Product Development Scientist,The Coca-Cola Company,"Atlanta, GA 30301 ",0.033673128399468635
+20,nan,6,129,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.03259988469949456
+20,nan,7,73,Quantitative Analyst,GreenSky,"Atlanta, GA 30342 ",0.03235535075651532
+20,nan,8,96,Advertiser Research Analyst,Cox Media Group,"Atlanta, GA",0.03182489779349458
+20,nan,9,21,"Sr. Manager, Full Stack Development, KPMG Tax Ignition",KPMG,"Atlanta, GA 30338",0.030178829034456008
+20,nan,10,3,Data Analyst,Operation HOPE,"Atlanta, GA 30303 ",0.029851528296275204
+21,To obtain a position in the field of civil engineering technician where I can apply and impart the k,1,60,Scientist II/Ecologist II,HNTB Corporation,"Atlanta, GA 30327 ",0.0821101275190932
+21,To obtain a position in the field of civil engineering technician where I can apply and impart the k,2,92,Research Scientist I,Georgia State University,"Atlanta, GA",0.057650824309357106
+21,To obtain a position in the field of civil engineering technician where I can apply and impart the k,3,32,Entry Level/Junior-Level Scientist,"Kleinfelder, Inc.","Atlanta, GA",0.05685528120491122
+21,To obtain a position in the field of civil engineering technician where I can apply and impart the k,4,96,Advertiser Research Analyst,Cox Media Group,"Atlanta, GA",0.04886204605769598
+21,To obtain a position in the field of civil engineering technician where I can apply and impart the k,5,124,Senior Data Analyst,NORC at the University of Chicago,"Chicago, IL",0.03815538280081296
+21,To obtain a position in the field of civil engineering technician where I can apply and impart the k,6,178,Data Scientist - CA,Bind Benefits,"San Francisco, CA 94103",0.035487637415388
+21,To obtain a position in the field of civil engineering technician where I can apply and impart the k,7,66,Environmental Scientist,Tetra Tech,"Atlanta, GA",0.03509008192612696
+21,To obtain a position in the field of civil engineering technician where I can apply and impart the k,8,27,Data Scientist - ICL,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.033208362674897136
+21,To obtain a position in the field of civil engineering technician where I can apply and impart the k,9,165,Principal Software Engineer,Microsoft,"Redmond, WA 98052",0.03209626523657675
+21,To obtain a position in the field of civil engineering technician where I can apply and impart the k,10,52,"VP, Data Scientist- Atlanta, GA; Charlotte, NC",Bank of America Merchant Services,"Atlanta, GA",0.03126865795147788
+22,Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ab,1,161,Machine Learning Engineer/Deep Learning Engineer(Local only),BrickRed Systems,"Redmond, WA",0.12108556526652359
+22,Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ab,2,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.11252600989563961
+22,Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ab,3,151,Machine Learning Engineer,Natero,"Mountain View, CA 94040",0.09677149283560471
+22,Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ab,4,172,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.08518163388956458
+22,Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ab,5,152,Machine Learning/Deep Learning Scientist,DNAnexus,"Mountain View, CA",0.08419924343466118
+22,Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ab,6,63,Machine Learning / Artificial Intelligence Research Scientist,Symantec,"Atlanta, GA 30338",0.08176785137909641
+22,Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ab,7,165,Principal Software Engineer,Microsoft,"Redmond, WA 98052",0.08116813318663824
+22,Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ab,8,81,Director of Data Science,Prestige Staffing,"Atlanta, GA",0.08080230313573639
+22,Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ab,9,48,Chief Deep Learning Scientist,YIWEI Medical Inc.,"Atlanta, GA",0.07328058051155889
+22,Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ab,10,158,Data Scientist,Blackboard Insurance,"New York, NY",0.07121556047572013
+23,"To obtain a position where Teamwork, Integrity and Professionalism are a high standard in the Compan",1,140,Additive Materials and Process Scientist,Divergent 3D,"Los Angeles, CA",0.10400482344500306
+23,"To obtain a position where Teamwork, Integrity and Professionalism are a high standard in the Compan",2,117,Principal Engineer- Mechanical (663909),Ball Aerospace,"Boulder, CO",0.0839289930829079
+23,"To obtain a position where Teamwork, Integrity and Professionalism are a high standard in the Compan",3,143,Informatics Associate,"Decibel Therapeutics, Inc.","Cambridge, MA",0.08005796077175424
+23,"To obtain a position where Teamwork, Integrity and Professionalism are a high standard in the Compan",4,116,Senior Engineer - Cryo Systems (664049),Ball Aerospace,"Boulder, CO",0.07939169231174462
+23,"To obtain a position where Teamwork, Integrity and Professionalism are a high standard in the Compan",5,131,Exercise Physiologist,The Henry M. Jackson Foundation,"Washington, DC 20422",0.07726123052933866
+23,"To obtain a position where Teamwork, Integrity and Professionalism are a high standard in the Compan",6,168,Machine Learning - Software Engineer / Scientist,Brain Corporation,"San Diego, CA",0.07592805096918541
+23,"To obtain a position where Teamwork, Integrity and Professionalism are a high standard in the Compan",7,110,Lead Data Scientist,Clockwork Solutions,"Austin, TX 78746",0.07441797072593866
+23,"To obtain a position where Teamwork, Integrity and Professionalism are a high standard in the Compan",8,92,Research Scientist I,Georgia State University,"Atlanta, GA",0.07390973282756774
+23,"To obtain a position where Teamwork, Integrity and Professionalism are a high standard in the Compan",9,169,Business Intelligence Specialist,"Facility Management Planners, Inc","San Diego, CA 92109",0.07101175451732127
+23,"To obtain a position where Teamwork, Integrity and Professionalism are a high standard in the Compan",10,137,Analyst - Optimization,The Boston Consulting Group,"Los Angeles, CA",0.06873368349134612
+24,Expertise EDA modeler. I like to learn what my data contains and how well I can model it depending o,1,40,"Data Science Specialist - Periscope, New Ventures",McKinsey & Company,"Atlanta, GA 30318 ",0.10950003349272965
+24,Expertise EDA modeler. I like to learn what my data contains and how well I can model it depending o,2,38,Data Scientist,OM Partners,"Atlanta, GA",0.0879957155626321
+24,Expertise EDA modeler. I like to learn what my data contains and how well I can model it depending o,3,157,Data Scientist,fractalanalytics,"Jersey City, NJ",0.08356714714129025
+24,Expertise EDA modeler. I like to learn what my data contains and how well I can model it depending o,4,42,Manager - Data Scientist ! Orlando!,Capgemini,"Atlanta, GA",0.07431738846139506
+24,Expertise EDA modeler. I like to learn what my data contains and how well I can model it depending o,5,73,Quantitative Analyst,GreenSky,"Atlanta, GA 30342 ",0.06888432879020424
+24,Expertise EDA modeler. I like to learn what my data contains and how well I can model it depending o,6,176,"Manager, Data Science - Consumer Payments",Amazon.com,"Seattle, WA",0.06784198361689923
+24,Expertise EDA modeler. I like to learn what my data contains and how well I can model it depending o,7,169,Business Intelligence Specialist,"Facility Management Planners, Inc","San Diego, CA 92109",0.062377761296911104
+24,Expertise EDA modeler. I like to learn what my data contains and how well I can model it depending o,8,93,"Data Scientist - Senior Consultant - Orlando, Florida",Capgemini,"Atlanta, GA",0.062352672698847485
+24,Expertise EDA modeler. I like to learn what my data contains and how well I can model it depending o,9,36,Data Scientist,The Intersect Group,"Atlanta, GA 30328",0.06051603761373335
+24,Expertise EDA modeler. I like to learn what my data contains and how well I can model it depending o,10,25,Data Scientist,AirSage,"Atlanta, GA",0.05927270107840205
+25,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",1,98,Data Science Instructor,General Assembly,"Atlanta, GA",0.07896130102854013
+25,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",2,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.0704456404969254
+25,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",3,187,Front end Developer - Yahoo News,Oath Inc,"Sunnyvale, CA",0.05383116270697505
+25,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",4,112,HPC Software Engineer II,UCAR,"Boulder, CO",0.05062886587785535
+25,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",5,92,Research Scientist I,Georgia State University,"Atlanta, GA",0.04816499647947027
+25,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",6,107,Data Software Engineer,Kelvin,"Austin, TX",0.046593675492160966
+25,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",7,126,Computational Scientist,The University of Chicago,"Chicago, IL",0.046480863417763585
+25,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",8,79,"Technical Evangelist – Database, Analytics, and Machine Learning",Amazon.com,"Atlanta, GA",0.04618519506203758
+25,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",9,165,Principal Software Engineer,Microsoft,"Redmond, WA 98052",0.04583842280716473
+25,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",10,139,Research Analyst,"SHIELDS for Families, Inc.","Los Angeles, CA 90002",0.04558603145198885
+26,nan,1,184,Director of Analytics / Data Mining,Stride Search,"Sunnyvale, CA",0.08578071380011221
+26,nan,2,81,Director of Data Science,Prestige Staffing,"Atlanta, GA",0.07890974985577676
+26,nan,3,51,"Director, Data Scientist",KPMG,"Atlanta, GA 30338",0.07598265219268924
+26,nan,4,107,Data Software Engineer,Kelvin,"Austin, TX",0.07396491130799789
+26,nan,5,85,"Azure Data Scientist, Manager",KPMG,"Atlanta, GA 30338",0.0724750060536574
+26,nan,6,176,"Manager, Data Science - Consumer Payments",Amazon.com,"Seattle, WA",0.0699348733994703
+26,nan,7,26,Data Scientist 1 – AP Forensics Team,The Home Depot,"Atlanta, GA",0.0686436733267579
+26,nan,8,39,DATA SCIENTIST - SPACE OPTIMIZATION,The Home Depot,"Atlanta, GA",0.06850213709652826
+26,nan,9,119,Senior Account Executive,h2o.ai,"Boston, MA",0.06749400591215893
+26,nan,10,28,"Data Scientist, Online",The Home Depot,"Atlanta, GA",0.0633530939631171
+27,nan,1,161,Machine Learning Engineer/Deep Learning Engineer(Local only),BrickRed Systems,"Redmond, WA",0.11643043792136207
+27,nan,2,151,Machine Learning Engineer,Natero,"Mountain View, CA 94040",0.07063903151727596
+27,nan,3,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.06482549250073134
+27,nan,4,152,Machine Learning/Deep Learning Scientist,DNAnexus,"Mountain View, CA",0.06234892417291211
+27,nan,5,44,Lead Data Scientist,Norfolk Southern Corp,"Atlanta, GA 30309 ",0.050238214707240415
+27,nan,6,148,Software Developer,Cytobank Inc.,"Mountain View, CA 94040",0.050065546001546876
+27,nan,7,63,Machine Learning / Artificial Intelligence Research Scientist,Symantec,"Atlanta, GA 30338",0.04830901239230785
+27,nan,8,45,Senior Data Scientist,Norfolk Southern Corp,"Atlanta, GA 30309 ",0.044945412206545216
+27,nan,9,176,"Manager, Data Science - Consumer Payments",Amazon.com,"Seattle, WA",0.044877372654600366
+27,nan,10,22,Data Scientist,Norfolk Southern Corp,"Atlanta, GA 30309 ",0.04297765162438739
+28,nan,1,187,Front end Developer - Yahoo News,Oath Inc,"Sunnyvale, CA",0.0773870614781223
+28,nan,2,107,Data Software Engineer,Kelvin,"Austin, TX",0.07045513216855835
+28,nan,3,168,Machine Learning - Software Engineer / Scientist,Brain Corporation,"San Diego, CA",0.05938746748351329
+28,nan,4,110,Lead Data Scientist,Clockwork Solutions,"Austin, TX 78746",0.05933247940310384
+28,nan,5,17,Senior Mobile Developer (iOS/Android),Perficient,"Atlanta, GA 30338",0.05885413572904833
+28,nan,6,165,Principal Software Engineer,Microsoft,"Redmond, WA 98052",0.05866459399139447
+28,nan,7,61,Data Engineer,Gallup,"Atlanta, GA",0.058623208648384946
+28,nan,8,29,Data Scientist - CONSULTANT Level - ORLANDO FLORIDA - We will help Relocate,Capgemini,"Atlanta, GA",0.055768311043269264
+28,nan,9,42,Manager - Data Scientist ! Orlando!,Capgemini,"Atlanta, GA",0.05568669634685657
+28,nan,10,46,"Data Scientist - Consultant Level - Orlando, Florida - we will assist with relocation",Capgemini,"Atlanta, GA",0.05554456540357336
+29,nan,1,161,Machine Learning Engineer/Deep Learning Engineer(Local only),BrickRed Systems,"Redmond, WA",0.11217394914383033
+29,nan,2,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.08386899443929137
+29,nan,3,36,Data Scientist,The Intersect Group,"Atlanta, GA 30328",0.07766783464158111
+29,nan,4,63,Machine Learning / Artificial Intelligence Research Scientist,Symantec,"Atlanta, GA 30338",0.0739514539750741
+29,nan,5,180,Data Scientist,CyberCube Analytics,"San Francisco, CA",0.07368679564806979
+29,nan,6,170,Translational Scientist,Viome,"San Diego, CA",0.06971454994600351
+29,nan,7,94,Lead R & D Engineer/Scientist,Honeywell,"Atlanta, GA 30308 ",0.06941853124729783
+29,nan,8,152,Machine Learning/Deep Learning Scientist,DNAnexus,"Mountain View, CA",0.0667970339922532
+29,nan,9,98,Data Science Instructor,General Assembly,"Atlanta, GA",0.06582806158519797
+29,nan,10,168,Machine Learning - Software Engineer / Scientist,Brain Corporation,"San Diego, CA",0.06517569846699353
+30,I want to join a role where I can experiment and learn with new types of data and increase my abilit,1,161,Machine Learning Engineer/Deep Learning Engineer(Local only),BrickRed Systems,"Redmond, WA",0.09936702897141736
+30,I want to join a role where I can experiment and learn with new types of data and increase my abilit,2,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.09774803750380871
+30,I want to join a role where I can experiment and learn with new types of data and increase my abilit,3,63,Machine Learning / Artificial Intelligence Research Scientist,Symantec,"Atlanta, GA 30338",0.09209143531670252
+30,I want to join a role where I can experiment and learn with new types of data and increase my abilit,4,94,Lead R & D Engineer/Scientist,Honeywell,"Atlanta, GA 30308 ",0.0838689771661668
+30,I want to join a role where I can experiment and learn with new types of data and increase my abilit,5,186,Machine Learning Scientist,Stride Search,"Sunnyvale, CA",0.07848417040942532
+30,I want to join a role where I can experiment and learn with new types of data and increase my abilit,6,28,"Data Scientist, Online",The Home Depot,"Atlanta, GA",0.07630860853008539
+30,I want to join a role where I can experiment and learn with new types of data and increase my abilit,7,170,Translational Scientist,Viome,"San Diego, CA",0.07495039713707471
+30,I want to join a role where I can experiment and learn with new types of data and increase my abilit,8,172,Research Scientist - Deep Learning,CuraCloud Corporation,"Seattle, WA 98104",0.07399825926331903
+30,I want to join a role where I can experiment and learn with new types of data and increase my abilit,9,165,Principal Software Engineer,Microsoft,"Redmond, WA 98052",0.06630942681886755
+30,I want to join a role where I can experiment and learn with new types of data and increase my abilit,10,157,Data Scientist,fractalanalytics,"Jersey City, NJ",0.06440373325272575
+31,"Computer Science graduate with 2+ years of experience in systems management, information technology,",1,61,Data Engineer,Gallup,"Atlanta, GA",0.08405306621832027
+31,"Computer Science graduate with 2+ years of experience in systems management, information technology,",2,178,Data Scientist - CA,Bind Benefits,"San Francisco, CA 94103",0.0834927270059559
+31,"Computer Science graduate with 2+ years of experience in systems management, information technology,",3,169,Business Intelligence Specialist,"Facility Management Planners, Inc","San Diego, CA 92109",0.07968075455088326
+31,"Computer Science graduate with 2+ years of experience in systems management, information technology,",4,133,Scientist (Contingent),Davis Defense Group,"Washington, DC",0.0730027029575984
+31,"Computer Science graduate with 2+ years of experience in systems management, information technology,",5,87,"Data Engineer, Scala",CapTech Consulting,"Atlanta, GA",0.07141598704321277
+31,"Computer Science graduate with 2+ years of experience in systems management, information technology,",6,168,Machine Learning - Software Engineer / Scientist,Brain Corporation,"San Diego, CA",0.07057377706717669
+31,"Computer Science graduate with 2+ years of experience in systems management, information technology,",7,165,Principal Software Engineer,Microsoft,"Redmond, WA 98052",0.06969822390797428
+31,"Computer Science graduate with 2+ years of experience in systems management, information technology,",8,162,Senior Engineering Architect,Microsoft,"Redmond, WA 98052",0.06504758523555323
+31,"Computer Science graduate with 2+ years of experience in systems management, information technology,",9,59,Senior Cyber Security Data Scientist,Bank of America,"Atlanta, GA 30306 ",0.06323429710876119
+31,"Computer Science graduate with 2+ years of experience in systems management, information technology,",10,143,Informatics Associate,"Decibel Therapeutics, Inc.","Cambridge, MA",0.06322358788691322
+32,nan,1,169,Business Intelligence Specialist,"Facility Management Planners, Inc","San Diego, CA 92109",0.08095748142578235
+32,nan,2,153,Senior Data Scientist,JD.com,"Mountain View, CA",0.07910260146485674
+32,nan,3,74,DATA ANALYST SUPPLY CHAIN,The Home Depot,"Atlanta, GA",0.06706072128092201
+32,nan,4,87,"Data Engineer, Scala",CapTech Consulting,"Atlanta, GA",0.06619218456481946
+32,nan,5,159,Data Analyst / Data Scientist,Defined Clarity,"New York, NY",0.06524004437338951
+32,nan,6,10,STATISTICAL FORECAST ANALYST,The Home Depot,"Atlanta, GA",0.0652319640444738
+32,nan,7,38,Data Scientist,OM Partners,"Atlanta, GA",0.06254755114229078
+32,nan,8,130,Supply Chain Data Science Manager,Accenture,"Washington, DC 20006",0.06203419915462129
+32,nan,9,143,Informatics Associate,"Decibel Therapeutics, Inc.","Cambridge, MA",0.06190506988302815
+32,nan,10,129,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.059428853569010245
+33,nan,1,34,Data Scientist,SalesLoft,"Atlanta, GA",0.09221643915151648
+33,nan,2,27,Data Scientist - ICL,Georgia Tech Research Institute,"Atlanta, GA 30318 ",0.06987611009123833
+33,nan,3,188,Senior Machine Learning Research Scientist,Baidu USA,"Sunnyvale, CA 94089",0.06642662781003676
+33,nan,4,178,Data Scientist - CA,Bind Benefits,"San Francisco, CA 94103",0.06357236038398197
+33,nan,5,85,"Azure Data Scientist, Manager",KPMG,"Atlanta, GA 30338",0.0635395805906996
+33,nan,6,81,Director of Data Science,Prestige Staffing,"Atlanta, GA",0.06306330064244821
+33,nan,7,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.06142081140567689
+33,nan,8,148,Software Developer,Cytobank Inc.,"Mountain View, CA 94040",0.05953905580134634
+33,nan,9,151,Machine Learning Engineer,Natero,"Mountain View, CA 94040",0.0573446966871956
+33,nan,10,51,"Director, Data Scientist",KPMG,"Atlanta, GA 30338",0.05540141940699723
+34,nan,1,1,An Ostentatiously-Excitable Principal Research Assistant to Chief Scientist,The Hexagon Lavish,"Atlanta, GA",0.06981269788660709
+34,nan,2,101,An Ostentatiously-Excitable Principal Research Assistant to Chief Scientist,The Hexagon Lavish,"Atlanta, GA",0.06981269788660709
+34,nan,3,159,Data Analyst / Data Scientist,Defined Clarity,"New York, NY",0.06600728063045834
+34,nan,4,143,Informatics Associate,"Decibel Therapeutics, Inc.","Cambridge, MA",0.0463822666649518
+34,nan,5,67,"Scientist, Asst Bioinformatics",Emory University,"Atlanta, GA",0.0445357664157371
+34,nan,6,188,Senior Machine Learning Research Scientist,Baidu USA,"Sunnyvale, CA 94089",0.04260032378131694
+34,nan,7,13,Assistant Scientist (AR) SOM,Emory University,"Atlanta, GA",0.0419749306297764
+34,nan,8,61,Data Engineer,Gallup,"Atlanta, GA",0.041375041794033555
+34,nan,9,92,Research Scientist I,Georgia State University,"Atlanta, GA",0.04126517832025145
+34,nan,10,87,"Data Engineer, Scala",CapTech Consulting,"Atlanta, GA",0.039468406457046246
+35,I am an assistant software engineer working on cloud-based solutions. After working on a couple of M,1,161,Machine Learning Engineer/Deep Learning Engineer(Local only),BrickRed Systems,"Redmond, WA",0.07306489383842808
+35,I am an assistant software engineer working on cloud-based solutions. After working on a couple of M,2,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.07269855158509754
+35,I am an assistant software engineer working on cloud-based solutions. After working on a couple of M,3,151,Machine Learning Engineer,Natero,"Mountain View, CA 94040",0.0708708553262714
+35,I am an assistant software engineer working on cloud-based solutions. After working on a couple of M,4,107,Data Software Engineer,Kelvin,"Austin, TX",0.06777737930000134
+35,I am an assistant software engineer working on cloud-based solutions. After working on a couple of M,5,143,Informatics Associate,"Decibel Therapeutics, Inc.","Cambridge, MA",0.06539346937357027
+35,I am an assistant software engineer working on cloud-based solutions. After working on a couple of M,6,79,"Technical Evangelist – Database, Analytics, and Machine Learning",Amazon.com,"Atlanta, GA",0.05459365412336692
+35,I am an assistant software engineer working on cloud-based solutions. After working on a couple of M,7,5,Manager of Data Engineering,McKinsey & Company,"Atlanta, GA 30318 ",0.054526488476276724
+35,I am an assistant software engineer working on cloud-based solutions. After working on a couple of M,8,105,Manager of Data Engineering,McKinsey & Company,"Atlanta, GA 30318 ",0.054526488476276724
+35,I am an assistant software engineer working on cloud-based solutions. After working on a couple of M,9,152,Machine Learning/Deep Learning Scientist,DNAnexus,"Mountain View, CA",0.05332515977976416
+35,I am an assistant software engineer working on cloud-based solutions. After working on a couple of M,10,188,Senior Machine Learning Research Scientist,Baidu USA,"Sunnyvale, CA 94089",0.05130762740627165
+36,Post Graduate Analyst experienced in Business Management and Statistical Analysis. I have a very goo,1,34,Data Scientist,SalesLoft,"Atlanta, GA",0.10302147321219483
+36,Post Graduate Analyst experienced in Business Management and Statistical Analysis. I have a very goo,2,158,Data Scientist,Blackboard Insurance,"New York, NY",0.10005088462016254
+36,Post Graduate Analyst experienced in Business Management and Statistical Analysis. I have a very goo,3,177,Research Scientist - Amazon Restaurants,Amazon.com,"Seattle, WA",0.08947944134911505
+36,Post Graduate Analyst experienced in Business Management and Statistical Analysis. I have a very goo,4,110,Lead Data Scientist,Clockwork Solutions,"Austin, TX 78746",0.0883963587600711
+36,Post Graduate Analyst experienced in Business Management and Statistical Analysis. I have a very goo,5,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.08262727241220433
+36,Post Graduate Analyst experienced in Business Management and Statistical Analysis. I have a very goo,6,124,Senior Data Analyst,NORC at the University of Chicago,"Chicago, IL",0.08094118626364973
+36,Post Graduate Analyst experienced in Business Management and Statistical Analysis. I have a very goo,7,19,Data Scientist,Inspire Brands,"Atlanta, GA",0.07418474450107496
+36,Post Graduate Analyst experienced in Business Management and Statistical Analysis. I have a very goo,8,176,"Manager, Data Science - Consumer Payments",Amazon.com,"Seattle, WA",0.07210985103601573
+36,Post Graduate Analyst experienced in Business Management and Statistical Analysis. I have a very goo,9,181,Data Scientist - Biostatistics,The Climate Corporation,"San Francisco, CA",0.07042998741314963
+36,Post Graduate Analyst experienced in Business Management and Statistical Analysis. I have a very goo,10,157,Data Scientist,fractalanalytics,"Jersey City, NJ",0.06922299184459595
+37,I am Data science enthusiast focused on solving complex problems using machine learning techniques. ,1,34,Data Scientist,SalesLoft,"Atlanta, GA",0.08267077089795372
+37,I am Data science enthusiast focused on solving complex problems using machine learning techniques. ,2,6,"Product Specialist - Periscope, New Ventures",McKinsey & Company,"Atlanta, GA 30318 ",0.08068099858203913
+37,I am Data science enthusiast focused on solving complex problems using machine learning techniques. ,3,98,Data Science Instructor,General Assembly,"Atlanta, GA",0.07338792802554024
+37,I am Data science enthusiast focused on solving complex problems using machine learning techniques. ,4,129,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.07121850390783378
+37,I am Data science enthusiast focused on solving complex problems using machine learning techniques. ,5,151,Machine Learning Engineer,Natero,"Mountain View, CA 94040",0.07057604287925077
+37,I am Data science enthusiast focused on solving complex problems using machine learning techniques. ,6,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.06784491040720599
+37,I am Data science enthusiast focused on solving complex problems using machine learning techniques. ,7,90,Data & Analytics Developer,SunTrust,"Atlanta, GA",0.06551987339054167
+37,I am Data science enthusiast focused on solving complex problems using machine learning techniques. ,8,174,Head Data Scientist,All-In Analytics,"Seattle, WA",0.06031028759688823
+37,I am Data science enthusiast focused on solving complex problems using machine learning techniques. ,9,85,"Azure Data Scientist, Manager",KPMG,"Atlanta, GA 30338",0.060160668882172676
+37,I am Data science enthusiast focused on solving complex problems using machine learning techniques. ,10,158,Data Scientist,Blackboard Insurance,"New York, NY",0.05986457159643112
+38,nan,1,120,Marketing Information Analytics Coordinator,VHB,"Boston, MA 02110",0.086514117340532
+38,nan,2,109,"Research Engineering/ Scientist Associate II - Research Associate, Data Integration Team, Department of Population Health",University of Texas at Austin,"Austin, TX",0.08334664178078005
+38,nan,3,178,Data Scientist - CA,Bind Benefits,"San Francisco, CA 94103",0.07330056750746212
+38,nan,4,47,Flight Safety Data Analysis Fall Co-Op,Delta Air Lines,"Atlanta, GA",0.06946533674587295
+38,nan,5,90,Data & Analytics Developer,SunTrust,"Atlanta, GA",0.06280936369082367
+38,nan,6,159,Data Analyst / Data Scientist,Defined Clarity,"New York, NY",0.05936795591528578
+38,nan,7,87,"Data Engineer, Scala",CapTech Consulting,"Atlanta, GA",0.05181940596831355
+38,nan,8,165,Principal Software Engineer,Microsoft,"Redmond, WA 98052",0.05168717533094042
+38,nan,9,92,Research Scientist I,Georgia State University,"Atlanta, GA",0.05019367567330422
+38,nan,10,39,DATA SCIENTIST - SPACE OPTIMIZATION,The Home Depot,"Atlanta, GA",0.04900522758417059
+39,nan,1,73,Quantitative Analyst,GreenSky,"Atlanta, GA 30342 ",0.07202175343475177
+39,nan,2,157,Data Scientist,fractalanalytics,"Jersey City, NJ",0.05432396511150191
+39,nan,3,109,"Research Engineering/ Scientist Associate II - Research Associate, Data Integration Team, Department of Population Health",University of Texas at Austin,"Austin, TX",0.04884724456161932
+39,nan,4,38,Data Scientist,OM Partners,"Atlanta, GA",0.04576833955683849
+39,nan,5,59,Senior Cyber Security Data Scientist,Bank of America,"Atlanta, GA 30306 ",0.045618101654689734
+39,nan,6,125,Developer / Quantitative Analyst (Entry Level) - Chicago,DV Trading LLC,"Chicago, IL 60642",0.04543102962428377
+39,nan,7,119,Senior Account Executive,h2o.ai,"Boston, MA",0.041711380351638
+39,nan,8,70,"Analyst, Research",Turner,"Atlanta, GA 30319",0.038627084101287894
+39,nan,9,42,Manager - Data Scientist ! Orlando!,Capgemini,"Atlanta, GA",0.03843431744662111
+39,nan,10,189,Sr. SDTM Programmer,"Pharmacyclics, an Abbvie Company","Sunnyvale, CA",0.0377161680072658
+40,nan,1,137,Analyst - Optimization,The Boston Consulting Group,"Los Angeles, CA",0.06433124234266932
+40,nan,2,92,Research Scientist I,Georgia State University,"Atlanta, GA",0.0640280813577075
+40,nan,3,109,"Research Engineering/ Scientist Associate II - Research Associate, Data Integration Team, Department of Population Health",University of Texas at Austin,"Austin, TX",0.06136117082145417
+40,nan,4,6,"Product Specialist - Periscope, New Ventures",McKinsey & Company,"Atlanta, GA 30318 ",0.06051503515045444
+40,nan,5,140,Additive Materials and Process Scientist,Divergent 3D,"Los Angeles, CA",0.05864022779311425
+40,nan,6,110,Lead Data Scientist,Clockwork Solutions,"Austin, TX 78746",0.05802833885500917
+40,nan,7,43,Scientist II,The Coca-Cola Company,"Atlanta, GA 30301 ",0.05792568358925472
+40,nan,8,47,Flight Safety Data Analysis Fall Co-Op,Delta Air Lines,"Atlanta, GA",0.05577150758214218
+40,nan,9,118,Robotics and Automation – Research Analyst,Lux Research Inc,"Boston, MA",0.05421656847768214
+40,nan,10,20,Senior Electrical Engineer,Burns & McDonnell,"Atlanta, GA 30309 ",0.05280433454198243
+41,Machine Learning engineer who has worked on multiple projects with knowledge in big data handling an,1,161,Machine Learning Engineer/Deep Learning Engineer(Local only),BrickRed Systems,"Redmond, WA",0.14266961577352968
+41,Machine Learning engineer who has worked on multiple projects with knowledge in big data handling an,2,151,Machine Learning Engineer,Natero,"Mountain View, CA 94040",0.09497219672538865
+41,Machine Learning engineer who has worked on multiple projects with knowledge in big data handling an,3,59,Senior Cyber Security Data Scientist,Bank of America,"Atlanta, GA 30306 ",0.09425181198284555
+41,Machine Learning engineer who has worked on multiple projects with knowledge in big data handling an,4,63,Machine Learning / Artificial Intelligence Research Scientist,Symantec,"Atlanta, GA 30338",0.084613488266092
+41,Machine Learning engineer who has worked on multiple projects with knowledge in big data handling an,5,165,Principal Software Engineer,Microsoft,"Redmond, WA 98052",0.07778497275755496
+41,Machine Learning engineer who has worked on multiple projects with knowledge in big data handling an,6,28,"Data Scientist, Online",The Home Depot,"Atlanta, GA",0.07640825333545709
+41,Machine Learning engineer who has worked on multiple projects with knowledge in big data handling an,7,152,Machine Learning/Deep Learning Scientist,DNAnexus,"Mountain View, CA",0.07585693783517931
+41,Machine Learning engineer who has worked on multiple projects with knowledge in big data handling an,8,42,Manager - Data Scientist ! Orlando!,Capgemini,"Atlanta, GA",0.07562613040348441
+41,Machine Learning engineer who has worked on multiple projects with knowledge in big data handling an,9,29,Data Scientist - CONSULTANT Level - ORLANDO FLORIDA - We will help Relocate,Capgemini,"Atlanta, GA",0.07400632885337657
+41,Machine Learning engineer who has worked on multiple projects with knowledge in big data handling an,10,85,"Azure Data Scientist, Manager",KPMG,"Atlanta, GA 30338",0.07376455501419707
+42,"To design, develop and manage products in the field of consumer electronics devices, networking prot",1,168,Machine Learning - Software Engineer / Scientist,Brain Corporation,"San Diego, CA",0.12209585455550243
+42,"To design, develop and manage products in the field of consumer electronics devices, networking prot",2,165,Principal Software Engineer,Microsoft,"Redmond, WA 98052",0.10741647966775852
+42,"To design, develop and manage products in the field of consumer electronics devices, networking prot",3,107,Data Software Engineer,Kelvin,"Austin, TX",0.08946699601023034
+42,"To design, develop and manage products in the field of consumer electronics devices, networking prot",4,187,Front end Developer - Yahoo News,Oath Inc,"Sunnyvale, CA",0.08550543562403347
+42,"To design, develop and manage products in the field of consumer electronics devices, networking prot",5,17,Senior Mobile Developer (iOS/Android),Perficient,"Atlanta, GA 30338",0.07933245590310653
+42,"To design, develop and manage products in the field of consumer electronics devices, networking prot",6,162,Senior Engineering Architect,Microsoft,"Redmond, WA 98052",0.07720632144688444
+42,"To design, develop and manage products in the field of consumer electronics devices, networking prot",7,30,Senior Data Scientist,Catalina Marketing,"Atlanta, GA",0.07577200118842543
+42,"To design, develop and manage products in the field of consumer electronics devices, networking prot",8,94,Lead R & D Engineer/Scientist,Honeywell,"Atlanta, GA 30308 ",0.07022138620235488
+42,"To design, develop and manage products in the field of consumer electronics devices, networking prot",9,178,Data Scientist - CA,Bind Benefits,"San Francisco, CA 94103",0.06718034104418835
+42,"To design, develop and manage products in the field of consumer electronics devices, networking prot",10,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.06516331474681665
+43,A Software Designer Internship with a client-driven corporation leading the field of wireless commun,1,159,Data Analyst / Data Scientist,Defined Clarity,"New York, NY",0.11828928940157998
+43,A Software Designer Internship with a client-driven corporation leading the field of wireless commun,2,148,Software Developer,Cytobank Inc.,"Mountain View, CA 94040",0.10155725288655186
+43,A Software Designer Internship with a client-driven corporation leading the field of wireless commun,3,87,"Data Engineer, Scala",CapTech Consulting,"Atlanta, GA",0.10106990727900401
+43,A Software Designer Internship with a client-driven corporation leading the field of wireless commun,4,107,Data Software Engineer,Kelvin,"Austin, TX",0.08584606678589042
+43,A Software Designer Internship with a client-driven corporation leading the field of wireless commun,5,143,Informatics Associate,"Decibel Therapeutics, Inc.","Cambridge, MA",0.08154272146085657
+43,A Software Designer Internship with a client-driven corporation leading the field of wireless commun,6,17,Senior Mobile Developer (iOS/Android),Perficient,"Atlanta, GA 30338",0.07753647171274666
+43,A Software Designer Internship with a client-driven corporation leading the field of wireless commun,7,183,Data Scientist,Juvo,"San Francisco, CA",0.07134399228089629
+43,A Software Designer Internship with a client-driven corporation leading the field of wireless commun,8,129,Data Scientist,RCG Holdings LLC,"Chicago, IL 60606",0.0672899597788119
+43,A Software Designer Internship with a client-driven corporation leading the field of wireless commun,9,162,Senior Engineering Architect,Microsoft,"Redmond, WA 98052",0.0662006062248611
+43,A Software Designer Internship with a client-driven corporation leading the field of wireless commun,10,169,Business Intelligence Specialist,"Facility Management Planners, Inc","San Diego, CA 92109",0.06542285053404344
+44,nan,1,140,Additive Materials and Process Scientist,Divergent 3D,"Los Angeles, CA",0.10022724579393387
+44,nan,2,91,Product Development Scientist,The Coca-Cola Company,"Atlanta, GA 30301 ",0.05191865502236326
+44,nan,3,43,Scientist II,The Coca-Cola Company,"Atlanta, GA 30301 ",0.05191561543846503
+44,nan,4,110,Lead Data Scientist,Clockwork Solutions,"Austin, TX 78746",0.04303879844233086
+44,nan,5,65,Research Scientist,MacDermid Inc.,"Atlanta, GA",0.04247193366481274
+44,nan,6,165,Principal Software Engineer,Microsoft,"Redmond, WA 98052",0.03751603634958378
+44,nan,7,120,Marketing Information Analytics Coordinator,VHB,"Boston, MA 02110",0.0374933267836754
+44,nan,8,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.035619565976195755
+44,nan,9,83,SI CoE IoT Data Modeling Architect,Xylem,"Atlanta, GA",0.03526553782756757
+44,nan,10,56,Scientist I - Sensory Panel Leader,The Coca-Cola Company,"Atlanta, GA 30301 ",0.03479455100326518
+45,nan,1,178,Data Scientist - CA,Bind Benefits,"San Francisco, CA 94103",0.07539708096345503
+45,nan,2,163,"Principal Software Engineer, Azure Databricks",Microsoft,"Redmond, WA 98052",0.06568075184841458
+45,nan,3,87,"Data Engineer, Scala",CapTech Consulting,"Atlanta, GA",0.06436743783565506
+45,nan,4,159,Data Analyst / Data Scientist,Defined Clarity,"New York, NY",0.06354810553259156
+45,nan,5,36,Data Scientist,The Intersect Group,"Atlanta, GA 30328",0.056052264216936334
+45,nan,6,169,Business Intelligence Specialist,"Facility Management Planners, Inc","San Diego, CA 92109",0.05401567225675751
+45,nan,7,110,Lead Data Scientist,Clockwork Solutions,"Austin, TX 78746",0.050272105325942125
+45,nan,8,39,DATA SCIENTIST - SPACE OPTIMIZATION,The Home Depot,"Atlanta, GA",0.046972291410998
+45,nan,9,120,Marketing Information Analytics Coordinator,VHB,"Boston, MA 02110",0.045902274046333714
+45,nan,10,153,Senior Data Scientist,JD.com,"Mountain View, CA",0.04544654949106622
+46,nan,1,159,Data Analyst / Data Scientist,Defined Clarity,"New York, NY",0.10742093594700124
+46,nan,2,89,"Regulatory Labeling, Advertising and Promotion Scientist",UCB,"Atlanta, GA",0.10028919478045337
+46,nan,3,160,Market Research Analyst,Blueocean Market Intelligence,"Redmond, WA 98052",0.08926307355201839
+46,nan,4,122,Field Application Scientist - Boston,10x Genomics,"Boston, MA",0.07480389877467196
+46,nan,5,120,Marketing Information Analytics Coordinator,VHB,"Boston, MA 02110",0.07274553407410421
+46,nan,6,143,Informatics Associate,"Decibel Therapeutics, Inc.","Cambridge, MA",0.07010652811608888
+46,nan,7,81,Director of Data Science,Prestige Staffing,"Atlanta, GA",0.06886267452462186
+46,nan,8,19,Data Scientist,Inspire Brands,"Atlanta, GA",0.06492225837220932
+46,nan,9,105,Manager of Data Engineering,McKinsey & Company,"Atlanta, GA 30318 ",0.06478626665572249
+46,nan,10,5,Manager of Data Engineering,McKinsey & Company,"Atlanta, GA 30318 ",0.06478626665572249
+47,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",1,98,Data Science Instructor,General Assembly,"Atlanta, GA",0.08374417593073162
+47,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",2,185,Sr. Software Engineer - Machine Learning (PHD preferred),"Petuum, Inc","Sunnyvale, CA",0.06150966774649452
+47,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",3,187,Front end Developer - Yahoo News,Oath Inc,"Sunnyvale, CA",0.0575128328316009
+47,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",4,112,HPC Software Engineer II,UCAR,"Boulder, CO",0.056945513419684186
+47,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",5,126,Computational Scientist,The University of Chicago,"Chicago, IL",0.0543223071261839
+47,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",6,122,Field Application Scientist - Boston,10x Genomics,"Boston, MA",0.051934616265068186
+47,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",7,188,Senior Machine Learning Research Scientist,Baidu USA,"Sunnyvale, CA 94089",0.04861999350594743
+47,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",8,92,Research Scientist I,Georgia State University,"Atlanta, GA",0.04858833281957047
+47,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",9,169,Business Intelligence Specialist,"Facility Management Planners, Inc","San Diego, CA 92109",0.04798921629687215
+47,"Dedicated and well-rounded software engineer with a passion for math, computer science, and elite ed",10,165,Principal Software Engineer,Microsoft,"Redmond, WA 98052",0.046381890248738476
+48,nan,1,64,Statistical Quantitative Analyst,SunTrust,"Atlanta, GA",0.0653387143741059
+48,nan,2,149,Quantitative Researcher - AI and Machine Learning Specialist,American Century Investments,"Mountain View, CA 94043",0.06360795644518533
+48,nan,3,110,Lead Data Scientist,Clockwork Solutions,"Austin, TX 78746",0.05768109878657485
+48,nan,4,151,Machine Learning Engineer,Natero,"Mountain View, CA 94040",0.05525903621826878
+48,nan,5,169,Business Intelligence Specialist,"Facility Management Planners, Inc","San Diego, CA 92109",0.05476961719119823
+48,nan,6,173,Principal Data Scientist (Catalog Platform and Quality),Coupang,"Seattle, WA",0.052766853612134346
+48,nan,7,33,Scientist - Data Analysis,AMERICAN CANCER SOCIETY,"Atlanta, GA",0.052139896445528834
+48,nan,8,177,Research Scientist - Amazon Restaurants,Amazon.com,"Seattle, WA",0.05155536021984166
+48,nan,9,39,DATA SCIENTIST - SPACE OPTIMIZATION,The Home Depot,"Atlanta, GA",0.05150955857422594
+48,nan,10,157,Data Scientist,fractalanalytics,"Jersey City, NJ",0.05117737941033158
+49,I am fresher data analyst starting out in ERP and MIS. As a fresher I am looking for roles specific ,1,169,Business Intelligence Specialist,"Facility Management Planners, Inc","San Diego, CA 92109",0.10453854656430579
+49,I am fresher data analyst starting out in ERP and MIS. As a fresher I am looking for roles specific ,2,42,Manager - Data Scientist ! Orlando!,Capgemini,"Atlanta, GA",0.08861874799278587
+49,I am fresher data analyst starting out in ERP and MIS. As a fresher I am looking for roles specific ,3,93,"Data Scientist - Senior Consultant - Orlando, Florida",Capgemini,"Atlanta, GA",0.08703025773970291
+49,I am fresher data analyst starting out in ERP and MIS. As a fresher I am looking for roles specific ,4,55,Lead Decision Scientist,"Moxie Interactive, Inc.","Atlanta, GA 30313 ",0.08603245520600185
+49,I am fresher data analyst starting out in ERP and MIS. As a fresher I am looking for roles specific ,5,58,Lead Decision Scientist,Moxie,"Atlanta, GA",0.08575322023335244
+49,I am fresher data analyst starting out in ERP and MIS. As a fresher I am looking for roles specific ,6,29,Data Scientist - CONSULTANT Level - ORLANDO FLORIDA - We will help Relocate,Capgemini,"Atlanta, GA",0.08371849780326801
+49,I am fresher data analyst starting out in ERP and MIS. As a fresher I am looking for roles specific ,7,46,"Data Scientist - Consultant Level - Orlando, Florida - we will assist with relocation",Capgemini,"Atlanta, GA",0.08342814073540698
+49,I am fresher data analyst starting out in ERP and MIS. As a fresher I am looking for roles specific ,8,74,DATA ANALYST SUPPLY CHAIN,The Home Depot,"Atlanta, GA",0.07864379042921077
+49,I am fresher data analyst starting out in ERP and MIS. As a fresher I am looking for roles specific ,9,94,Lead R & D Engineer/Scientist,Honeywell,"Atlanta, GA 30308 ",0.07735666099766636
+49,I am fresher data analyst starting out in ERP and MIS. As a fresher I am looking for roles specific ,10,38,Data Scientist,OM Partners,"Atlanta, GA",0.07520894688741556
