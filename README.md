@@ -1,4 +1,4 @@
-# CV - İş İlanı Eşleştirme Sistemi
+## CV - İş İlanı Eşleştirme Sistemi
 
 BLM4514 Özel Konular dersi dönem projesi.
 
